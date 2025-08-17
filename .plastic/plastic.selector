@@ -1,0 +1,4 @@
+repository "SpaceWar@thanbin356@cloud"
+  path "/"
+    br "/main"
+    co "/main"

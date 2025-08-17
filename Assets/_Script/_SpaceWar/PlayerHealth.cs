@@ -1,0 +1,80 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEditor.U2D.Aseprite;
+using UnityEngine;
+
+public class PlayerHealth : MonoBehaviour, IDamageable
+{
+    public float HealthTime;
+    float damage = 3;
+    public float maxHealth;
+    private float currentHealth;
+    private Animator animator;
+    private Rigidbody2D rb;
+    private Collider2D col;
+
+    public float Health
+    {
+        set
+        {
+            currentHealth = Mathf.Clamp(value, 0, maxHealth);
+            if (currentHealth > 0)
+            {
+                animator.SetTrigger("TakeDmg");
+            }
+            if (currentHealth <= 0)
+            {
+                Defeated();
+            }
+        }
+        get
+        {
+            return currentHealth;
+        }
+    }
+    public void Defeated()
+    {
+        animator.Play("Spaceship_Explore");
+        Destroyer();
+    }
+    float IDamageable.Health { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+    public void Heal(float amount)
+    {
+        Health = Mathf.Min(currentHealth + amount, maxHealth);
+    }
+
+    public void OnHit(float damage)
+    {
+        Health -= damage;
+        gameObject.tag = "Untagged";
+        HealthTime = Time.time +3f;
+    }
+    public void Destroyer()
+    {
+        Destroy(gameObject, 1f);
+    }    
+    void Start()
+    {
+        currentHealth = maxHealth;
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        col = GetComponent<Collider2D>();
+    }
+    public void OnTriggerEnter2D(Collider2D col)
+    {
+        IDamageable idamageable = col.GetComponent<IDamageable>();
+        if (idamageable != null && col.tag == "Enemy")
+        {
+            idamageable.OnHit(damage);
+        }
+    }
+    void Update()
+    {
+        if (gameObject.tag == "Untagged" && Time.time >= HealthTime){
+            gameObject.tag = "Player";
+            Debug.Log("Har ");
+        }
+    }
+}
