@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class TImeBetweenSpawn : MonoBehaviour
+public class SpawnWave : MonoBehaviour
 {
     public GameObject[] spawnTurns;
     private int turn = 0;
@@ -14,16 +12,18 @@ public class TImeBetweenSpawn : MonoBehaviour
 
     void ActivateTurn(int index)
     {
-        // Tắt hết turn
+        // Tắt hết turn trước đó
         foreach (var obj in spawnTurns)
             obj.SetActive(false);
 
-        // Bật turn hiện tại
-        spawnTurns[index].SetActive(true);
-        Debug.Log($"Turn {index + 1}");
+        for (int i = index; i < index + 3 && i < spawnTurns.Length; i++)
+        {
+            spawnTurns[i].SetActive(true);
+        }
+
+        Debug.Log($"Turn {index + 1} → bật 3 turn");
     }
 
-    // Hàm này được gọi khi 1 turn hoàn thành
     public void OnTurnFinished()
     {
         turn++;
@@ -33,7 +33,7 @@ public class TImeBetweenSpawn : MonoBehaviour
         }
         else
         {
-            Debug.Log("All turns finished!");
+            gameObject.SetActive(false);
         }
     }
 }

@@ -48,12 +48,22 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     {
         Health -= damage;
         gameObject.tag = "Untagged";
-        HealthTime = Time.time +3f;
+        HealthTime = Time.time + 10f;
+    }
+
+    public void EnableShield()
+    {
+        animator.Play("Spaceship_Shield");
+    }
+    public void BackToIdle()
+    {
+        gameObject.tag = "Player";
+        animator.Play("SpaceShip_Idle");
     }
     public void Destroyer()
     {
         Destroy(gameObject, 1f);
-    }    
+    }
     void Start()
     {
         currentHealth = maxHealth;
@@ -72,9 +82,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     }
     void Update()
     {
-        if (gameObject.tag == "Untagged" && Time.time >= HealthTime){
-            gameObject.tag = "Player";
-            Debug.Log("Har ");
+        if (gameObject.tag == "Untagged" && Time.time >= HealthTime)
+        {
+            animator.Play("Spaceship_ShieldEnd");
         }
     }
 }

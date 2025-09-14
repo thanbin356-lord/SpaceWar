@@ -32,6 +32,7 @@ Transform:
   m_Children:
   - {fileID: 696508866825468660}
   - {fileID: 3385643836283791717}
+  - {fileID: 2643787087190044772}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8847988499735118709
@@ -46,10 +47,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c7f728f487baa447955a3d7e786c1d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnTurn1: {fileID: 2004917826992558743}
-  SpawnTurn2: {fileID: 6597641848930522321}
-  TimeNextTurnSpawn: 45
-  RateInSeconds: 45
+  spawnTurns:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &2004917826992558743
 GameObject:
   m_ObjectHideFlags: 0
@@ -94,8 +95,62 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 380430498828fba409926ec2363f119d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyGO: {fileID: 7995138656162732985, guid: dc800ea9fdf95ee4198e817b60273e45, type: 3}
-  maxSpawnRateInSeconds: 8
+  enemyPrefab: {fileID: 0}
+  timeBetweenWaves: 150
+  enemiesPerWave: 5
+  fallSpeed: 2
+--- !u!1 &3529656952270760087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2643787087190044772}
+  - component: {fileID: 6903336136366447197}
+  m_Layer: 0
+  m_Name: Spawn3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2643787087190044772
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529656952270760087}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4919640005917588011}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6903336136366447197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529656952270760087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a76b35817763ad642b30755e6881d27a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 5494781726967542038, guid: da972a76f4b6e89418f13ab51f3cc497, type: 3}
+  - {fileID: 5574385440341271923, guid: d1def74219d590841ad4eb8f31449f7b, type: 3}
+  - {fileID: 8537757021464914307, guid: 404a5b13b7e8e0b4b8ef8ef862b76489, type: 3}
+  - {fileID: 700820605658407801, guid: ce406708168f6bf4dbcc0f7d4adae0e3, type: 3}
+  - {fileID: 5614039646782430255, guid: 46ce491f019954543ab4b55cb3af0449, type: 3}
+  enemyCount: 200
+  spawnDelay: 0.2
 --- !u!1 &6597641848930522321
 GameObject:
   m_ObjectHideFlags: 0
@@ -140,5 +195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 380430498828fba409926ec2363f119d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyGO: {fileID: 891332512538785649, guid: 72e2c2a1959e3bd44bf946bb8ae5048c, type: 3}
-  maxSpawnRateInSeconds: 8
+  enemyPrefab: {fileID: 0}
+  timeBetweenWaves: 150
+  enemiesPerWave: 5
+  fallSpeed: 2

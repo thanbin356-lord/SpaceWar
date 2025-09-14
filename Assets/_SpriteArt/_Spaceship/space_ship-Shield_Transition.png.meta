@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 5aa1cee6ff3333e459e1e04bfc7484a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4235180432859187429
+    second: space_ship-Shield_Transition_0
+  - first:
+      213: -5366745245633321494
+    second: space_ship-Shield_Transition_1
+  - first:
+      213: -4290541607109514056
+    second: space_ship-Shield_Transition_2
+  - first:
+      213: -922185008549698866
+    second: space_ship-Shield_Transition_3
+  - first:
+      213: -5139280371870457711
+    second: space_ship-Shield_Transition_4
+  - first:
+      213: -8871076763269813738
+    second: space_ship-Shield_Transition_5
+  - first:
+      213: -373052723151501879
+    second: space_ship-Shield_Transition_6
+  - first:
+      213: -4949518421146610080
+    second: space_ship-Shield_Transition_7
+  - first:
+      213: -3481517415773552138
+    second: space_ship-Shield_Transition_8
+  - first:
+      213: -73431901800121125
+    second: space_ship-Shield_Transition_9
+  - first:
+      213: -423603209585848073
+    second: space_ship-Shield_Transition_10
+  - first:
+      213: 7535573991244836910
+    second: space_ship-Shield_Transition_11
+  - first:
+      213: 8659593177548881439
+    second: space_ship-Shield_Transition_12
+  - first:
+      213: -4618688210871719900
+    second: space_ship-Shield_Transition_13
+  - first:
+      213: -8545615272865803123
+    second: space_ship-Shield_Transition_14
+  - first:
+      213: -4265782859680625042
+    second: space_ship-Shield_Transition_15
+  - first:
+      213: 3627017958148292147
+    second: space_ship-Shield_Transition_16
+  - first:
+      213: -3895137897349249879
+    second: space_ship-Shield_Transition_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_0
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 699
+        width: 712
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b173eb3d5dd9935c0800000000000000
+      internalID: -4235180432859187429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_1
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 709
+        width: 712
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5620222ad7585b0800000000000000
+      internalID: -5366745245633321494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_2
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 699
+        width: 712
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc243ef32fe474c0800000000000000
+      internalID: -4290541607109514056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_3
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 689
+        width: 712
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec26434ee9db333f0800000000000000
+      internalID: -922185008549698866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_4
+      rect:
+        serializedVersion: 2
+        x: 8629
+        y: 659
+        width: 712
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19026891bbb9da8b0800000000000000
+      internalID: -5139280371870457711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_5
+      rect:
+        serializedVersion: 2
+        x: 10599
+        y: 679
+        width: 772
+        height: 722
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa41e4faa93e480800000000000000
+      internalID: -8871076763269813738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_6
+      rect:
+        serializedVersion: 2
+        x: 12479
+        y: 569
+        width: 962
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5001a5686a2daf0800000000000000
+      internalID: -373052723151501879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_7
+      rect:
+        serializedVersion: 2
+        x: 14459
+        y: 1179
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066dd4a3837cf4bb0800000000000000
+      internalID: -4949518421146610080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_8
+      rect:
+        serializedVersion: 2
+        x: 14521
+        y: 599
+        width: 912
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f14b713b5a2fafc0800000000000000
+      internalID: -3481517415773552138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_9
+      rect:
+        serializedVersion: 2
+        x: 16439
+        y: 1179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcb50a031e1bfef0800000000000000
+      internalID: -73431901800121125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_10
+      rect:
+        serializedVersion: 2
+        x: 16529
+        y: 589
+        width: 922
+        height: 882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f09bee002f0f1af0800000000000000
+      internalID: -423603209585848073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_11
+      rect:
+        serializedVersion: 2
+        x: 14459
+        y: 1129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2032deae9cb39860800000000000000
+      internalID: 7535573991244836910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_12
+      rect:
+        serializedVersion: 2
+        x: 14479
+        y: 1029
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e723f4d1e0d2870800000000000000
+      internalID: 8659593177548881439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_13
+      rect:
+        serializedVersion: 2
+        x: 16459
+        y: 1109
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e4b60b8f17efb0800000000000000
+      internalID: -4618688210871719900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_14
+      rect:
+        serializedVersion: 2
+        x: 16489
+        y: 1009
+        width: 22
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d845ea99f20e76980800000000000000
+      internalID: -8545615272865803123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_15
+      rect:
+        serializedVersion: 2
+        x: 15449
+        y: 969
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e49c71715ecc4c0800000000000000
+      internalID: -4265782859680625042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_16
+      rect:
+        serializedVersion: 2
+        x: 15179
+        y: 559
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e346dbd91c55230800000000000000
+      internalID: 3627017958148292147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_Transition_17
+      rect:
+        serializedVersion: 2
+        x: 17179
+        y: 539
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4065d38b0b1f9c0800000000000000
+      internalID: -3895137897349249879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5fadc0ea3aa1bf4d8149a4ec0afaabc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      space_ship-Shield_Transition_0: -4235180432859187429
+      space_ship-Shield_Transition_1: -5366745245633321494
+      space_ship-Shield_Transition_10: -423603209585848073
+      space_ship-Shield_Transition_11: 7535573991244836910
+      space_ship-Shield_Transition_12: 8659593177548881439
+      space_ship-Shield_Transition_13: -4618688210871719900
+      space_ship-Shield_Transition_14: -8545615272865803123
+      space_ship-Shield_Transition_15: -4265782859680625042
+      space_ship-Shield_Transition_16: 3627017958148292147
+      space_ship-Shield_Transition_17: -3895137897349249879
+      space_ship-Shield_Transition_2: -4290541607109514056
+      space_ship-Shield_Transition_3: -922185008549698866
+      space_ship-Shield_Transition_4: -5139280371870457711
+      space_ship-Shield_Transition_5: -8871076763269813738
+      space_ship-Shield_Transition_6: -373052723151501879
+      space_ship-Shield_Transition_7: -4949518421146610080
+      space_ship-Shield_Transition_8: -3481517415773552138
+      space_ship-Shield_Transition_9: -73431901800121125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

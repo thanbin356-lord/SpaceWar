@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: d8689ba5cfe01b54fa275d7258393c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4802377469273285781
+    second: Betritivor-Beelzlebug-trans 2_0
+  - first:
+      213: 3388134743503081750
+    second: Betritivor-Beelzlebug-trans 2_1
+  - first:
+      213: -3912467142722226664
+    second: Betritivor-Beelzlebug-trans 2_2
+  - first:
+      213: -9115311140342263454
+    second: Betritivor-Beelzlebug-trans 2_3
+  - first:
+      213: 5705794835334476636
+    second: Betritivor-Beelzlebug-trans 2_4
+  - first:
+      213: -8425421270659754768
+    second: Betritivor-Beelzlebug-trans 2_5
+  - first:
+      213: -4726993976332859357
+    second: Betritivor-Beelzlebug-trans 2_6
+  - first:
+      213: -6521080275734469574
+    second: Betritivor-Beelzlebug-trans 2_7
+  - first:
+      213: 466794557706782031
+    second: Betritivor-Beelzlebug-trans 2_8
+  - first:
+      213: -6316301467561514536
+    second: Betritivor-Beelzlebug-trans 2_9
+  - first:
+      213: 3823749544920078248
+    second: Betritivor-Beelzlebug-trans 2_10
+  - first:
+      213: -1057679862694539019
+    second: Betritivor-Beelzlebug-trans 2_11
+  - first:
+      213: 1685394886261700822
+    second: Betritivor-Beelzlebug-trans 2_12
+  - first:
+      213: -922072844871115110
+    second: Betritivor-Beelzlebug-trans 2_13
+  - first:
+      213: -3492963057282423236
+    second: Betritivor-Beelzlebug-trans 2_14
+  - first:
+      213: -6332814092913544936
+    second: Betritivor-Beelzlebug-trans 2_15
+  - first:
+      213: 626789942977867978
+    second: Betritivor-Beelzlebug-trans 2_16
+  - first:
+      213: -6504649224813651388
+    second: Betritivor-Beelzlebug-trans 2_17
+  - first:
+      213: 11415900971212074
+    second: Betritivor-Beelzlebug-trans 2_18
+  - first:
+      213: -5472546508447707982
+    second: Betritivor-Beelzlebug-trans 2_19
+  - first:
+      213: -5543019237359267759
+    second: Betritivor-Beelzlebug-trans 2_20
+  - first:
+      213: 6655512420361219438
+    second: Betritivor-Beelzlebug-trans 2_21
+  - first:
+      213: -2643800320498075681
+    second: Betritivor-Beelzlebug-trans 2_22
+  - first:
+      213: 700583895365316559
+    second: Betritivor-Beelzlebug-trans 2_23
+  - first:
+      213: -1987650562235363881
+    second: Betritivor-Beelzlebug-trans 2_24
+  - first:
+      213: -8826166704769301106
+    second: Betritivor-Beelzlebug-trans 2_25
+  - first:
+      213: -1875351531767268878
+    second: Betritivor-Beelzlebug-trans 2_26
+  - first:
+      213: 1483257193360003740
+    second: Betritivor-Beelzlebug-trans 2_27
+  - first:
+      213: -5697936341606998607
+    second: Betritivor-Beelzlebug-trans 2_28
+  - first:
+      213: -1190569046338731715
+    second: Betritivor-Beelzlebug-trans 2_29
+  - first:
+      213: 6752660635866062734
+    second: Betritivor-Beelzlebug-trans 2_30
+  - first:
+      213: -8750515711094822404
+    second: Betritivor-Beelzlebug-trans 2_31
+  - first:
+      213: 9056175749684424430
+    second: Betritivor-Beelzlebug-trans 2_32
+  - first:
+      213: -3527243511994317323
+    second: Betritivor-Beelzlebug-trans 2_33
+  - first:
+      213: -3060873908611949954
+    second: Betritivor-Beelzlebug-trans 2_34
+  - first:
+      213: -8950980219945965099
+    second: Betritivor-Beelzlebug-trans 2_35
+  - first:
+      213: 3991372905802207591
+    second: Betritivor-Beelzlebug-trans 2_36
+  - first:
+      213: 5570198952961823374
+    second: Betritivor-Beelzlebug-trans 2_37
+  - first:
+      213: -8454165740751886892
+    second: Betritivor-Beelzlebug-trans 2_38
+  - first:
+      213: 8930745969219322596
+    second: Betritivor-Beelzlebug-trans 2_39
+  - first:
+      213: -7388568679475479685
+    second: Betritivor-Beelzlebug-trans 2_40
+  - first:
+      213: -3529918495464737705
+    second: Betritivor-Beelzlebug-trans 2_41
+  - first:
+      213: 46410809036154743
+    second: Betritivor-Beelzlebug-trans 2_42
+  - first:
+      213: -2074131197738093369
+    second: Betritivor-Beelzlebug-trans 2_43
+  - first:
+      213: -5987447873374551986
+    second: Betritivor-Beelzlebug-trans 2_44
+  - first:
+      213: 4181957622412094312
+    second: Betritivor-Beelzlebug-trans 2_45
+  - first:
+      213: 7722821701390368253
+    second: Betritivor-Beelzlebug-trans 2_46
+  - first:
+      213: 5904052452357439004
+    second: Betritivor-Beelzlebug-trans 2_47
+  - first:
+      213: -950901231650778290
+    second: Betritivor-Beelzlebug-trans 2_48
+  - first:
+      213: 3886570690948976314
+    second: Betritivor-Beelzlebug-trans 2_49
+  - first:
+      213: 1812878609285197302
+    second: Betritivor-Beelzlebug-trans 2_50
+  - first:
+      213: -5177078794161672822
+    second: Betritivor-Beelzlebug-trans 2_51
+  - first:
+      213: 5758322318818279543
+    second: Betritivor-Beelzlebug-trans 2_52
+  - first:
+      213: 1262549080615914092
+    second: Betritivor-Beelzlebug-trans 2_53
+  - first:
+      213: 1648847487978503792
+    second: Betritivor-Beelzlebug-trans 2_54
+  - first:
+      213: 7338373604258117252
+    second: Betritivor-Beelzlebug-trans 2_55
+  - first:
+      213: -8349290941941541890
+    second: Betritivor-Beelzlebug-trans 2_56
+  - first:
+      213: 2965053842319147245
+    second: Betritivor-Beelzlebug-trans 2_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_0
+      rect:
+        serializedVersion: 2
+        x: 22679
+        y: 609
+        width: 642
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594af5d3dd875a240800000000000000
+      internalID: 4802377469273285781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_1
+      rect:
+        serializedVersion: 2
+        x: 24669
+        y: 1279
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61119ad1992150f20800000000000000
+      internalID: 3388134743503081750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_2
+      rect:
+        serializedVersion: 2
+        x: 24889
+        y: 1359
+        width: 222
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81677a2ecdf14b9c0800000000000000
+      internalID: -3912467142722226664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_3
+      rect:
+        serializedVersion: 2
+        x: 25169
+        y: 1279
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611db610d8ef7180800000000000000
+      internalID: -9115311140342263454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_4
+      rect:
+        serializedVersion: 2
+        x: 26689
+        y: 1339
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53be511c2e0f2f40800000000000000
+      internalID: 5705794835334476636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_5
+      rect:
+        serializedVersion: 2
+        x: 26889
+        y: 1359
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41e4f7ef3e21b80800000000000000
+      internalID: -8425421270659754768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_6
+      rect:
+        serializedVersion: 2
+        x: 27089
+        y: 1359
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c441f508566eb0800000000000000
+      internalID: -4726993976332859357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_7
+      rect:
+        serializedVersion: 2
+        x: 27219
+        y: 1339
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346a051a087085a0800000000000000
+      internalID: -6521080275734469574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 719
+        width: 342
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c2335d236a7600800000000000000
+      internalID: 466794557706782031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_9
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9a7bbc74df758a0800000000000000
+      internalID: -6316301467561514536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_10
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 709
+        width: 342
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d507b3ffa01530800000000000000
+      internalID: 3823749544920078248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_11
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0120ac4cd5251f0800000000000000
+      internalID: -1057679862694539019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_12
+      rect:
+        serializedVersion: 2
+        x: 8829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d873ed28b9b36710800000000000000
+      internalID: 1685394886261700822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_13
+      rect:
+        serializedVersion: 2
+        x: 10829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e5c6802a32433f0800000000000000
+      internalID: -922072844871115110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_14
+      rect:
+        serializedVersion: 2
+        x: 12829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c366e1d1b90868fc0800000000000000
+      internalID: -3492963057282423236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_15
+      rect:
+        serializedVersion: 2
+        x: 14829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811fc4b92235d18a0800000000000000
+      internalID: -6332814092913544936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_16
+      rect:
+        serializedVersion: 2
+        x: 16829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0bbfbd12ec2b800800000000000000
+      internalID: 626789942977867978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_17
+      rect:
+        serializedVersion: 2
+        x: 18829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a567e3ef7dab5a0800000000000000
+      internalID: -6504649224813651388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_18
+      rect:
+        serializedVersion: 2
+        x: 20829
+        y: 719
+        width: 342
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1e2293be882000800000000000000
+      internalID: 11415900971212074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_19
+      rect:
+        serializedVersion: 2
+        x: 24499
+        y: 649
+        width: 1002
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc8b2302fb9d04b0800000000000000
+      internalID: -5472546508447707982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_20
+      rect:
+        serializedVersion: 2
+        x: 26589
+        y: 1289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505b0e2f5d3313b0800000000000000
+      internalID: -5543019237359267759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_21
+      rect:
+        serializedVersion: 2
+        x: 26709
+        y: 749
+        width: 582
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da4dda8412d5c50800000000000000
+      internalID: 6655512420361219438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_22
+      rect:
+        serializedVersion: 2
+        x: 27379
+        y: 1289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f5afad955f4bd0800000000000000
+      internalID: -2643800320498075681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_23
+      rect:
+        serializedVersion: 2
+        x: 26659
+        y: 1219
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfeb9a4759f8b900800000000000000
+      internalID: 700583895365316559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_24
+      rect:
+        serializedVersion: 2
+        x: 27319
+        y: 1219
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0b5c38527a64e0800000000000000
+      internalID: -1987650562235363881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_25
+      rect:
+        serializedVersion: 2
+        x: 27369
+        y: 1229
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8588d12528238580800000000000000
+      internalID: -8826166704769301106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_26
+      rect:
+        serializedVersion: 2
+        x: 28709
+        y: 729
+        width: 582
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9f608c7b969f5e0800000000000000
+      internalID: -1875351531767268878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_27
+      rect:
+        serializedVersion: 2
+        x: 30709
+        y: 719
+        width: 582
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9214c80f86959410800000000000000
+      internalID: 1483257193360003740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_28
+      rect:
+        serializedVersion: 2
+        x: 26519
+        y: 1109
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdd9b5161ddce0b0800000000000000
+      internalID: -5697936341606998607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_29
+      rect:
+        serializedVersion: 2
+        x: 26589
+        y: 1079
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d318760a2cf3a7fe0800000000000000
+      internalID: -1190569046338731715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_30
+      rect:
+        serializedVersion: 2
+        x: 26669
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f5f89321546bd50800000000000000
+      internalID: 6752660635866062734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_31
+      rect:
+        serializedVersion: 2
+        x: 27299
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9e7bea25cef8680800000000000000
+      internalID: -8750515711094822404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_32
+      rect:
+        serializedVersion: 2
+        x: 27359
+        y: 1079
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee6277dcdffdad70800000000000000
+      internalID: 9056175749684424430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_33
+      rect:
+        serializedVersion: 2
+        x: 27369
+        y: 1119
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f50747c6b6bc0fc0800000000000000
+      internalID: -3527243511994317323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_34
+      rect:
+        serializedVersion: 2
+        x: 28519
+        y: 1139
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a5ce6b5679585d0800000000000000
+      internalID: -3060873908611949954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_35
+      rect:
+        serializedVersion: 2
+        x: 29449
+        y: 1139
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a29e0aeab7c380800000000000000
+      internalID: -8950980219945965099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_36
+      rect:
+        serializedVersion: 2
+        x: 26529
+        y: 1079
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619578b284346730800000000000000
+      internalID: 3991372905802207591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_37
+      rect:
+        serializedVersion: 2
+        x: 27449
+        y: 1079
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82da8f7f625d4d40800000000000000
+      internalID: 5570198952961823374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_38
+      rect:
+        serializedVersion: 2
+        x: 26589
+        y: 839
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5e4360d05ccaa80800000000000000
+      internalID: -8454165740751886892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_39
+      rect:
+        serializedVersion: 2
+        x: 27359
+        y: 839
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2c192542260fb70800000000000000
+      internalID: 8930745969219322596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_40
+      rect:
+        serializedVersion: 2
+        x: 27449
+        y: 909
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b794daee7867990800000000000000
+      internalID: -7388568679475479685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_41
+      rect:
+        serializedVersion: 2
+        x: 26529
+        y: 769
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7543eb7a4d5330fc0800000000000000
+      internalID: -3529918495464737705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_42
+      rect:
+        serializedVersion: 2
+        x: 26669
+        y: 829
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a65a8262e4a000800000000000000
+      internalID: 46410809036154743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_43
+      rect:
+        serializedVersion: 2
+        x: 27299
+        y: 829
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4f3453aa43733e0800000000000000
+      internalID: -2074131197738093369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_44
+      rect:
+        serializedVersion: 2
+        x: 27369
+        y: 779
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40875cc1ef48eca0800000000000000
+      internalID: -5987447873374551986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_45
+      rect:
+        serializedVersion: 2
+        x: 28529
+        y: 799
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2c95fc4c490a30800000000000000
+      internalID: 4181957622412094312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_46
+      rect:
+        serializedVersion: 2
+        x: 29449
+        y: 799
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdfc0f8b69fc2b60800000000000000
+      internalID: 7722821701390368253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_47
+      rect:
+        serializedVersion: 2
+        x: 26659
+        y: 749
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef906ac686fe150800000000000000
+      internalID: 5904052452357439004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_48
+      rect:
+        serializedVersion: 2
+        x: 27319
+        y: 749
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4359fe2e58bdc2f0800000000000000
+      internalID: -950901231650778290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_49
+      rect:
+        serializedVersion: 2
+        x: 24669
+        y: 569
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4574937fdfe530800000000000000
+      internalID: 3886570690948976314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_50
+      rect:
+        serializedVersion: 2
+        x: 25169
+        y: 569
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd29577d73a82910800000000000000
+      internalID: 1812878609285197302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_51
+      rect:
+        serializedVersion: 2
+        x: 26589
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d29cb14425728b0800000000000000
+      internalID: -5177078794161672822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_52
+      rect:
+        serializedVersion: 2
+        x: 27379
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7700e5bd3aba9ef40800000000000000
+      internalID: 5758322318818279543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_53
+      rect:
+        serializedVersion: 2
+        x: 24889
+        y: 559
+        width: 222
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8b9513b9758110800000000000000
+      internalID: 1262549080615914092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_54
+      rect:
+        serializedVersion: 2
+        x: 26689
+        y: 589
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef0c9ed02e1e610800000000000000
+      internalID: 1648847487978503792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_55
+      rect:
+        serializedVersion: 2
+        x: 26889
+        y: 589
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48678e6a9e327d560800000000000000
+      internalID: 7338373604258117252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_56
+      rect:
+        serializedVersion: 2
+        x: 27089
+        y: 589
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3103fef1c512c80800000000000000
+      internalID: -8349290941941541890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Betritivor-Beelzlebug-trans 2_57
+      rect:
+        serializedVersion: 2
+        x: 27219
+        y: 589
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0075392ccf52920800000000000000
+      internalID: 2965053842319147245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Betritivor-Beelzlebug-trans 2_0: 4802377469273285781
+      Betritivor-Beelzlebug-trans 2_1: 3388134743503081750
+      Betritivor-Beelzlebug-trans 2_10: 3823749544920078248
+      Betritivor-Beelzlebug-trans 2_11: -1057679862694539019
+      Betritivor-Beelzlebug-trans 2_12: 1685394886261700822
+      Betritivor-Beelzlebug-trans 2_13: -922072844871115110
+      Betritivor-Beelzlebug-trans 2_14: -3492963057282423236
+      Betritivor-Beelzlebug-trans 2_15: -6332814092913544936
+      Betritivor-Beelzlebug-trans 2_16: 626789942977867978
+      Betritivor-Beelzlebug-trans 2_17: -6504649224813651388
+      Betritivor-Beelzlebug-trans 2_18: 11415900971212074
+      Betritivor-Beelzlebug-trans 2_19: -5472546508447707982
+      Betritivor-Beelzlebug-trans 2_2: -3912467142722226664
+      Betritivor-Beelzlebug-trans 2_20: -5543019237359267759
+      Betritivor-Beelzlebug-trans 2_21: 6655512420361219438
+      Betritivor-Beelzlebug-trans 2_22: -2643800320498075681
+      Betritivor-Beelzlebug-trans 2_23: 700583895365316559
+      Betritivor-Beelzlebug-trans 2_24: -1987650562235363881
+      Betritivor-Beelzlebug-trans 2_25: -8826166704769301106
+      Betritivor-Beelzlebug-trans 2_26: -1875351531767268878
+      Betritivor-Beelzlebug-trans 2_27: 1483257193360003740
+      Betritivor-Beelzlebug-trans 2_28: -5697936341606998607
+      Betritivor-Beelzlebug-trans 2_29: -1190569046338731715
+      Betritivor-Beelzlebug-trans 2_3: -9115311140342263454
+      Betritivor-Beelzlebug-trans 2_30: 6752660635866062734
+      Betritivor-Beelzlebug-trans 2_31: -8750515711094822404
+      Betritivor-Beelzlebug-trans 2_32: 9056175749684424430
+      Betritivor-Beelzlebug-trans 2_33: -3527243511994317323
+      Betritivor-Beelzlebug-trans 2_34: -3060873908611949954
+      Betritivor-Beelzlebug-trans 2_35: -8950980219945965099
+      Betritivor-Beelzlebug-trans 2_36: 3991372905802207591
+      Betritivor-Beelzlebug-trans 2_37: 5570198952961823374
+      Betritivor-Beelzlebug-trans 2_38: -8454165740751886892
+      Betritivor-Beelzlebug-trans 2_39: 8930745969219322596
+      Betritivor-Beelzlebug-trans 2_4: 5705794835334476636
+      Betritivor-Beelzlebug-trans 2_40: -7388568679475479685
+      Betritivor-Beelzlebug-trans 2_41: -3529918495464737705
+      Betritivor-Beelzlebug-trans 2_42: 46410809036154743
+      Betritivor-Beelzlebug-trans 2_43: -2074131197738093369
+      Betritivor-Beelzlebug-trans 2_44: -5987447873374551986
+      Betritivor-Beelzlebug-trans 2_45: 4181957622412094312
+      Betritivor-Beelzlebug-trans 2_46: 7722821701390368253
+      Betritivor-Beelzlebug-trans 2_47: 5904052452357439004
+      Betritivor-Beelzlebug-trans 2_48: -950901231650778290
+      Betritivor-Beelzlebug-trans 2_49: 3886570690948976314
+      Betritivor-Beelzlebug-trans 2_5: -8425421270659754768
+      Betritivor-Beelzlebug-trans 2_50: 1812878609285197302
+      Betritivor-Beelzlebug-trans 2_51: -5177078794161672822
+      Betritivor-Beelzlebug-trans 2_52: 5758322318818279543
+      Betritivor-Beelzlebug-trans 2_53: 1262549080615914092
+      Betritivor-Beelzlebug-trans 2_54: 1648847487978503792
+      Betritivor-Beelzlebug-trans 2_55: 7338373604258117252
+      Betritivor-Beelzlebug-trans 2_56: -8349290941941541890
+      Betritivor-Beelzlebug-trans 2_57: 2965053842319147245
+      Betritivor-Beelzlebug-trans 2_6: -4726993976332859357
+      Betritivor-Beelzlebug-trans 2_7: -6521080275734469574
+      Betritivor-Beelzlebug-trans 2_8: 466794557706782031
+      Betritivor-Beelzlebug-trans 2_9: -6316301467561514536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

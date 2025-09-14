@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 1bbb3b7d9c517cf49ae23a8c480be961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5089214130388087920
+    second: space_ship-Shield_gone_0
+  - first:
+      213: -67313693665678889
+    second: space_ship-Shield_gone_1
+  - first:
+      213: 3938331404881752340
+    second: space_ship-Shield_gone_2
+  - first:
+      213: -2862695908348443608
+    second: space_ship-Shield_gone_3
+  - first:
+      213: -2006553339626113997
+    second: space_ship-Shield_gone_4
+  - first:
+      213: -785541343389229540
+    second: space_ship-Shield_gone_5
+  - first:
+      213: 4350045723566514597
+    second: space_ship-Shield_gone_6
+  - first:
+      213: 3132125463811837308
+    second: space_ship-Shield_gone_7
+  - first:
+      213: -6744699066413962424
+    second: space_ship-Shield_gone_8
+  - first:
+      213: -4370081348302130128
+    second: space_ship-Shield_gone_9
+  - first:
+      213: 7955677111756944844
+    second: space_ship-Shield_gone_10
+  - first:
+      213: 1765375095691443604
+    second: space_ship-Shield_gone_11
+  - first:
+      213: -4885497320938879729
+    second: space_ship-Shield_gone_12
+  - first:
+      213: 5075054744389779871
+    second: space_ship-Shield_gone_13
+  - first:
+      213: 1650694539633053365
+    second: space_ship-Shield_gone_14
+  - first:
+      213: 6496171402262582095
+    second: space_ship-Shield_gone_15
+  - first:
+      213: -7391817565658463829
+    second: space_ship-Shield_gone_16
+  - first:
+      213: -2801547485739165488
+    second: space_ship-Shield_gone_17
+  - first:
+      213: -871693050136386329
+    second: space_ship-Shield_gone_18
+  - first:
+      213: -9165786286623150574
+    second: space_ship-Shield_gone_19
+  - first:
+      213: 8309129195775515434
+    second: space_ship-Shield_gone_20
+  - first:
+      213: 4237669241379341144
+    second: space_ship-Shield_gone_21
+  - first:
+      213: 6809180274101534317
+    second: space_ship-Shield_gone_22
+  - first:
+      213: -5751598978799524268
+    second: space_ship-Shield_gone_23
+  - first:
+      213: 3409127630065401335
+    second: space_ship-Shield_gone_24
+  - first:
+      213: 962623732587845275
+    second: space_ship-Shield_gone_25
+  - first:
+      213: 7844896248223880654
+    second: space_ship-Shield_gone_26
+  - first:
+      213: -9465521511407313
+    second: space_ship-Shield_gone_27
+  - first:
+      213: -3603747001219122128
+    second: space_ship-Shield_gone_28
+  - first:
+      213: -8044960574061999789
+    second: space_ship-Shield_gone_29
+  - first:
+      213: 4043043931893216204
+    second: space_ship-Shield_gone_30
+  - first:
+      213: 8921606230254615504
+    second: space_ship-Shield_gone_31
+  - first:
+      213: -2835384005373457071
+    second: space_ship-Shield_gone_32
+  - first:
+      213: -524426015558581858
+    second: space_ship-Shield_gone_33
+  - first:
+      213: -5308008673896928701
+    second: space_ship-Shield_gone_34
+  - first:
+      213: -6703968693571334747
+    second: space_ship-Shield_gone_35
+  - first:
+      213: 3439582590842311843
+    second: space_ship-Shield_gone_36
+  - first:
+      213: 6158789591538995306
+    second: space_ship-Shield_gone_37
+  - first:
+      213: 5118562267704950234
+    second: space_ship-Shield_gone_38
+  - first:
+      213: 5589146550851021343
+    second: space_ship-Shield_gone_39
+  - first:
+      213: 4423182572055285148
+    second: space_ship-Shield_gone_40
+  - first:
+      213: -1719030569530028370
+    second: space_ship-Shield_gone_41
+  - first:
+      213: 6946788593858733991
+    second: space_ship-Shield_gone_42
+  - first:
+      213: -7364613413550883509
+    second: space_ship-Shield_gone_43
+  - first:
+      213: 4274299359172590909
+    second: space_ship-Shield_gone_44
+  - first:
+      213: -3346407998581922737
+    second: space_ship-Shield_gone_45
+  - first:
+      213: 3350006232253053009
+    second: space_ship-Shield_gone_46
+  - first:
+      213: -2301304988789502682
+    second: space_ship-Shield_gone_47
+  - first:
+      213: 1293758370325863463
+    second: space_ship-Shield_gone_48
+  - first:
+      213: -5666840478728132406
+    second: space_ship-Shield_gone_49
+  - first:
+      213: 4300122862477258206
+    second: space_ship-Shield_gone_50
+  - first:
+      213: -3502512784468194194
+    second: space_ship-Shield_gone_51
+  - first:
+      213: 1379773844524789056
+    second: space_ship-Shield_gone_52
+  - first:
+      213: 2813501550496962943
+    second: space_ship-Shield_gone_53
+  - first:
+      213: -8995325836305648524
+    second: space_ship-Shield_gone_54
+  - first:
+      213: -3026331870387609730
+    second: space_ship-Shield_gone_55
+  - first:
+      213: 8600385208528179732
+    second: space_ship-Shield_gone_56
+  - first:
+      213: -1617176984961914427
+    second: space_ship-Shield_gone_57
+  - first:
+      213: 7524080761173066618
+    second: space_ship-Shield_gone_58
+  - first:
+      213: -6934313627955770376
+    second: space_ship-Shield_gone_59
+  - first:
+      213: 4934134259841436534
+    second: space_ship-Shield_gone_60
+  - first:
+      213: 3086395907111761090
+    second: space_ship-Shield_gone_61
+  - first:
+      213: -1729769984345636866
+    second: space_ship-Shield_gone_62
+  - first:
+      213: -1800231160960243523
+    second: space_ship-Shield_gone_63
+  - first:
+      213: 2906284360167554317
+    second: space_ship-Shield_gone_64
+  - first:
+      213: 1565637187871381393
+    second: space_ship-Shield_gone_65
+  - first:
+      213: -3290149640318400125
+    second: space_ship-Shield_gone_66
+  - first:
+      213: -6912392638494456192
+    second: space_ship-Shield_gone_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc15456ba7f59b0800000000000000
+      internalID: -5089214130388087920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a9806d8ad01ff0800000000000000
+      internalID: -67313693665678889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411fdbbeb83c7a630800000000000000
+      internalID: 3938331404881752340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244de21d39a548d0800000000000000
+      internalID: -2862695908348443608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33436b86e5a4724e0800000000000000
+      internalID: -2006553339626113997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_5
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed6e66f423915f0800000000000000
+      internalID: -785541343389229540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_ship-Shield_gone_6
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a3edb9877e5c30800000000000000
+      internalID: 4350045723566514597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1e0de3da9ad5444c8288786b8ae19b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      space_ship-Shield_gone_0: -5089214130388087920
+      space_ship-Shield_gone_1: -67313693665678889
+      space_ship-Shield_gone_2: 3938331404881752340
+      space_ship-Shield_gone_3: -2862695908348443608
+      space_ship-Shield_gone_4: -2006553339626113997
+      space_ship-Shield_gone_5: -785541343389229540
+      space_ship-Shield_gone_6: 4350045723566514597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
