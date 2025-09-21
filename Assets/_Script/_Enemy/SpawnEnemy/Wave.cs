@@ -6,7 +6,7 @@ using System;
 
 [System.Serializable]
 
-public class Wave : MonoBehaviour
+public class Wave : MonoBehaviour, IWave
 {
 
     #region FIELDS
@@ -35,30 +35,30 @@ public class Wave : MonoBehaviour
     public Color pathColor = Color.yellow;
 
     [Tooltip("if testMode is marked the wave will be re-generated after 3 sec")]
-    private List<GameObject> spawnedEnemies = new List<GameObject>();
     public bool testMode;
+    private List<GameObject> spawnedEnemies = new List<GameObject>();
     private bool finishedSpawning = false;
+    public event Action<IWave> OnWaveFinished;
 
     #endregion
 
     private void OnEnable()
     {
+        ResetWave();
         StartCoroutine(CreateEnemyWave());
     }
 
-    [Obsolete]
-    void Update()
+    private void Update()
     {
         spawnedEnemies.RemoveAll(e => e == null);
 
-        // Nếu không còn quái nào thì disable wave
         if (spawnedEnemies.Count == 0 && finishedSpawning)
         {
-            // báo cho manager
-            FindObjectOfType<TImeBetweenSpawn>().OnTurnFinished();
-            gameObject.SetActive(false);
+            // báo cha (SpawnWave) biết là wave này xong
+            OnWaveFinished?.Invoke((IWave)this);
         }
     }
+
     IEnumerator CreateEnemyWave()
     {
         for (int i = 0; i < count; i++)
@@ -66,12 +66,12 @@ public class Wave : MonoBehaviour
             GameObject newEnemy = Instantiate(enemy, enemy.transform.position, Quaternion.identity);
             spawnedEnemies.Add(newEnemy);
 
-            FollowThePath followComponent = newEnemy.GetComponent<FollowThePath>();
-            followComponent.path = pathPoints;
-            followComponent.speed = speed;
-            followComponent.rotationByPath = rotationByPath;
-            followComponent.loop = Loop;
-            followComponent.SetPath();
+            var follow = newEnemy.GetComponent<FollowThePath>();
+            follow.path = pathPoints;
+            follow.speed = speed;
+            follow.rotationByPath = rotationByPath;
+            follow.loop = Loop;
+            follow.SetPath();
 
             newEnemy.SetActive(true);
             yield return new WaitForSeconds(timeBetween);
@@ -85,6 +85,12 @@ public class Wave : MonoBehaviour
         finishedSpawning = true;
     }
 
+    public void ResetWave()
+    {
+        StopAllCoroutines();
+        spawnedEnemies.Clear();
+        finishedSpawning = false;
+    }
 
     void OnDrawGizmos()
     {

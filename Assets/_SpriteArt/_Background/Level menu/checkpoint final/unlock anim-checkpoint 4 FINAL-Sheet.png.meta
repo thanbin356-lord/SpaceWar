@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 6e9befd12e2822244adf4084b1cc2414
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8851074821708258112
+    second: unlock anim-checkpoint 4 FINAL-Sheet_0
+  - first:
+      213: 7198174115126478064
+    second: unlock anim-checkpoint 4 FINAL-Sheet_1
+  - first:
+      213: -708906759067076672
+    second: unlock anim-checkpoint 4 FINAL-Sheet_2
+  - first:
+      213: 4229447088228470399
+    second: unlock anim-checkpoint 4 FINAL-Sheet_3
+  - first:
+      213: 7679156886500097557
+    second: unlock anim-checkpoint 4 FINAL-Sheet_4
+  - first:
+      213: 1702440541073269844
+    second: unlock anim-checkpoint 4 FINAL-Sheet_5
+  - first:
+      213: 8023463840225873633
+    second: unlock anim-checkpoint 4 FINAL-Sheet_6
+  - first:
+      213: 5237346941879885233
+    second: unlock anim-checkpoint 4 FINAL-Sheet_7
+  - first:
+      213: -3056049547384447348
+    second: unlock anim-checkpoint 4 FINAL-Sheet_8
+  - first:
+      213: 680372978771791290
+    second: unlock anim-checkpoint 4 FINAL-Sheet_9
+  - first:
+      213: -7653888158345486937
+    second: unlock anim-checkpoint 4 FINAL-Sheet_10
+  - first:
+      213: 7745466941268314128
+    second: unlock anim-checkpoint 4 FINAL-Sheet_11
+  - first:
+      213: 1190424864137195474
+    second: unlock anim-checkpoint 4 FINAL-Sheet_12
+  - first:
+      213: -219779029583049124
+    second: unlock anim-checkpoint 4 FINAL-Sheet_13
+  - first:
+      213: 49625078445503949
+    second: unlock anim-checkpoint 4 FINAL-Sheet_14
+  - first:
+      213: -6371071100142040789
+    second: unlock anim-checkpoint 4 FINAL-Sheet_15
+  - first:
+      213: 1573560141679601851
+    second: unlock anim-checkpoint 4 FINAL-Sheet_16
+  - first:
+      213: 2467667683586349355
+    second: unlock anim-checkpoint 4 FINAL-Sheet_17
+  - first:
+      213: -5658424540385533587
+    second: unlock anim-checkpoint 4 FINAL-Sheet_18
+  - first:
+      213: -442071673407346819
+    second: unlock anim-checkpoint 4 FINAL-Sheet_19
+  - first:
+      213: 4465494420452090294
+    second: unlock anim-checkpoint 4 FINAL-Sheet_20
+  - first:
+      213: -6762777239242200372
+    second: unlock anim-checkpoint 4 FINAL-Sheet_21
+  - first:
+      213: -9014685474529517809
+    second: unlock anim-checkpoint 4 FINAL-Sheet_22
+  - first:
+      213: 5603482343468235648
+    second: unlock anim-checkpoint 4 FINAL-Sheet_23
+  - first:
+      213: 5126009909100868960
+    second: unlock anim-checkpoint 4 FINAL-Sheet_24
+  - first:
+      213: -6539316065297929437
+    second: unlock anim-checkpoint 4 FINAL-Sheet_25
+  - first:
+      213: -8594089146457653675
+    second: unlock anim-checkpoint 4 FINAL-Sheet_26
+  - first:
+      213: 8365003283702477317
+    second: unlock anim-checkpoint 4 FINAL-Sheet_27
+  - first:
+      213: -258672732076799250
+    second: unlock anim-checkpoint 4 FINAL-Sheet_28
+  - first:
+      213: -5142272935958592344
+    second: unlock anim-checkpoint 4 FINAL-Sheet_29
+  - first:
+      213: 8532485432545638105
+    second: unlock anim-checkpoint 4 FINAL-Sheet_30
+  - first:
+      213: -5311848722219878288
+    second: unlock anim-checkpoint 4 FINAL-Sheet_31
+  - first:
+      213: -57253507833151
+    second: unlock anim-checkpoint 4 FINAL-Sheet_32
+  - first:
+      213: 1264820255631025257
+    second: unlock anim-checkpoint 4 FINAL-Sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 419
+        width: 1052
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4ecab385aaa2580800000000000000
+      internalID: -8851074821708258112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 419
+        width: 1052
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4868b583d05e360800000000000000
+      internalID: 7198174115126478064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 419
+        width: 1052
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7feeefe057926f0800000000000000
+      internalID: -708906759067076672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6419
+        y: 329
+        width: 1202
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e0b2ad7b302ba30800000000000000
+      internalID: 4229447088228470399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8299
+        y: 199
+        width: 1432
+        height: 1432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e355a9088d19a60800000000000000
+      internalID: 7679156886500097557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10349
+        y: 1329
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45465e5f6a840a710800000000000000
+      internalID: 1702440541073269844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10409
+        y: 159
+        width: 1212
+        height: 1512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eecad04ad1195f60800000000000000
+      internalID: 8023463840225873633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 12329
+        y: 1339
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd9a348b4bcea840800000000000000
+      internalID: 5237346941879885233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 12399
+        y: 139
+        width: 1242
+        height: 1552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e1828d02bb695d0800000000000000
+      internalID: -3056049547384447348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 14319
+        y: 1349
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd87729e9b217900800000000000000
+      internalID: 680372978771791290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 14389
+        y: 419
+        width: 1272
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad9f33a54de7c590800000000000000
+      internalID: -7653888158345486937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 16319
+        y: 1349
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01844d5552d6d7b60800000000000000
+      internalID: 7745466941268314128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 16389
+        y: 419
+        width: 1272
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa0b65b1d358010800000000000000
+      internalID: 1190424864137195474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 18319
+        y: 1349
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e4f94132033fcf0800000000000000
+      internalID: -219779029583049124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 18389
+        y: 419
+        width: 1272
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f1b4febd40b000800000000000000
+      internalID: 49625078445503949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 20319
+        y: 1349
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29c64df6986597a0800000000000000
+      internalID: -6371071100142040789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 20389
+        y: 419
+        width: 1272
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a68d9c9866d510800000000000000
+      internalID: 1573560141679601851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 22479
+        y: 419
+        width: 1052
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2910e71faaee3220800000000000000
+      internalID: 2467667683586349355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 10269
+        y: 439
+        width: 312
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a7f13cdc3971b0800000000000000
+      internalID: -5658424540385533587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 11449
+        y: 469
+        width: 332
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ea4db7227dd9f0800000000000000
+      internalID: -442071673407346819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 12249
+        y: 429
+        width: 312
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b12985248f98fd30800000000000000
+      internalID: 4465494420452090294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 13469
+        y: 459
+        width: 332
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca2fdf7ee9c522a0800000000000000
+      internalID: -6762777239242200372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 14239
+        y: 429
+        width: 312
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5bc0a25765e280800000000000000
+      internalID: -9014685474529517809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 15479
+        y: 449
+        width: 332
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bf89bb08193cd40800000000000000
+      internalID: 5603482343468235648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 16239
+        y: 429
+        width: 312
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f6138ade332740800000000000000
+      internalID: 5126009909100868960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 17479
+        y: 449
+        width: 332
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b69e57faeaf35a0800000000000000
+      internalID: -6539316065297929437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 18239
+        y: 429
+        width: 312
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ef9596479abb880800000000000000
+      internalID: -8594089146457653675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 19479
+        y: 449
+        width: 332
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ff06ba26761470800000000000000
+      internalID: 8365003283702477317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 20239
+        y: 429
+        width: 312
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea8b7b4582096cf0800000000000000
+      internalID: -258672732076799250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 21479
+        y: 449
+        width: 332
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4451a720af2a8b0800000000000000
+      internalID: -5142272935958592344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 14719
+        y: 129
+        width: 452
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f31a3b4a796670800000000000000
+      internalID: 8532485432545638105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 16719
+        y: 129
+        width: 452
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b8730bb58846b0800000000000000
+      internalID: -5311848722219878288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 18719
+        y: 129
+        width: 452
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e001adebcffff0800000000000000
+      internalID: -57253507833151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 4 FINAL-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 20719
+        y: 129
+        width: 452
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642b99325b8d8110800000000000000
+      internalID: 1264820255631025257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unlock anim-checkpoint 4 FINAL-Sheet_0: -8851074821708258112
+      unlock anim-checkpoint 4 FINAL-Sheet_1: 7198174115126478064
+      unlock anim-checkpoint 4 FINAL-Sheet_10: -7653888158345486937
+      unlock anim-checkpoint 4 FINAL-Sheet_11: 7745466941268314128
+      unlock anim-checkpoint 4 FINAL-Sheet_12: 1190424864137195474
+      unlock anim-checkpoint 4 FINAL-Sheet_13: -219779029583049124
+      unlock anim-checkpoint 4 FINAL-Sheet_14: 49625078445503949
+      unlock anim-checkpoint 4 FINAL-Sheet_15: -6371071100142040789
+      unlock anim-checkpoint 4 FINAL-Sheet_16: 1573560141679601851
+      unlock anim-checkpoint 4 FINAL-Sheet_17: 2467667683586349355
+      unlock anim-checkpoint 4 FINAL-Sheet_18: -5658424540385533587
+      unlock anim-checkpoint 4 FINAL-Sheet_19: -442071673407346819
+      unlock anim-checkpoint 4 FINAL-Sheet_2: -708906759067076672
+      unlock anim-checkpoint 4 FINAL-Sheet_20: 4465494420452090294
+      unlock anim-checkpoint 4 FINAL-Sheet_21: -6762777239242200372
+      unlock anim-checkpoint 4 FINAL-Sheet_22: -9014685474529517809
+      unlock anim-checkpoint 4 FINAL-Sheet_23: 5603482343468235648
+      unlock anim-checkpoint 4 FINAL-Sheet_24: 5126009909100868960
+      unlock anim-checkpoint 4 FINAL-Sheet_25: -6539316065297929437
+      unlock anim-checkpoint 4 FINAL-Sheet_26: -8594089146457653675
+      unlock anim-checkpoint 4 FINAL-Sheet_27: 8365003283702477317
+      unlock anim-checkpoint 4 FINAL-Sheet_28: -258672732076799250
+      unlock anim-checkpoint 4 FINAL-Sheet_29: -5142272935958592344
+      unlock anim-checkpoint 4 FINAL-Sheet_3: 4229447088228470399
+      unlock anim-checkpoint 4 FINAL-Sheet_30: 8532485432545638105
+      unlock anim-checkpoint 4 FINAL-Sheet_31: -5311848722219878288
+      unlock anim-checkpoint 4 FINAL-Sheet_32: -57253507833151
+      unlock anim-checkpoint 4 FINAL-Sheet_33: 1264820255631025257
+      unlock anim-checkpoint 4 FINAL-Sheet_4: 7679156886500097557
+      unlock anim-checkpoint 4 FINAL-Sheet_5: 1702440541073269844
+      unlock anim-checkpoint 4 FINAL-Sheet_6: 8023463840225873633
+      unlock anim-checkpoint 4 FINAL-Sheet_7: 5237346941879885233
+      unlock anim-checkpoint 4 FINAL-Sheet_8: -3056049547384447348
+      unlock anim-checkpoint 4 FINAL-Sheet_9: 680372978771791290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

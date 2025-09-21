@@ -1,4 +1,4 @@
-using UnityEngine;
+    using UnityEngine;
 using System.Collections;
 
 public class EnemyControl : MonoBehaviour
@@ -28,7 +28,7 @@ public class EnemyControl : MonoBehaviour
                 if (!isWaitingCoroutineRunning)
                 {
                     isStopped = true;
-                    hasStoppedOnce = true; // đánh dấu đã dừng lần đầu
+                    hasStoppedOnce = true;
                     StartCoroutine(ResumeFallAfterDelay());
                 }
             }

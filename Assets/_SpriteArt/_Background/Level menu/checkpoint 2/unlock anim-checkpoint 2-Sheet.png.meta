@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 03f4ead8d844b0f4c8269cd64c31c897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7632799597057187748
+    second: unlock anim-checkpoint 2-Sheet_0
+  - first:
+      213: 7717467366382889518
+    second: unlock anim-checkpoint 2-Sheet_1
+  - first:
+      213: -4214285874012646834
+    second: unlock anim-checkpoint 2-Sheet_2
+  - first:
+      213: -4653586229493178628
+    second: unlock anim-checkpoint 2-Sheet_3
+  - first:
+      213: 7691574570722384025
+    second: unlock anim-checkpoint 2-Sheet_4
+  - first:
+      213: 3868379412056396347
+    second: unlock anim-checkpoint 2-Sheet_5
+  - first:
+      213: -5120457558581782555
+    second: unlock anim-checkpoint 2-Sheet_6
+  - first:
+      213: 2520088956847200585
+    second: unlock anim-checkpoint 2-Sheet_7
+  - first:
+      213: 8446015599262493082
+    second: unlock anim-checkpoint 2-Sheet_8
+  - first:
+      213: -3865848181970171758
+    second: unlock anim-checkpoint 2-Sheet_9
+  - first:
+      213: 4160558033061998636
+    second: unlock anim-checkpoint 2-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5069afe439d21690800000000000000
+      internalID: -7632799597057187748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aebea4ea3f91b60800000000000000
+      internalID: 7717467366382889518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4297896359d385c0800000000000000
+      internalID: -4214285874012646834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 109
+        width: 822
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed863eaf32b6fb0800000000000000
+      internalID: -4653586229493178628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 69
+        width: 952
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d5530256fdba60800000000000000
+      internalID: 7691574570722384025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 29
+        width: 1992
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325e08649e3fa530800000000000000
+      internalID: 3868379412056396347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 29
+        width: 1002
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d445dafa70f8b0800000000000000
+      internalID: -5120457558581782555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 29
+        width: 1002
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491343ed8729f220800000000000000
+      internalID: 2520088956847200585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8999
+        y: 29
+        width: 1002
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e2794076463570800000000000000
+      internalID: 8446015599262493082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 29
+        width: 1002
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29804168f8fb95ac0800000000000000
+      internalID: -3865848181970171758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 11119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20fe0ccc754db930800000000000000
+      internalID: 4160558033061998636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unlock anim-checkpoint 2-Sheet_0: -7632799597057187748
+      unlock anim-checkpoint 2-Sheet_1: 7717467366382889518
+      unlock anim-checkpoint 2-Sheet_10: 4160558033061998636
+      unlock anim-checkpoint 2-Sheet_2: -4214285874012646834
+      unlock anim-checkpoint 2-Sheet_3: -4653586229493178628
+      unlock anim-checkpoint 2-Sheet_4: 7691574570722384025
+      unlock anim-checkpoint 2-Sheet_5: 3868379412056396347
+      unlock anim-checkpoint 2-Sheet_6: -5120457558581782555
+      unlock anim-checkpoint 2-Sheet_7: 2520088956847200585
+      unlock anim-checkpoint 2-Sheet_8: 8446015599262493082
+      unlock anim-checkpoint 2-Sheet_9: -3865848181970171758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

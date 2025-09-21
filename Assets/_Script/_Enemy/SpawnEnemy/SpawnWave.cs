@@ -1,38 +1,58 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class SpawnWave : MonoBehaviour
 {
-    public GameObject[] spawnTurns;
-    private int turn = 0;
+    public GameObject[] waveObjects;
+    private int finishedWaves = 0;
+    private List<IWave> activeWaves = new List<IWave>();
 
-    void Start()
+    private void OnEnable()
     {
-        ActivateTurn(turn);
+        finishedWaves = 0;
+        activeWaves.Clear();
+
+        foreach (var obj in waveObjects)
+        {
+            if (obj != null)
+            {
+                obj.SetActive(true);
+
+                IWave wave = obj.GetComponent<IWave>();
+                if (wave != null)
+                {
+                    wave.ResetWave();
+                    wave.OnWaveFinished += HandleWaveFinished;
+                    activeWaves.Add(wave);
+                }
+            }
+        }
     }
 
-    void ActivateTurn(int index)
+    private void OnDisable()
     {
-        // Tắt hết turn trước đó
-        foreach (var obj in spawnTurns)
-            obj.SetActive(false);
-
-        for (int i = index; i < index + 3 && i < spawnTurns.Length; i++)
+        foreach (var wave in activeWaves)
         {
-            spawnTurns[i].SetActive(true);
+            wave.OnWaveFinished -= HandleWaveFinished;
         }
+        activeWaves.Clear();
 
-        Debug.Log($"Turn {index + 1} → bật 3 turn");
+        foreach (var obj in waveObjects)
+        {
+            if (obj != null)
+                obj.SetActive(false);
+        }
     }
 
-    public void OnTurnFinished()
+    private void HandleWaveFinished(IWave wave)
     {
-        turn++;
-        if (turn < spawnTurns.Length)
+        finishedWaves++;
+        if (finishedWaves == activeWaves.Count)
         {
-            ActivateTurn(turn);
-        }
-        else
-        {
+            var grandpa = FindObjectOfType<TImeBetweenSpawn>();
+            if (grandpa != null)
+                grandpa.OnTurnFinished();
+
             gameObject.SetActive(false);
         }
     }

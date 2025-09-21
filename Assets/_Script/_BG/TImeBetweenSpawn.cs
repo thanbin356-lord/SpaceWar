@@ -14,16 +14,12 @@ public class TImeBetweenSpawn : MonoBehaviour
 
     void ActivateTurn(int index)
     {
-        // Tắt hết turn
-        foreach (var obj in spawnTurns)
-            obj.SetActive(false);
+        for (int i = 0; i < spawnTurns.Length; i++)
+            spawnTurns[i].SetActive(i == index);
 
-        // Bật turn hiện tại
-        spawnTurns[index].SetActive(true);
-        Debug.Log($"Turn {index + 1}");
+        Debug.Log($"Turn {index + 1} started");
     }
 
-    // Hàm này được gọi khi 1 turn hoàn thành
     public void OnTurnFinished()
     {
         turn++;

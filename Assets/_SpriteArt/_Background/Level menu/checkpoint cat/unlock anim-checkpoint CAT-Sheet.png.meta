@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: c7bb3304b90636b458c01ab0fb133450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8129455180414748937
+    second: unlock anim-checkpoint CAT-Sheet_0
+  - first:
+      213: -6114381527677030
+    second: unlock anim-checkpoint CAT-Sheet_1
+  - first:
+      213: -3779137656531715458
+    second: unlock anim-checkpoint CAT-Sheet_2
+  - first:
+      213: -3862761029504364350
+    second: unlock anim-checkpoint CAT-Sheet_3
+  - first:
+      213: -1636518689474517004
+    second: unlock anim-checkpoint CAT-Sheet_4
+  - first:
+      213: -6398812225148980249
+    second: unlock anim-checkpoint CAT-Sheet_5
+  - first:
+      213: 2487626961742456923
+    second: unlock anim-checkpoint CAT-Sheet_6
+  - first:
+      213: -2145133592555442883
+    second: unlock anim-checkpoint CAT-Sheet_7
+  - first:
+      213: 2377759299990523815
+    second: unlock anim-checkpoint CAT-Sheet_8
+  - first:
+      213: 623679438222524349
+    second: unlock anim-checkpoint CAT-Sheet_9
+  - first:
+      213: -2293624225627357642
+    second: unlock anim-checkpoint CAT-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67be9c59f5e2f80800000000000000
+      internalID: -8129455180414748937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97850d90074aeff0800000000000000
+      internalID: -6114381527677030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aff19f25ecd8bc0800000000000000
+      internalID: -3779137656531715458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 89
+        width: 822
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09b283f47b46ac0800000000000000
+      internalID: -3862761029504364350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 49
+        width: 932
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7659d2ceae949e0800000000000000
+      internalID: -1636518689474517004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 29
+        width: 972
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3719ffe2ad237a0800000000000000
+      internalID: -6398812225148980249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5999
+        y: 0
+        width: 2002
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e75caa83d58220800000000000000
+      internalID: 2487626961742456923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 0
+        width: 1002
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da9fbec54fa32e0800000000000000
+      internalID: -2145133592555442883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8999
+        y: 0
+        width: 1002
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af01554c7f7ff020800000000000000
+      internalID: 2377759299990523815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 0
+        width: 1002
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff7f80521c7a800800000000000000
+      internalID: 623679438222524349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint CAT-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 11119
+        y: 109
+        width: 772
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e304f3be86b20e0800000000000000
+      internalID: -2293624225627357642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unlock anim-checkpoint CAT-Sheet_0: -8129455180414748937
+      unlock anim-checkpoint CAT-Sheet_1: -6114381527677030
+      unlock anim-checkpoint CAT-Sheet_10: -2293624225627357642
+      unlock anim-checkpoint CAT-Sheet_2: -3779137656531715458
+      unlock anim-checkpoint CAT-Sheet_3: -3862761029504364350
+      unlock anim-checkpoint CAT-Sheet_4: -1636518689474517004
+      unlock anim-checkpoint CAT-Sheet_5: -6398812225148980249
+      unlock anim-checkpoint CAT-Sheet_6: 2487626961742456923
+      unlock anim-checkpoint CAT-Sheet_7: -2145133592555442883
+      unlock anim-checkpoint CAT-Sheet_8: 2377759299990523815
+      unlock anim-checkpoint CAT-Sheet_9: 623679438222524349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
