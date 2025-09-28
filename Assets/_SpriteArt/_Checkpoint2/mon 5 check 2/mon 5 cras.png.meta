@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: e81550be1cfcfe848bfde4de49ecfcad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8886466611094330589
+    second: mon 5 cras_0
+  - first:
+      213: 8536770481772421794
+    second: mon 5 cras_1
+  - first:
+      213: -6724987728282953892
+    second: mon 5 cras_2
+  - first:
+      213: 9043209782514842232
+    second: mon 5 cras_3
+  - first:
+      213: -3856233820977165671
+    second: mon 5 cras_4
+  - first:
+      213: 4111711143166093702
+    second: mon 5 cras_5
+  - first:
+      213: -3245230986229204028
+    second: mon 5 cras_6
+  - first:
+      213: -6831385056039503321
+    second: mon 5 cras_7
+  - first:
+      213: -4019415453358102599
+    second: mon 5 cras_8
+  - first:
+      213: 3886750620624543156
+    second: mon 5 cras_9
+  - first:
+      213: 7538834314827223969
+    second: mon 5 cras_10
+  - first:
+      213: 1783708951912278482
+    second: mon 5 cras_11
+  - first:
+      213: -3480575568323840884
+    second: mon 5 cras_12
+  - first:
+      213: 2467457387512694658
+    second: mon 5 cras_13
+  - first:
+      213: 4930263979560732864
+    second: mon 5 cras_14
+  - first:
+      213: 3839224716128601481
+    second: mon 5 cras_15
+  - first:
+      213: -3068190795737416388
+    second: mon 5 cras_16
+  - first:
+      213: -7779506104846921163
+    second: mon 5 cras_17
+  - first:
+      213: 5974719149671017447
+    second: mon 5 cras_18
+  - first:
+      213: 8639410029857990008
+    second: mon 5 cras_19
+  - first:
+      213: 844694979431893786
+    second: mon 5 cras_20
+  - first:
+      213: 337392577074554655
+    second: mon 5 cras_21
+  - first:
+      213: 3921792707464667503
+    second: mon 5 cras_22
+  - first:
+      213: -4996800092908409225
+    second: mon 5 cras_23
+  - first:
+      213: -4346148073510602085
+    second: mon 5 cras_24
+  - first:
+      213: -3741484355185772629
+    second: mon 5 cras_25
+  - first:
+      213: 6017165621241878627
+    second: mon 5 cras_26
+  - first:
+      213: 5296384283502294394
+    second: mon 5 cras_27
+  - first:
+      213: -1234457332337286777
+    second: mon 5 cras_28
+  - first:
+      213: -667666042230904607
+    second: mon 5 cras_29
+  - first:
+      213: -2269842641336820015
+    second: mon 5 cras_30
+  - first:
+      213: 4652316157927274492
+    second: mon 5 cras_31
+  - first:
+      213: -8943110013944942117
+    second: mon 5 cras_32
+  - first:
+      213: -7209328881977650207
+    second: mon 5 cras_33
+  - first:
+      213: -1148878997573852474
+    second: mon 5 cras_34
+  - first:
+      213: 4123256067519444805
+    second: mon 5 cras_35
+  - first:
+      213: -6468500825445444129
+    second: mon 5 cras_36
+  - first:
+      213: 7738155163955086358
+    second: mon 5 cras_37
+  - first:
+      213: -1913901118749365520
+    second: mon 5 cras_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon 5 cras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3236a5123bdeca480800000000000000
+      internalID: -8886466611094330589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 5 cras_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e51ff583b87670800000000000000
+      internalID: 8536770481772421794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 5 cras_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5755d8aa4b0ca2a0800000000000000
+      internalID: -6724987728282953892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 5 cras_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a722c526fef7d70800000000000000
+      internalID: 9043209782514842232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b0ce1465e8bb402448825770195ae45a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":640.0,"y":640.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mon 5 cras_0: -8886466611094330589
+      mon 5 cras_1: 8536770481772421794
+      mon 5 cras_2: -6724987728282953892
+      mon 5 cras_3: 9043209782514842232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

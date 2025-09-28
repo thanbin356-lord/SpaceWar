@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 6c494949480a28c4bb0d678494bba05b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1998616347933546967
+    second: mete purple3_0
+  - first:
+      213: -1352772446626247248
+    second: mete purple3_1
+  - first:
+      213: 8418747418779709178
+    second: mete purple3_2
+  - first:
+      213: -6887009608106660623
+    second: mete purple3_3
+  - first:
+      213: 1455548635897251638
+    second: mete purple3_4
+  - first:
+      213: 2432146088435344004
+    second: mete purple3_5
+  - first:
+      213: -6939771141771685760
+    second: mete purple3_6
+  - first:
+      213: -5975079749264556793
+    second: mete purple3_7
+  - first:
+      213: 4299945713163472183
+    second: mete purple3_8
+  - first:
+      213: -7496240342470485370
+    second: mete purple3_9
+  - first:
+      213: 94567153621736434
+    second: mete purple3_10
+  - first:
+      213: 1250893617709443915
+    second: mete purple3_11
+  - first:
+      213: 4145580496530835453
+    second: mete purple3_12
+  - first:
+      213: 8768743298529476352
+    second: mete purple3_13
+  - first:
+      213: 7987980987126777472
+    second: mete purple3_14
+  - first:
+      213: -2957508521966868673
+    second: mete purple3_15
+  - first:
+      213: -5805809018604401931
+    second: mete purple3_16
+  - first:
+      213: 2100056447842954430
+    second: mete purple3_17
+  - first:
+      213: 7884898132906235613
+    second: mete purple3_18
+  - first:
+      213: 813833355756193925
+    second: mete purple3_19
+  - first:
+      213: -2293242483205082075
+    second: mete purple3_20
+  - first:
+      213: -1344822444363640037
+    second: mete purple3_21
+  - first:
+      213: 7472339009274342648
+    second: mete purple3_22
+  - first:
+      213: 594020716744768296
+    second: mete purple3_23
+  - first:
+      213: -1883298125774619911
+    second: mete purple3_24
+  - first:
+      213: 8074737357222738206
+    second: mete purple3_25
+  - first:
+      213: -1795507144788833204
+    second: mete purple3_26
+  - first:
+      213: -6110714314098628526
+    second: mete purple3_27
+  - first:
+      213: -7363129749090232852
+    second: mete purple3_28
+  - first:
+      213: 8709689982748344800
+    second: mete purple3_29
+  - first:
+      213: 2615128927212886760
+    second: mete purple3_30
+  - first:
+      213: -6291941917844710418
+    second: mete purple3_31
+  - first:
+      213: -1857876335107450744
+    second: mete purple3_32
+  - first:
+      213: 9112698446535003183
+    second: mete purple3_33
+  - first:
+      213: -798539487246199567
+    second: mete purple3_34
+  - first:
+      213: 8423765979029000406
+    second: mete purple3_35
+  - first:
+      213: -7285472979386193218
+    second: mete purple3_36
+  - first:
+      213: 5530978962892155290
+    second: mete purple3_37
+  - first:
+      213: 4445783547894747714
+    second: mete purple3_38
+  - first:
+      213: -855709721070296284
+    second: mete purple3_39
+  - first:
+      213: -6042282433753741713
+    second: mete purple3_40
+  - first:
+      213: 2264444497129713922
+    second: mete purple3_41
+  - first:
+      213: -1306617564635318255
+    second: mete purple3_42
+  - first:
+      213: -2550247446383660256
+    second: mete purple3_43
+  - first:
+      213: -4984968587556863013
+    second: mete purple3_44
+  - first:
+      213: 1300306006123229630
+    second: mete purple3_45
+  - first:
+      213: -1616364581725916863
+    second: mete purple3_46
+  - first:
+      213: -6524488998079801711
+    second: mete purple3_47
+  - first:
+      213: 8691993673465288679
+    second: mete purple3_48
+  - first:
+      213: -3855823399903064254
+    second: mete purple3_49
+  - first:
+      213: 8888752299895559287
+    second: mete purple3_50
+  - first:
+      213: 2550718770268782788
+    second: mete purple3_51
+  - first:
+      213: 851089076249064469
+    second: mete purple3_52
+  - first:
+      213: -5532529442252238128
+    second: mete purple3_53
+  - first:
+      213: -8281816422312367184
+    second: mete purple3_54
+  - first:
+      213: 8011988210271044138
+    second: mete purple3_55
+  - first:
+      213: -2432257324566589435
+    second: mete purple3_56
+  - first:
+      213: -6970040233234942653
+    second: mete purple3_57
+  - first:
+      213: 7625635614557016115
+    second: mete purple3_58
+  - first:
+      213: 7790313859643452976
+    second: mete purple3_59
+  - first:
+      213: -8380477843898618455
+    second: mete purple3_60
+  - first:
+      213: 1407666385273932695
+    second: mete purple3_61
+  - first:
+      213: -723454042349167904
+    second: mete purple3_62
+  - first:
+      213: 3113089798577700569
+    second: mete purple3_63
+  - first:
+      213: 2945694015028106880
+    second: mete purple3_64
+  - first:
+      213: -8537858892169219751
+    second: mete purple3_65
+  - first:
+      213: -2697594893224487945
+    second: mete purple3_66
+  - first:
+      213: 4320844594165762543
+    second: mete purple3_67
+  - first:
+      213: 8355018547659052160
+    second: mete purple3_68
+  - first:
+      213: 4822903874045780406
+    second: mete purple3_69
+  - first:
+      213: 8564170468587891090
+    second: mete purple3_70
+  - first:
+      213: -838129876397288387
+    second: mete purple3_71
+  - first:
+      213: -1643060253782570954
+    second: mete purple3_72
+  - first:
+      213: 6207919733249406914
+    second: mete purple3_73
+  - first:
+      213: 3766007717428815625
+    second: mete purple3_74
+  - first:
+      213: -886715549415695906
+    second: mete purple3_75
+  - first:
+      213: -1044636930268169144
+    second: mete purple3_76
+  - first:
+      213: -1431771426247806803
+    second: mete purple3_77
+  - first:
+      213: -6165635423589056749
+    second: mete purple3_78
+  - first:
+      213: -1520666788113225704
+    second: mete purple3_79
+  - first:
+      213: 1747461296152593755
+    second: mete purple3_80
+  - first:
+      213: 5983451041490140695
+    second: mete purple3_81
+  - first:
+      213: 8387233411562912816
+    second: mete purple3_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mete purple3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d91ed4baf28cbb10800000000000000
+      internalID: 1998616347933546967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd08e880acf93de0800000000000000
+      internalID: -1352772446626247248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee9164c2665d470800000000000000
+      internalID: 8418747418779709178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fca918104d6c60a0800000000000000
+      internalID: -6887009608106660623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637c5f3c5c5233410800000000000000
+      internalID: 1455548635897251638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4826b0b3bf7b0c120800000000000000
+      internalID: 2432146088435344004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08011304aeaf0bf90800000000000000
+      internalID: -6939771141771685760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db47810a0441da0800000000000000
+      internalID: -5975079749264556793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_8
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d829218d97cab30800000000000000
+      internalID: 4299945713163472183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a1814102108f790800000000000000
+      internalID: -7496240342470485370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete purple3_10
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb1b0f3358ff4100800000000000000
+      internalID: 94567153621736434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d7e743a126b7c949a863e2a85655829
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":2.0},"gridSpriteSize":{"x":1000.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mete purple3_0: 1998616347933546967
+      mete purple3_1: -1352772446626247248
+      mete purple3_10: 94567153621736434
+      mete purple3_2: 8418747418779709178
+      mete purple3_3: -6887009608106660623
+      mete purple3_4: 1455548635897251638
+      mete purple3_5: 2432146088435344004
+      mete purple3_6: -6939771141771685760
+      mete purple3_7: -5975079749264556793
+      mete purple3_8: 4299945713163472183
+      mete purple3_9: -7496240342470485370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

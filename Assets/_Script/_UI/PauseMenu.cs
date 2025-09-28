@@ -5,6 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
+     AudioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     public static bool GameIsPause = false;
     public GameObject pauseMenuUI;
     public GameObject objectToDestroy;
@@ -24,6 +29,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void Resume()
     {
+    audioManager.PlaySFX(audioManager.buttonClick);
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = false;
         pauseMenuUI.SetActive(false);
@@ -32,6 +38,7 @@ public class PauseMenu : MonoBehaviour
     }
     void Pause()
     {
+        audioManager.PlaySFX(audioManager.buttonClick);
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
         pauseMenuUI.SetActive(true);
@@ -40,25 +47,33 @@ public class PauseMenu : MonoBehaviour
     }
     public void Map()
     {
+          GameIsPause = false;
+    Time.timeScale = 1f;
         Time.timeScale = 1f;
         foreach (GameObject obj in Resources.FindObjectsOfTypeAll<GameObject>())
         {
+            
             if (obj.hideFlags == HideFlags.None && obj.scene.IsValid())
             {
+                    if (obj.transform.root.CompareTag("Audio")) continue;
                 Destroy(obj);
             }
         }
+        
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
         SceneManager.LoadScene("LevelSelect");
     }
     public void LoadMenu()
     {
+        audioManager.PlaySFX(audioManager.buttonClick);
+            GameIsPause = false;
         Time.timeScale = 1f;
         foreach (GameObject obj in Resources.FindObjectsOfTypeAll<GameObject>())
         {
             if (obj.hideFlags == HideFlags.None && obj.scene.IsValid())
             {
+                if (obj.transform.root.CompareTag("Audio")) continue;
                 Destroy(obj);
             }
         }

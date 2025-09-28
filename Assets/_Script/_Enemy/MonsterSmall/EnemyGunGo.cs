@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class EnemyGunGo : MonoBehaviour
 {
+     AudioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     public GameObject EnemyBulletGo;
     // Start is called before the first frame update
     void Start()
@@ -31,6 +36,7 @@ public class EnemyGunGo : MonoBehaviour
                         bullet.transform.position = transform.position;
                         Vector2 direction = playerShip.transform.position - bullet.transform.position;
                         bullet.GetComponent<EnemyBullet>().SetDirection(direction);
+                        audioManager.PlaySFX(audioManager.bossshooting);
                         break;
 
                 }

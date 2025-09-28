@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 28927812898b8a8439cb752c692b6665
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8720196687289618730
+    second: mete 4_0
+  - first:
+      213: 6815880185028318818
+    second: mete 4_1
+  - first:
+      213: 5331063338467330133
+    second: mete 4_2
+  - first:
+      213: 3890110276534160552
+    second: mete 4_3
+  - first:
+      213: 4868694822365764213
+    second: mete 4_4
+  - first:
+      213: -4379858175088218973
+    second: mete 4_5
+  - first:
+      213: -5130761085069301037
+    second: mete 4_6
+  - first:
+      213: -4853865621009578375
+    second: mete 4_7
+  - first:
+      213: -2033162438231669038
+    second: mete 4_8
+  - first:
+      213: -9112165180613506313
+    second: mete 4_9
+  - first:
+      213: 3512422218317069500
+    second: mete 4_10
+  - first:
+      213: 2246984296497758664
+    second: mete 4_11
+  - first:
+      213: -8887114778112819399
+    second: mete 4_12
+  - first:
+      213: 5297735146804326472
+    second: mete 4_13
+  - first:
+      213: 902155471830429246
+    second: mete 4_14
+  - first:
+      213: -6505336639967741903
+    second: mete 4_15
+  - first:
+      213: -3667089943689767675
+    second: mete 4_16
+  - first:
+      213: -4839481699735026409
+    second: mete 4_17
+  - first:
+      213: 8377427443900177549
+    second: mete 4_18
+  - first:
+      213: -6434412199585443737
+    second: mete 4_19
+  - first:
+      213: -246232062475299665
+    second: mete 4_20
+  - first:
+      213: 4385980068504219684
+    second: mete 4_21
+  - first:
+      213: 5795837333468022277
+    second: mete 4_22
+  - first:
+      213: 5219516429791893270
+    second: mete 4_23
+  - first:
+      213: 8276243854667269757
+    second: mete 4_24
+  - first:
+      213: -387858748441679697
+    second: mete 4_25
+  - first:
+      213: -8096961491465357112
+    second: mete 4_26
+  - first:
+      213: -8894701867057299714
+    second: mete 4_27
+  - first:
+      213: 2653517295652960672
+    second: mete 4_28
+  - first:
+      213: -1101323464845097510
+    second: mete 4_29
+  - first:
+      213: 7200401857331361029
+    second: mete 4_30
+  - first:
+      213: -6298013079256182798
+    second: mete 4_31
+  - first:
+      213: 6712744295846493309
+    second: mete 4_32
+  - first:
+      213: 3329229267379606640
+    second: mete 4_33
+  - first:
+      213: 8014427781525920452
+    second: mete 4_34
+  - first:
+      213: -3730374949418290112
+    second: mete 4_35
+  - first:
+      213: -6775130914073897508
+    second: mete 4_36
+  - first:
+      213: -6281861525703286569
+    second: mete 4_37
+  - first:
+      213: 2853425630107535491
+    second: mete 4_38
+  - first:
+      213: -5941955589730991466
+    second: mete 4_39
+  - first:
+      213: 1980854616993472504
+    second: mete 4_40
+  - first:
+      213: -6194407616912328774
+    second: mete 4_41
+  - first:
+      213: -5190199252723523127
+    second: mete 4_42
+  - first:
+      213: 952768695400746085
+    second: mete 4_43
+  - first:
+      213: 262199688766714472
+    second: mete 4_44
+  - first:
+      213: 7004092238621548178
+    second: mete 4_45
+  - first:
+      213: -1166799276471455317
+    second: mete 4_46
+  - first:
+      213: 8269475324290563862
+    second: mete 4_47
+  - first:
+      213: 2194184355620784275
+    second: mete 4_48
+  - first:
+      213: -7006316148843548824
+    second: mete 4_49
+  - first:
+      213: 7170059236783535213
+    second: mete 4_50
+  - first:
+      213: 8658488404791302478
+    second: mete 4_51
+  - first:
+      213: -3060767776789719945
+    second: mete 4_52
+  - first:
+      213: 2473039492265938303
+    second: mete 4_53
+  - first:
+      213: 1752189365061588062
+    second: mete 4_54
+  - first:
+      213: -5877432167075507571
+    second: mete 4_55
+  - first:
+      213: 591313212663038771
+    second: mete 4_56
+  - first:
+      213: -924278140174555796
+    second: mete 4_57
+  - first:
+      213: -5916417399233535126
+    second: mete 4_58
+  - first:
+      213: -7464048877336226673
+    second: mete 4_59
+  - first:
+      213: -2307532574307779650
+    second: mete 4_60
+  - first:
+      213: -6234366165475057165
+    second: mete 4_61
+  - first:
+      213: 5661770210784812435
+    second: mete 4_62
+  - first:
+      213: 6406721312414383012
+    second: mete 4_63
+  - first:
+      213: 4996262907853721208
+    second: mete 4_64
+  - first:
+      213: 6660140697937664052
+    second: mete 4_65
+  - first:
+      213: -5999202991565364080
+    second: mete 4_66
+  - first:
+      213: -6680150181269816743
+    second: mete 4_67
+  - first:
+      213: -8385790209558569771
+    second: mete 4_68
+  - first:
+      213: -3546522814704609178
+    second: mete 4_69
+  - first:
+      213: -6268735347136234904
+    second: mete 4_70
+  - first:
+      213: -7137917394507575136
+    second: mete 4_71
+  - first:
+      213: 3163955665275767086
+    second: mete 4_72
+  - first:
+      213: 2889355923943996972
+    second: mete 4_73
+  - first:
+      213: -5052238839597245262
+    second: mete 4_74
+  - first:
+      213: -1537825091740883881
+    second: mete 4_75
+  - first:
+      213: 2423364392545592048
+    second: mete 4_76
+  - first:
+      213: -5748717765148574267
+    second: mete 4_77
+  - first:
+      213: 8428749442397704530
+    second: mete 4_78
+  - first:
+      213: -8935711727963039210
+    second: mete 4_79
+  - first:
+      213: -5865944722741435176
+    second: mete 4_80
+  - first:
+      213: -2388296587454753321
+    second: mete 4_81
+  - first:
+      213: 3244148232797596503
+    second: mete 4_82
+  - first:
+      213: 7317595007551234246
+    second: mete 4_83
+  - first:
+      213: 3285508692619847466
+    second: mete 4_84
+  - first:
+      213: 1985798016763007002
+    second: mete 4_85
+  - first:
+      213: -8907148472330569680
+    second: mete 4_86
+  - first:
+      213: 8036527586539031180
+    second: mete 4_87
+  - first:
+      213: 8682861220982586970
+    second: mete 4_88
+  - first:
+      213: -6240315513055795438
+    second: mete 4_89
+  - first:
+      213: 6315736658559778148
+    second: mete 4_90
+  - first:
+      213: 2140400800134462572
+    second: mete 4_91
+  - first:
+      213: -1891652297842629224
+    second: mete 4_92
+  - first:
+      213: -4915223125233709203
+    second: mete 4_93
+  - first:
+      213: 7017967297291821888
+    second: mete 4_94
+  - first:
+      213: 3604807177366318765
+    second: mete 4_95
+  - first:
+      213: -135653803710720275
+    second: mete 4_96
+  - first:
+      213: -5279359772245729808
+    second: mete 4_97
+  - first:
+      213: 8819236947232915411
+    second: mete 4_98
+  - first:
+      213: -4047152144884732586
+    second: mete 4_99
+  - first:
+      213: -2953186053988915188
+    second: mete 4_100
+  - first:
+      213: 1454849207633444850
+    second: mete 4_101
+  - first:
+      213: -7905264303406537484
+    second: mete 4_102
+  - first:
+      213: -3505624386510382939
+    second: mete 4_103
+  - first:
+      213: 1785941378657152407
+    second: mete 4_104
+  - first:
+      213: 5001477521703227659
+    second: mete 4_105
+  - first:
+      213: 4170533953159251778
+    second: mete 4_106
+  - first:
+      213: -485435714749010046
+    second: mete 4_107
+  - first:
+      213: -4609138777019783065
+    second: mete 4_108
+  - first:
+      213: -4429169115628262236
+    second: mete 4_109
+  - first:
+      213: -3731422134084564785
+    second: mete 4_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mete 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a219f6d7fac540970800000000000000
+      internalID: 8720196687289618730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669c3c8aeed69e50800000000000000
+      internalID: 6815880185028318818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55804747cddbbf940800000000000000
+      internalID: 5331063338467330133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac4ae19fa27cf530800000000000000
+      internalID: 3890110276534160552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a15ee3524119340800000000000000
+      internalID: 4868694822365764213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca64bf13e9733c0800000000000000
+      internalID: -4379858175088218973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daeb012affdbc8b0800000000000000
+      internalID: -5130761085069301037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9764e304fea93acb0800000000000000
+      internalID: -4853865621009578375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c88ad881c8c3e0800000000000000
+      internalID: -2033162438231669038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_9
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa49daeb061b8180800000000000000
+      internalID: -9112165180613506313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc7affd561aeb030800000000000000
+      internalID: 3512422218317069500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mete 4_11
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c141a80054ee2f10800000000000000
+      internalID: 2246984296497758664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 352c3172a802d484da1e61df24c39767
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":2.0},"gridSpriteSize":{"x":1000.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mete 4_0: 8720196687289618730
+      mete 4_1: 6815880185028318818
+      mete 4_10: 3512422218317069500
+      mete 4_11: 2246984296497758664
+      mete 4_2: 5331063338467330133
+      mete 4_3: 3890110276534160552
+      mete 4_4: 4868694822365764213
+      mete 4_5: -4379858175088218973
+      mete 4_6: -5130761085069301037
+      mete 4_7: -4853865621009578375
+      mete 4_8: -2033162438231669038
+      mete 4_9: -9112165180613506313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

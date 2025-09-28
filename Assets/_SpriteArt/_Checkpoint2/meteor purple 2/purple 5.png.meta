@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 29a6ebf40de083d44a39b393c5249144
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 741691418117447091
+    second: purple 5_0
+  - first:
+      213: 8020342036170394693
+    second: purple 5_1
+  - first:
+      213: 639823763761140032
+    second: purple 5_2
+  - first:
+      213: -6045695819514877916
+    second: purple 5_3
+  - first:
+      213: 3620460146819899356
+    second: purple 5_4
+  - first:
+      213: -8665992105825864174
+    second: purple 5_5
+  - first:
+      213: 1256264820324420432
+    second: purple 5_6
+  - first:
+      213: -6466285864459012514
+    second: purple 5_7
+  - first:
+      213: 8113425035508563768
+    second: purple 5_8
+  - first:
+      213: -1043380328057137044
+    second: purple 5_9
+  - first:
+      213: -4290393569921508479
+    second: purple 5_10
+  - first:
+      213: 4830050349022629238
+    second: purple 5_11
+  - first:
+      213: -2089830612587066393
+    second: purple 5_12
+  - first:
+      213: -2281427093094134094
+    second: purple 5_13
+  - first:
+      213: 1467329244108131563
+    second: purple 5_14
+  - first:
+      213: -4703282561542396838
+    second: purple 5_15
+  - first:
+      213: 2222277685886292799
+    second: purple 5_16
+  - first:
+      213: 7090612067652695639
+    second: purple 5_17
+  - first:
+      213: -4926060067677295858
+    second: purple 5_18
+  - first:
+      213: -449682344159718344
+    second: purple 5_19
+  - first:
+      213: -3760116970260561573
+    second: purple 5_20
+  - first:
+      213: -7698251227416286354
+    second: purple 5_21
+  - first:
+      213: 249147173612480543
+    second: purple 5_22
+  - first:
+      213: 5580741172220380796
+    second: purple 5_23
+  - first:
+      213: 5229326284705213862
+    second: purple 5_24
+  - first:
+      213: -4154673970574570942
+    second: purple 5_25
+  - first:
+      213: 2642812818944424550
+    second: purple 5_26
+  - first:
+      213: -7294372673468596716
+    second: purple 5_27
+  - first:
+      213: 2105248025263997477
+    second: purple 5_28
+  - first:
+      213: -6311369205872197840
+    second: purple 5_29
+  - first:
+      213: -4128978856320171114
+    second: purple 5_30
+  - first:
+      213: -9031596582184492994
+    second: purple 5_31
+  - first:
+      213: -2886519175758030599
+    second: purple 5_32
+  - first:
+      213: 8254030887024215722
+    second: purple 5_33
+  - first:
+      213: -3301174786071078772
+    second: purple 5_34
+  - first:
+      213: 4910244264693089731
+    second: purple 5_35
+  - first:
+      213: -6585605399630860001
+    second: purple 5_36
+  - first:
+      213: 5268669159391880993
+    second: purple 5_37
+  - first:
+      213: -5612982431206014613
+    second: purple 5_38
+  - first:
+      213: 605282706002726869
+    second: purple 5_39
+  - first:
+      213: 1551865653092363860
+    second: purple 5_40
+  - first:
+      213: -2034951821979047745
+    second: purple 5_41
+  - first:
+      213: 8080466286398524200
+    second: purple 5_42
+  - first:
+      213: -7613827287294054126
+    second: purple 5_43
+  - first:
+      213: 8921643743079492419
+    second: purple 5_44
+  - first:
+      213: -6741848875487156580
+    second: purple 5_45
+  - first:
+      213: -6067622277207062822
+    second: purple 5_46
+  - first:
+      213: 3219381067764730622
+    second: purple 5_47
+  - first:
+      213: -923881603913641193
+    second: purple 5_48
+  - first:
+      213: 4069362604282375783
+    second: purple 5_49
+  - first:
+      213: 4533863132668671703
+    second: purple 5_50
+  - first:
+      213: 2044464639252983549
+    second: purple 5_51
+  - first:
+      213: 2312846334092283658
+    second: purple 5_52
+  - first:
+      213: 1047601297754796776
+    second: purple 5_53
+  - first:
+      213: 1721209279001149593
+    second: purple 5_54
+  - first:
+      213: 5452954461974838380
+    second: purple 5_55
+  - first:
+      213: 1583586760780232031
+    second: purple 5_56
+  - first:
+      213: 5365367464935293817
+    second: purple 5_57
+  - first:
+      213: 6775306253504772304
+    second: purple 5_58
+  - first:
+      213: -3956172981934909307
+    second: purple 5_59
+  - first:
+      213: 809234315479044351
+    second: purple 5_60
+  - first:
+      213: -7750161284927101874
+    second: purple 5_61
+  - first:
+      213: 2575371906374929716
+    second: purple 5_62
+  - first:
+      213: 6931906813758971141
+    second: purple 5_63
+  - first:
+      213: 3722144165635650194
+    second: purple 5_64
+  - first:
+      213: -4566081831988535273
+    second: purple 5_65
+  - first:
+      213: 3572548770762962128
+    second: purple 5_66
+  - first:
+      213: -7232190463231005540
+    second: purple 5_67
+  - first:
+      213: -8932256017006675131
+    second: purple 5_68
+  - first:
+      213: -911632640923841820
+    second: purple 5_69
+  - first:
+      213: 177932044020630653
+    second: purple 5_70
+  - first:
+      213: -6907810796984131582
+    second: purple 5_71
+  - first:
+      213: -6811310997002321503
+    second: purple 5_72
+  - first:
+      213: 1754303093268337854
+    second: purple 5_73
+  - first:
+      213: 8968348514580080131
+    second: purple 5_74
+  - first:
+      213: 528709651919782598
+    second: purple 5_75
+  - first:
+      213: 2271348335347492738
+    second: purple 5_76
+  - first:
+      213: -4237488293847221826
+    second: purple 5_77
+  - first:
+      213: -2099707155874316246
+    second: purple 5_78
+  - first:
+      213: 1297142695788210958
+    second: purple 5_79
+  - first:
+      213: -5795045640987820556
+    second: purple 5_80
+  - first:
+      213: 738973403189247462
+    second: purple 5_81
+  - first:
+      213: -4909302358634436170
+    second: purple 5_82
+  - first:
+      213: -973570319116632839
+    second: purple 5_83
+  - first:
+      213: -7985005684491531111
+    second: purple 5_84
+  - first:
+      213: 6163891752245812387
+    second: purple 5_85
+  - first:
+      213: 4626112473313883719
+    second: purple 5_86
+  - first:
+      213: -2337857304271519109
+    second: purple 5_87
+  - first:
+      213: 5010496192776383559
+    second: purple 5_88
+  - first:
+      213: -7107354078957166183
+    second: purple 5_89
+  - first:
+      213: 4092980726469303107
+    second: purple 5_90
+  - first:
+      213: 1561032691742590499
+    second: purple 5_91
+  - first:
+      213: -1058796987853663402
+    second: purple 5_92
+  - first:
+      213: 901849768296005350
+    second: purple 5_93
+  - first:
+      213: -914506261418549181
+    second: purple 5_94
+  - first:
+      213: 7016115743720469970
+    second: purple 5_95
+  - first:
+      213: -7854795613156921523
+    second: purple 5_96
+  - first:
+      213: 7990682042759878904
+    second: purple 5_97
+  - first:
+      213: -5213135965463497119
+    second: purple 5_98
+  - first:
+      213: 7899643070957826141
+    second: purple 5_99
+  - first:
+      213: 747591902018039552
+    second: purple 5_100
+  - first:
+      213: 8247065833660372801
+    second: purple 5_101
+  - first:
+      213: 4840759052768926593
+    second: purple 5_102
+  - first:
+      213: -6344057585741137284
+    second: purple 5_103
+  - first:
+      213: 6330887471099392536
+    second: purple 5_104
+  - first:
+      213: -1186502758793667195
+    second: purple 5_105
+  - first:
+      213: 2553678008934873748
+    second: purple 5_106
+  - first:
+      213: 7950495600273966777
+    second: purple 5_107
+  - first:
+      213: -6508345616439724071
+    second: purple 5_108
+  - first:
+      213: 9183303173243643314
+    second: purple 5_109
+  - first:
+      213: 7841570372018776854
+    second: purple 5_110
+  - first:
+      213: -4505534100600782600
+    second: purple 5_111
+  - first:
+      213: 8628645909243943148
+    second: purple 5_112
+  - first:
+      213: 1866484153679426220
+    second: purple 5_113
+  - first:
+      213: 2353111732417924399
+    second: purple 5_114
+  - first:
+      213: -4790219027582157844
+    second: purple 5_115
+  - first:
+      213: -7469887466012784681
+    second: purple 5_116
+  - first:
+      213: 9135540136762276304
+    second: purple 5_117
+  - first:
+      213: 1911877667602254080
+    second: purple 5_118
+  - first:
+      213: -924990180020077506
+    second: purple 5_119
+  - first:
+      213: 7540437479576552632
+    second: purple 5_120
+  - first:
+      213: 7804867163271449447
+    second: purple 5_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple 5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd98d54a640b4a00800000000000000
+      internalID: 741691418117447091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cc11b969afd4f60800000000000000
+      internalID: 8020342036170394693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04116ddb25c11e800800000000000000
+      internalID: 639823763761140032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42860c10faf591ca0800000000000000
+      internalID: -6045695819514877916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf98ae42557e3230800000000000000
+      internalID: 3620460146819899356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f8e918163cb780800000000000000
+      internalID: -8665992105825864174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc147b2362f6110800000000000000
+      internalID: 1256264820324420432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567ac024432346a0800000000000000
+      internalID: -6466285864459012514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_8
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fbf31451da89070800000000000000
+      internalID: 8113425035508563768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c681684ae1b2581f0800000000000000
+      internalID: -1043380328057137044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple 5_10
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b553697c57574c0800000000000000
+      internalID: -4290393569921508479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 30316271950bc0c4b99bee251016779d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":2.0},"gridSpriteSize":{"x":1000.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      purple 5_0: 741691418117447091
+      purple 5_1: 8020342036170394693
+      purple 5_10: -4290393569921508479
+      purple 5_2: 639823763761140032
+      purple 5_3: -6045695819514877916
+      purple 5_4: 3620460146819899356
+      purple 5_5: -8665992105825864174
+      purple 5_6: 1256264820324420432
+      purple 5_7: -6466285864459012514
+      purple 5_8: 8113425035508563768
+      purple 5_9: -1043380328057137044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

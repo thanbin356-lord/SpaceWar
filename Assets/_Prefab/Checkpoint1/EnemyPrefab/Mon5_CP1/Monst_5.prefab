@@ -131,7 +131,7 @@ Animator:
   m_GameObject: {fileID: 1430722425144501389}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ac14d418889e4fb49900cf931f96632c, type: 2}
+  m_Controller: {fileID: 9100000, guid: c10df77438832e04c8aefc943ddfa357, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -269,4 +269,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5533feaf9ae8b9447a07ba384b34dc1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyBulletGo: {fileID: 7825580292387435629, guid: cd63224f8a8dc4149a2e06fe1f98f694, type: 3}
+  EnemyBulletGo: {fileID: 7825580292387435629, guid: 3538b7be46e09d046b917be9d4b94fc5, type: 3}

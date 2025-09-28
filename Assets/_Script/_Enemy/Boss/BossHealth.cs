@@ -8,6 +8,8 @@ public class BossHealth : MonoBehaviour, IDamageable
     public float CurrentHealth => currentHealth;
     private Animator animator;
     private Rigidbody2D rb;
+    AudioManager audioManager;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -16,6 +18,7 @@ public class BossHealth : MonoBehaviour, IDamageable
 
     void Awake()
     {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         rb.constraints = RigidbodyConstraints2D.FreezeAll;
@@ -39,6 +42,7 @@ public class BossHealth : MonoBehaviour, IDamageable
     {
         animator.SetTrigger("Explore");
         gameObject.layer = LayerMask.NameToLayer("Default");
+        
     }
     float IDamageable.Health { get; set; }
     public void Heal(float amount)
@@ -50,10 +54,13 @@ public class BossHealth : MonoBehaviour, IDamageable
     {
         Health -= damage;
         animator.SetTrigger("TakeDmg");
+        audioManager.PlaySFX(audioManager.bossgethit);
     }
     public void Destroyer()
     {
         Destroy(gameObject);
+        audioManager.PlaySFX(audioManager.bossdead);
+    
     }
 
     public void OnTriggerEnter2D(Collider2D col)

@@ -14,7 +14,11 @@ public class BossAttack : MonoBehaviour
     BossHealth bossHealth;
     private bool isPhase2 = false;
 
-
+    AudioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     void Start()
     {
         Invoke(nameof(StartFire), 7f);
@@ -28,7 +32,7 @@ public class BossAttack : MonoBehaviour
             fireRate = 0.05f;
             bulletSpeed = 15f;
             isPhase2 = true;
-            StopAllCoroutines();   
+            StopAllCoroutines();
             Invoke(nameof(StartFire), 5f);
         }
     }
@@ -93,7 +97,7 @@ public class BossAttack : MonoBehaviour
                 float bulDirX = Mathf.Cos(angle * Mathf.Deg2Rad);
                 float bulDirY = Mathf.Sin(angle * Mathf.Deg2Rad);
                 Vector2 bulDir = new Vector2(bulDirX, bulDirY).normalized;
-
+                audioManager.PlaySFX(audioManager.bossshooting);
                 SpawnBullet(bulDir);
                 angle += angleStep;
             }
@@ -111,7 +115,7 @@ public class BossAttack : MonoBehaviour
             float bulDirX = Mathf.Cos(angle * Mathf.Deg2Rad);
             float bulDirY = Mathf.Sin(angle * Mathf.Deg2Rad);
             Vector2 bulDir = new Vector2(bulDirX, bulDirY).normalized;
-
+            audioManager.PlaySFX(audioManager.bossshooting);
             SpawnBullet(bulDir);
             angle += 15f;
             yield return new WaitForSeconds(0.05f);
@@ -129,7 +133,7 @@ public class BossAttack : MonoBehaviour
                 float bulDirX = Mathf.Cos(angle * Mathf.Deg2Rad);
                 float bulDirY = Mathf.Sin(angle * Mathf.Deg2Rad);
                 Vector2 bulDir = new Vector2(bulDirX, bulDirY).normalized;
-
+                audioManager.PlaySFX(audioManager.bossshooting);
                 SpawnBullet(bulDir);
             }
             yield return new WaitForSeconds(0.3f);
@@ -144,6 +148,7 @@ public class BossAttack : MonoBehaviour
 
         for (int i = 0; i < 15; i++)
         {
+            audioManager.PlaySFX(audioManager.bossshooting);
             Vector2 dir = (player.transform.position - firePoint.position).normalized;
             SpawnBullet(dir);
             yield return new WaitForSeconds(0.2f);
@@ -162,7 +167,7 @@ public class BossAttack : MonoBehaviour
             GameObject prefab = bossHealth.CurrentHealth <= bossHealth.maxHealth / 2
                 ? EnemyBulletGo2
                 : EnemyBulletGo;
-
+            audioManager.PlaySFX(audioManager.bossshooting);
             GameObject b = Instantiate(prefab, spawnPos, Quaternion.identity);
             Rigidbody2D rb = b.GetComponent<Rigidbody2D>();
             rb.linearVelocity = dir * bulletSpeed;

@@ -41,6 +41,7 @@ public class TImeBetweenSpawn : MonoBehaviour
             Debug.Log("All turns finished!");
             int levelIndex = PlayerPrefs.GetInt("CurrentLevelIndex", 1);
             PlayerPrefs.SetInt("Level_" + levelIndex + "_Completed", 1);
+            Debug.Log(">>> Saved completion: Level_" + levelIndex);
             PlayerPrefs.Save();
             StartCoroutine(EnableTimeline(1f));
             StartCoroutine(LoadMainMenuAfterDelay(9f));

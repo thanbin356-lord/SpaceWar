@@ -9,7 +9,11 @@ public class EnemyHealth : MonoBehaviour, IDamageable
     private float currentHealth;
     private Animator animator;
     private Rigidbody2D rb;
-
+    AudioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     public float Health
     {
         set
@@ -40,10 +44,12 @@ public class EnemyHealth : MonoBehaviour, IDamageable
     {
         Health -= damage;
         animator.SetTrigger("TakeDmg");
+        audioManager.PlaySFX(audioManager.bossgethit);
     }
     public void Destroyer()
     {
         Destroy(gameObject);
+        audioManager.PlaySFX(audioManager.bossdead);
     }
     void Start()
     {
@@ -58,6 +64,7 @@ public class EnemyHealth : MonoBehaviour, IDamageable
         if (idamageable != null && col.tag == "Player")
         {
             idamageable.OnHit(damage);
+            
         }
     }
     void Update()

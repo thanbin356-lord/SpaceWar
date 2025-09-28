@@ -51,6 +51,7 @@ public class BossController : MonoBehaviour
         {
             isTransitioning = true;
             isMovingToCenter = true; // bắt đầu di chuyển về giữa màn
+            col.enabled = false;
             Debug.Log($"[BossHealth] HP={bossHealth.CurrentHealth}, bắt đầu di chuyển về giữa màn");
         }
 
@@ -101,7 +102,7 @@ public class BossController : MonoBehaviour
         }
         else if (waitingForTransition)
         {
-            // đợi animation kết thúc → boss đứng yên, không di chuyển
+            col.enabled = false;
         }
         else
         {

@@ -17,6 +17,11 @@ public class PlayerControll : MonoBehaviour
     private Vector3 lastMousePosition;
     private Rigidbody2D rb;
     private Vector2 moveInput;
+    AudioManager audioManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -40,8 +45,10 @@ public class PlayerControll : MonoBehaviour
 
     void OnFire()
     {
+        if (PauseMenu.GameIsPause) return;
         if (Time.time >= nextFireTime)
         {
+            audioManager.PlaySFX(audioManager.shooting);
             GameObject bullet01 = (GameObject)Instantiate(PlayerBullet);
             bullet01.transform.position = BulletPosition1.transform.position;
 
@@ -49,6 +56,7 @@ public class PlayerControll : MonoBehaviour
             bullet02.transform.position = BulletPosition2.transform.position;
 
             nextFireTime = Time.time + fireRate;
+
         }
     }
     void OnMove(InputValue value)

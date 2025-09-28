@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 0ecd645b0a439aa489107f2b6f3fa263
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1170091800523498069
+    second: Intellagel-Insandrome-trans_1_0
+  - first:
+      213: -1875671618867360363
+    second: Intellagel-Insandrome-trans_1_1
+  - first:
+      213: -1246968261594086748
+    second: Intellagel-Insandrome-trans_1_2
+  - first:
+      213: 7724336258844382674
+    second: Intellagel-Insandrome-trans_1_3
+  - first:
+      213: 1998751462989394304
+    second: Intellagel-Insandrome-trans_1_4
+  - first:
+      213: -5003276436898648058
+    second: Intellagel-Insandrome-trans_1_5
+  - first:
+      213: -3696283420834596383
+    second: Intellagel-Insandrome-trans_1_6
+  - first:
+      213: 1465764635223916166
+    second: Intellagel-Insandrome-trans_1_7
+  - first:
+      213: 7443520771198997521
+    second: Intellagel-Insandrome-trans_1_8
+  - first:
+      213: -8015214008590646113
+    second: Intellagel-Insandrome-trans_1_9
+  - first:
+      213: 7907487590615940591
+    second: Intellagel-Insandrome-trans_1_10
+  - first:
+      213: 801897084287824264
+    second: Intellagel-Insandrome-trans_1_11
+  - first:
+      213: 400598946860954357
+    second: Intellagel-Insandrome-trans_1_12
+  - first:
+      213: 5833709992851662628
+    second: Intellagel-Insandrome-trans_1_13
+  - first:
+      213: -6324720421536607125
+    second: Intellagel-Insandrome-trans_1_14
+  - first:
+      213: -2590546918298717845
+    second: Intellagel-Insandrome-trans_1_15
+  - first:
+      213: -4984739298291512755
+    second: Intellagel-Insandrome-trans_1_16
+  - first:
+      213: -3869153677645863146
+    second: Intellagel-Insandrome-trans_1_17
+  - first:
+      213: 199010433580033754
+    second: Intellagel-Insandrome-trans_1_18
+  - first:
+      213: -60297377093539345
+    second: Intellagel-Insandrome-trans_1_19
+  - first:
+      213: 8350569521321203155
+    second: Intellagel-Insandrome-trans_1_20
+  - first:
+      213: 7568850131066120966
+    second: Intellagel-Insandrome-trans_1_21
+  - first:
+      213: 4597541028114810460
+    second: Intellagel-Insandrome-trans_1_22
+  - first:
+      213: 5308529545932017819
+    second: Intellagel-Insandrome-trans_1_23
+  - first:
+      213: -5108478111467201662
+    second: Intellagel-Insandrome-trans_1_24
+  - first:
+      213: 572229247401434993
+    second: Intellagel-Insandrome-trans_1_25
+  - first:
+      213: 5484001619874621791
+    second: Intellagel-Insandrome-trans_1_26
+  - first:
+      213: -2901754769741371909
+    second: Intellagel-Insandrome-trans_1_27
+  - first:
+      213: 5021054097148743456
+    second: Intellagel-Insandrome-trans_1_28
+  - first:
+      213: -292758178861009121
+    second: Intellagel-Insandrome-trans_1_29
+  - first:
+      213: -3065903921610680808
+    second: Intellagel-Insandrome-trans_1_30
+  - first:
+      213: 6826232530306230832
+    second: Intellagel-Insandrome-trans_1_31
+  - first:
+      213: 7895152668925212840
+    second: Intellagel-Insandrome-trans_1_32
+  - first:
+      213: 8647358988329848444
+    second: Intellagel-Insandrome-trans_1_33
+  - first:
+      213: 4360923595126388709
+    second: Intellagel-Insandrome-trans_1_34
+  - first:
+      213: 2782731141365552217
+    second: Intellagel-Insandrome-trans_1_35
+  - first:
+      213: 8253470904750883225
+    second: Intellagel-Insandrome-trans_1_36
+  - first:
+      213: -7574190739228227503
+    second: Intellagel-Insandrome-trans_1_37
+  - first:
+      213: 4820776842892799193
+    second: Intellagel-Insandrome-trans_1_38
+  - first:
+      213: 5266076568746905687
+    second: Intellagel-Insandrome-trans_1_39
+  - first:
+      213: -7745577389919920492
+    second: Intellagel-Insandrome-trans_1_40
+  - first:
+      213: 5478814683826379314
+    second: Intellagel-Insandrome-trans_1_41
+  - first:
+      213: 5392543269714224609
+    second: Intellagel-Insandrome-trans_1_42
+  - first:
+      213: -4832696450611942943
+    second: Intellagel-Insandrome-trans_1_43
+  - first:
+      213: 5907345656773864763
+    second: Intellagel-Insandrome-trans_1_44
+  - first:
+      213: -6554394306350119278
+    second: Intellagel-Insandrome-trans_1_45
+  - first:
+      213: -2188247388452193086
+    second: Intellagel-Insandrome-trans_1_46
+  - first:
+      213: -3546645619314006491
+    second: Intellagel-Insandrome-trans_1_47
+  - first:
+      213: -6987854099444347634
+    second: Intellagel-Insandrome-trans_1_48
+  - first:
+      213: -3696967217764115869
+    second: Intellagel-Insandrome-trans_1_49
+  - first:
+      213: 5420443907107377887
+    second: Intellagel-Insandrome-trans_1_50
+  - first:
+      213: 3594527463860317268
+    second: Intellagel-Insandrome-trans_1_51
+  - first:
+      213: -6452672763218972226
+    second: Intellagel-Insandrome-trans_1_52
+  - first:
+      213: 7419539833123434149
+    second: Intellagel-Insandrome-trans_1_53
+  - first:
+      213: 386422826958482142
+    second: Intellagel-Insandrome-trans_1_54
+  - first:
+      213: -1592809950298963520
+    second: Intellagel-Insandrome-trans_1_55
+  - first:
+      213: -8217802175006828856
+    second: Intellagel-Insandrome-trans_1_56
+  - first:
+      213: -6050402447191412155
+    second: Intellagel-Insandrome-trans_1_57
+  - first:
+      213: 7339693856990698141
+    second: Intellagel-Insandrome-trans_1_58
+  - first:
+      213: 2585222501219244103
+    second: Intellagel-Insandrome-trans_1_59
+  - first:
+      213: -3509752260824706733
+    second: Intellagel-Insandrome-trans_1_60
+  - first:
+      213: 4605471975961969215
+    second: Intellagel-Insandrome-trans_1_61
+  - first:
+      213: -6539070743579224443
+    second: Intellagel-Insandrome-trans_1_62
+  - first:
+      213: -4103443850181489999
+    second: Intellagel-Insandrome-trans_1_63
+  - first:
+      213: 4747048250778032807
+    second: Intellagel-Insandrome-trans_1_64
+  - first:
+      213: -5583677128588382754
+    second: Intellagel-Insandrome-trans_1_65
+  - first:
+      213: -3305812130394963918
+    second: Intellagel-Insandrome-trans_1_66
+  - first:
+      213: 2413304023275402856
+    second: Intellagel-Insandrome-trans_1_67
+  - first:
+      213: 5236546575091439483
+    second: Intellagel-Insandrome-trans_1_68
+  - first:
+      213: 1558921614293163342
+    second: Intellagel-Insandrome-trans_1_69
+  - first:
+      213: 3388780345822433028
+    second: Intellagel-Insandrome-trans_1_70
+  - first:
+      213: -2165377775142304406
+    second: Intellagel-Insandrome-trans_1_71
+  - first:
+      213: 1996398294533831252
+    second: Intellagel-Insandrome-trans_1_72
+  - first:
+      213: -6053268184119846407
+    second: Intellagel-Insandrome-trans_1_73
+  - first:
+      213: -5486258191653095433
+    second: Intellagel-Insandrome-trans_1_74
+  - first:
+      213: -5514661740624004550
+    second: Intellagel-Insandrome-trans_1_75
+  - first:
+      213: -2215240541301393037
+    second: Intellagel-Insandrome-trans_1_76
+  - first:
+      213: 4152079693710988717
+    second: Intellagel-Insandrome-trans_1_77
+  - first:
+      213: 8126334280981354955
+    second: Intellagel-Insandrome-trans_1_78
+  - first:
+      213: -3403000868701677999
+    second: Intellagel-Insandrome-trans_1_79
+  - first:
+      213: -5334302791418149300
+    second: Intellagel-Insandrome-trans_1_80
+  - first:
+      213: -1650161133570637657
+    second: Intellagel-Insandrome-trans_1_81
+  - first:
+      213: 4533290448238462688
+    second: Intellagel-Insandrome-trans_1_82
+  - first:
+      213: 5517393289550837596
+    second: Intellagel-Insandrome-trans_1_83
+  - first:
+      213: -411286254162728328
+    second: Intellagel-Insandrome-trans_1_84
+  - first:
+      213: -90929936971821733
+    second: Intellagel-Insandrome-trans_1_85
+  - first:
+      213: -5971147674469931382
+    second: Intellagel-Insandrome-trans_1_86
+  - first:
+      213: 1754427092792690099
+    second: Intellagel-Insandrome-trans_1_87
+  - first:
+      213: 4227207142925547516
+    second: Intellagel-Insandrome-trans_1_88
+  - first:
+      213: -9025535549309697145
+    second: Intellagel-Insandrome-trans_1_89
+  - first:
+      213: -284068121373687862
+    second: Intellagel-Insandrome-trans_1_90
+  - first:
+      213: -9118383710657576038
+    second: Intellagel-Insandrome-trans_1_91
+  - first:
+      213: 784582108625713098
+    second: Intellagel-Insandrome-trans_1_92
+  - first:
+      213: -1864079101525003756
+    second: Intellagel-Insandrome-trans_1_93
+  - first:
+      213: 4004362420321665511
+    second: Intellagel-Insandrome-trans_1_94
+  - first:
+      213: -5088458570251249993
+    second: Intellagel-Insandrome-trans_1_95
+  - first:
+      213: 2434996542701642852
+    second: Intellagel-Insandrome-trans_1_96
+  - first:
+      213: -4485722942861194475
+    second: Intellagel-Insandrome-trans_1_97
+  - first:
+      213: 1424213536331389691
+    second: Intellagel-Insandrome-trans_1_98
+  - first:
+      213: -8935762878533040999
+    second: Intellagel-Insandrome-trans_1_99
+  - first:
+      213: 3010932997073710649
+    second: Intellagel-Insandrome-trans_1_100
+  - first:
+      213: 8022393270743345347
+    second: Intellagel-Insandrome-trans_1_101
+  - first:
+      213: -102350267839302592
+    second: Intellagel-Insandrome-trans_1_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552eccc0b400d3010800000000000000
+      internalID: 1170091800523498069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d0122b99648f5e0800000000000000
+      internalID: -1875671618867360363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28f7909f0e1bee0800000000000000
+      internalID: -1246968261594086748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d612f6ea523b60800000000000000
+      internalID: 7724336258844382674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08176c1adddfcbb10800000000000000
+      internalID: 1998751462989394304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600f291d69ac09ab0800000000000000
+      internalID: -5003276436898648058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fcffffc924bcc0800000000000000
+      internalID: -3696283420834596383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ef9d67b21775410800000000000000
+      internalID: 1465764635223916166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114de8534b2bc4760800000000000000
+      internalID: 7443520771198997521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_9
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94483b535d34c090800000000000000
+      internalID: -8015214008590646113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf878611a0dbd60800000000000000
+      internalID: 7907487590615940591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b5674629e02b00800000000000000
+      internalID: 801897084287824264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2fa05ae963f8500800000000000000
+      internalID: 400598946860954357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_13
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427e196845085f050800000000000000
+      internalID: 5833709992851662628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_14
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d6a259441a38a0800000000000000
+      internalID: -6324720421536607125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6172d89d478c0cd0800000000000000
+      internalID: -2590546918298717845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a876bb406a2dab0800000000000000
+      internalID: -4984739298291512755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617a586da310e4ac0800000000000000
+      internalID: -3869153677645863146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_18
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad662285fe603c200800000000000000
+      internalID: 199010433580033754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_19
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9a371ead7c92ff0800000000000000
+      internalID: -60297377093539345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5dd868cbe23e370800000000000000
+      internalID: 8350569521321203155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_21
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b6d5cb715f90960800000000000000
+      internalID: 7568850131066120966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intellagel-Insandrome-trans_1_22
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56411dc43fbdcf30800000000000000
+      internalID: 4597541028114810460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f01239a69d3c9dc49957a64c97c0e41f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Intellagel-Insandrome-trans_1_0: 1170091800523498069
+      Intellagel-Insandrome-trans_1_1: -1875671618867360363
+      Intellagel-Insandrome-trans_1_10: 7907487590615940591
+      Intellagel-Insandrome-trans_1_11: 801897084287824264
+      Intellagel-Insandrome-trans_1_12: 400598946860954357
+      Intellagel-Insandrome-trans_1_13: 5833709992851662628
+      Intellagel-Insandrome-trans_1_14: -6324720421536607125
+      Intellagel-Insandrome-trans_1_15: -2590546918298717845
+      Intellagel-Insandrome-trans_1_16: -4984739298291512755
+      Intellagel-Insandrome-trans_1_17: -3869153677645863146
+      Intellagel-Insandrome-trans_1_18: 199010433580033754
+      Intellagel-Insandrome-trans_1_19: -60297377093539345
+      Intellagel-Insandrome-trans_1_2: -1246968261594086748
+      Intellagel-Insandrome-trans_1_20: 8350569521321203155
+      Intellagel-Insandrome-trans_1_21: 7568850131066120966
+      Intellagel-Insandrome-trans_1_22: 4597541028114810460
+      Intellagel-Insandrome-trans_1_3: 7724336258844382674
+      Intellagel-Insandrome-trans_1_4: 1998751462989394304
+      Intellagel-Insandrome-trans_1_5: -5003276436898648058
+      Intellagel-Insandrome-trans_1_6: -3696283420834596383
+      Intellagel-Insandrome-trans_1_7: 1465764635223916166
+      Intellagel-Insandrome-trans_1_8: 7443520771198997521
+      Intellagel-Insandrome-trans_1_9: -8015214008590646113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

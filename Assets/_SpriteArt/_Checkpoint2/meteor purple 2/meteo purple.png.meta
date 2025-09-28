@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 5f597c71384b3e04fba8428246189b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5271868935155365727
+    second: meteo purple_0
+  - first:
+      213: 2851042279854571563
+    second: meteo purple_1
+  - first:
+      213: -7132473212013966542
+    second: meteo purple_2
+  - first:
+      213: 5932835899638314222
+    second: meteo purple_3
+  - first:
+      213: 1034348180330129143
+    second: meteo purple_4
+  - first:
+      213: 1148904104096903023
+    second: meteo purple_5
+  - first:
+      213: 1022479580889103582
+    second: meteo purple_6
+  - first:
+      213: -1409916125771559286
+    second: meteo purple_7
+  - first:
+      213: 8249796838201017115
+    second: meteo purple_8
+  - first:
+      213: 8890427709874294923
+    second: meteo purple_9
+  - first:
+      213: 8543417259426118155
+    second: meteo purple_10
+  - first:
+      213: 4133230926408486759
+    second: meteo purple_11
+  - first:
+      213: 6727187403836934588
+    second: meteo purple_12
+  - first:
+      213: -8060633839528476098
+    second: meteo purple_13
+  - first:
+      213: -6195826644805378752
+    second: meteo purple_14
+  - first:
+      213: 3090732727848823209
+    second: meteo purple_15
+  - first:
+      213: 6062593184438355328
+    second: meteo purple_16
+  - first:
+      213: -1951174512239981006
+    second: meteo purple_17
+  - first:
+      213: -255720235733506186
+    second: meteo purple_18
+  - first:
+      213: -6619229745604501842
+    second: meteo purple_19
+  - first:
+      213: 365875580525381452
+    second: meteo purple_20
+  - first:
+      213: -2343544169115201012
+    second: meteo purple_21
+  - first:
+      213: -159151193886004410
+    second: meteo purple_22
+  - first:
+      213: 2941237521120593726
+    second: meteo purple_23
+  - first:
+      213: 8503583179308683799
+    second: meteo purple_24
+  - first:
+      213: 3680394422943733515
+    second: meteo purple_25
+  - first:
+      213: -8175263215925540348
+    second: meteo purple_26
+  - first:
+      213: -505729427483849683
+    second: meteo purple_27
+  - first:
+      213: -7272142575732078741
+    second: meteo purple_28
+  - first:
+      213: 3528348953848651793
+    second: meteo purple_29
+  - first:
+      213: 3006933825850594071
+    second: meteo purple_30
+  - first:
+      213: 5849598798279388349
+    second: meteo purple_31
+  - first:
+      213: -94264682010854855
+    second: meteo purple_32
+  - first:
+      213: -1915523198760020931
+    second: meteo purple_33
+  - first:
+      213: -388164949335680437
+    second: meteo purple_34
+  - first:
+      213: -2924004616581671797
+    second: meteo purple_35
+  - first:
+      213: -5612059729442977807
+    second: meteo purple_36
+  - first:
+      213: 6564402833322778629
+    second: meteo purple_37
+  - first:
+      213: 478994664422895588
+    second: meteo purple_38
+  - first:
+      213: 4006156431889609871
+    second: meteo purple_39
+  - first:
+      213: -7104662438831660552
+    second: meteo purple_40
+  - first:
+      213: -7539444936240397229
+    second: meteo purple_41
+  - first:
+      213: -976960080623634454
+    second: meteo purple_42
+  - first:
+      213: 857313377857477099
+    second: meteo purple_43
+  - first:
+      213: 5771157177200878807
+    second: meteo purple_44
+  - first:
+      213: 192518500923727807
+    second: meteo purple_45
+  - first:
+      213: 5894595887669865996
+    second: meteo purple_46
+  - first:
+      213: 2160008192110268574
+    second: meteo purple_47
+  - first:
+      213: -7906100821344709916
+    second: meteo purple_48
+  - first:
+      213: -3888010524002431445
+    second: meteo purple_49
+  - first:
+      213: 2862032254956381221
+    second: meteo purple_50
+  - first:
+      213: -5341395989925046418
+    second: meteo purple_51
+  - first:
+      213: 3289452329843661423
+    second: meteo purple_52
+  - first:
+      213: 5464925541735274316
+    second: meteo purple_53
+  - first:
+      213: -8302975645853342195
+    second: meteo purple_54
+  - first:
+      213: -9087215949540266962
+    second: meteo purple_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meteo purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c5a1922f86d6b0800000000000000
+      internalID: -5271868935155365727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b200a5a19dfe09720800000000000000
+      internalID: 2851042279854571563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b0be3376d540d90800000000000000
+      internalID: -7132473212013966542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee470a431daa55250800000000000000
+      internalID: 5932835899638314222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f626a6903eba5e00800000000000000
+      internalID: 1034348180330129143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f2fad023ab1ff00800000000000000
+      internalID: 1148904104096903023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc3cf0f2c3903e00800000000000000
+      internalID: 1022479580889103582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8a40f0c8fe6ce0800000000000000
+      internalID: -1409916125771559286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_8
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13cc1ad38a2d7270800000000000000
+      internalID: 8249796838201017115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80d85c06e4216b70800000000000000
+      internalID: 8890427709874294923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meteo purple_10
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af8048bb0509670800000000000000
+      internalID: 8543417259426118155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0fe24c8c09c66a4b97ec04ea32623f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":2.0},"gridSpriteSize":{"x":1000.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      meteo purple_0: -5271868935155365727
+      meteo purple_1: 2851042279854571563
+      meteo purple_10: 8543417259426118155
+      meteo purple_2: -7132473212013966542
+      meteo purple_3: 5932835899638314222
+      meteo purple_4: 1034348180330129143
+      meteo purple_5: 1148904104096903023
+      meteo purple_6: 1022479580889103582
+      meteo purple_7: -1409916125771559286
+      meteo purple_8: 8249796838201017115
+      meteo purple_9: 8890427709874294923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

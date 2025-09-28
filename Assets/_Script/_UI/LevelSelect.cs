@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelSelect : MonoBehaviour
+public class LevelButton : MonoBehaviour
 {
     public int levelIndex;
     public Animator animator;
@@ -11,13 +11,16 @@ public class LevelSelect : MonoBehaviour
     public Sprite lockedSprite;
 
     private bool unlocked = false;
+    AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
     void Start()
     {
-        animator.ResetTrigger("Unlock");
-        animator.ResetTrigger("Completed");
         CheckUnlock();
-
     }
 
     void CheckUnlock()
@@ -34,22 +37,24 @@ public class LevelSelect : MonoBehaviour
 
         animator.enabled = true;
 
-        // Unlock animation
-        if (spriteRenderer.sprite == lockedSprite)
+        bool firstTimeUnlock = PlayerPrefs.GetInt("Level_" + levelIndex + "_Unlocked", 0) == 0;
+        if (firstTimeUnlock && !IsCompleted())
         {
             animator.SetTrigger("Unlock");
             spriteRenderer.sprite = normalSprite;
+
+            PlayerPrefs.SetInt("Level_" + levelIndex + "_Unlocked", 1);
+            PlayerPrefs.Save();
         }
 
-        // Completed animation chỉ khi level thực sự hoàn thành
+
         if (IsCompleted())
         {
             spriteRenderer.sprite = completedSprite;
-            animator.ResetTrigger("Completed"); // đảm bảo không còn trigger cũ
+            animator.ResetTrigger("Completed");
             animator.SetTrigger("Completed");
         }
     }
-
 
     void OnMouseEnter()
     {
@@ -65,30 +70,19 @@ public class LevelSelect : MonoBehaviour
 
     void OnMouseDown()
     {
-        if (unlocked && !IsCompleted())
+        if (unlocked)
         {
             animator.SetTrigger("Pressed");
-            LoadLevel();
+            audioManager.PlaySFX(audioManager.buttonClick);
+            PlayerPrefs.SetInt("CurrentLevelIndex", levelIndex);
+            PlayerPrefs.Save();
+            Debug.Log(">>> CurrentLevelIndex set to " + levelIndex);
+            SceneManager.LoadScene("Scene" + levelIndex);
         }
-    }
-
-    public void WinLevel()
-    {
-        PlayerPrefs.SetInt("Level_" + levelIndex + "_Completed", 1);
-        PlayerPrefs.Save();
-
-        spriteRenderer.sprite = completedSprite;
-        animator.SetTrigger("Completed");
     }
 
     private bool IsCompleted()
     {
-        return PlayerPrefs.HasKey("Level_" + levelIndex + "_Completed") &&
-               PlayerPrefs.GetInt("Level_" + levelIndex + "_Completed") == 1;
-    }
-
-    private void LoadLevel()
-    {
-        SceneManager.LoadScene("Scene" + levelIndex);
+        return PlayerPrefs.GetInt("Level_" + levelIndex + "_Completed", 0) == 1;
     }
 }

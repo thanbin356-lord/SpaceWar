@@ -13,7 +13,12 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     private Animator animator;
     private Rigidbody2D rb;
     private Collider2D col;
-
+    AudioManager audioManager;
+    [SerializeField] private GameOver gameOverManager;
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     public float Health
     {
         set
@@ -49,6 +54,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         Health -= damage;
         gameObject.tag = "Untagged";
         HealthTime = Time.time + 10f;
+        audioManager.PlaySFX(audioManager.gethit);
     }
 
     public void EnableShield()
@@ -62,7 +68,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     }
     public void Destroyer()
     {
-        Destroy(gameObject, 1f);
+        gameObject.tag = "Untagged";
+        audioManager.PlaySFX(audioManager.death);
+        gameOverManager.ShowGameOverScreen();
     }
     void Start()
     {
@@ -78,6 +86,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         if (idamageable != null && col.tag == "Enemy")
         {
             idamageable.OnHit(damage);
+            audioManager.PlaySFX(audioManager.tourch);
         }
     }
     void Update()
