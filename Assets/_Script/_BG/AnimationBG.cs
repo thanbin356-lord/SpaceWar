@@ -8,6 +8,7 @@ public class AnimationBG : MonoBehaviour
     public float amplitudeX = 0.05f; // biên độ lắc X
     public float amplitudeY = 0.05f; // biên độ lắc Y
     public Renderer BackgroundRenderer;
+    public SpriteRenderer ButtonRender;
 
     private Vector2 offset;
 
@@ -15,7 +16,9 @@ public class AnimationBG : MonoBehaviour
     {
         offset.x = Mathf.Sin(Time.time * speedX) * amplitudeX;
         offset.y = Mathf.Cos(Time.time * speedY) * amplitudeY;
-
-        BackgroundRenderer.material.mainTextureOffset = offset;
+        if (BackgroundRenderer != null)
+        {
+            BackgroundRenderer.material.mainTextureOffset = offset;
+        }
     }
 }

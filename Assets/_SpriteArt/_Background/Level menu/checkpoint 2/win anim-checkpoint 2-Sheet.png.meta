@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -150,10 +150,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_0
       rect:
         serializedVersion: 2
-        x: 119
-        y: 109
-        width: 772
-        height: 762
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,10 +172,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_1
       rect:
         serializedVersion: 2
-        x: 1119
-        y: 109
-        width: 772
-        height: 891
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_2
       rect:
         serializedVersion: 2
-        x: 2119
-        y: 109
-        width: 772
-        height: 891
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_3
       rect:
         serializedVersion: 2
-        x: 3119
-        y: 109
-        width: 772
-        height: 891
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_4
       rect:
         serializedVersion: 2
-        x: 4119
-        y: 109
-        width: 772
-        height: 891
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_5
       rect:
         serializedVersion: 2
-        x: 5089
-        y: 109
-        width: 832
-        height: 891
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_6
       rect:
         serializedVersion: 2
-        x: 6089
-        y: 109
-        width: 832
-        height: 891
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: win anim-checkpoint 2-Sheet_7
       rect:
         serializedVersion: 2
-        x: 7089
-        y: 109
-        width: 832
-        height: 891
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,7 +326,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ff0b5156bbe18ff4a8b225a58a558d0e
     internalID: 0
     vertices: []
     indices: 
@@ -334,7 +334,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":1000.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       win anim-checkpoint 2-Sheet_0: 4508466214292000327
       win anim-checkpoint 2-Sheet_1: 6350693960470419342

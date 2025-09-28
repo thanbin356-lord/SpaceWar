@@ -39,32 +39,46 @@ public class Wave : MonoBehaviour, IWave
     private List<GameObject> spawnedEnemies = new List<GameObject>();
     private bool finishedSpawning = false;
     public event Action<IWave> OnWaveFinished;
+    private bool hasReportedFinished = false;
 
     #endregion
 
     private void OnEnable()
     {
         ResetWave();
-        StartCoroutine(CreateEnemyWave());
+
     }
 
     private void Update()
     {
         spawnedEnemies.RemoveAll(e => e == null);
 
-        if (spawnedEnemies.Count == 0 && finishedSpawning)
+        if (!hasReportedFinished && spawnedEnemies.Count == 0 && finishedSpawning)
         {
-            // báo cha (SpawnWave) biết là wave này xong
-            OnWaveFinished?.Invoke((IWave)this);
+            hasReportedFinished = true;
+            Debug.Log($"[Wave] {gameObject.name} finished at {Time.time}");
+            OnWaveFinished?.Invoke(this);
         }
+    }
+
+    public void ResetWave()
+    {
+        StartCoroutine(CreateEnemyWave());
+        spawnedEnemies.Clear();
+        finishedSpawning = false;
+        hasReportedFinished = false;   
     }
 
     IEnumerator CreateEnemyWave()
     {
         for (int i = 0; i < count; i++)
         {
-            GameObject newEnemy = Instantiate(enemy, enemy.transform.position, Quaternion.identity);
+            Vector3 spawnPos = pathPoints.Length > 0 ? pathPoints[0].position : Vector3.zero;
+
+            GameObject newEnemy = Instantiate(enemy, spawnPos, Quaternion.identity);
             spawnedEnemies.Add(newEnemy);
+
+            Debug.Log($"[Wave] {gameObject.name} spawned enemy {i + 1}/{count}");
 
             var follow = newEnemy.GetComponent<FollowThePath>();
             follow.path = pathPoints;
@@ -74,23 +88,14 @@ public class Wave : MonoBehaviour, IWave
             follow.SetPath();
 
             newEnemy.SetActive(true);
+
             yield return new WaitForSeconds(timeBetween);
         }
 
-        if (testMode)
-        {
-            yield return new WaitForSeconds(3);
-            StartCoroutine(CreateEnemyWave());
-        }
         finishedSpawning = true;
     }
 
-    public void ResetWave()
-    {
-        StopAllCoroutines();
-        spawnedEnemies.Clear();
-        finishedSpawning = false;
-    }
+
 
     void OnDrawGizmos()
     {

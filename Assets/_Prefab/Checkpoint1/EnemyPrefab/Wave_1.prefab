@@ -109,7 +109,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4818435048438942
 Transform:
   m_ObjectHideFlags: 0
@@ -140,10 +140,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d54f55d7b68afb44aefb38554b7c7ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 0}
-  count: 0
-  speed: 0
-  timeBetween: 0
+  enemy: {fileID: 7995138656162732985, guid: dc800ea9fdf95ee4198e817b60273e45, type: 3}
+  count: 10
+  speed: 5
+  timeBetween: 1
   pathPoints:
   - {fileID: 4858740230125270}
   - {fileID: 4763388724871704}

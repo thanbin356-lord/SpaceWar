@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -105,7 +105,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -159,10 +159,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_0
       rect:
         serializedVersion: 2
-        x: 119
-        y: 109
-        width: 772
-        height: 762
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_1
       rect:
         serializedVersion: 2
-        x: 1119
-        y: 109
-        width: 772
-        height: 762
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_2
       rect:
         serializedVersion: 2
-        x: 2119
-        y: 109
-        width: 772
-        height: 762
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_3
       rect:
         serializedVersion: 2
-        x: 3089
-        y: 109
-        width: 822
-        height: 792
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_4
       rect:
         serializedVersion: 2
-        x: 4019
-        y: 69
-        width: 952
-        height: 882
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_5
       rect:
         serializedVersion: 2
-        x: 5009
-        y: 29
-        width: 1992
-        height: 962
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_6
       rect:
         serializedVersion: 2
-        x: 6999
-        y: 29
-        width: 1002
-        height: 962
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,10 +313,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_7
       rect:
         serializedVersion: 2
-        x: 7999
-        y: 29
-        width: 1002
-        height: 962
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,10 +335,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_8
       rect:
         serializedVersion: 2
-        x: 8999
-        y: 29
-        width: 1002
-        height: 962
+        x: 8000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_9
       rect:
         serializedVersion: 2
-        x: 9999
-        y: 29
-        width: 1002
-        height: 962
+        x: 9000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +379,10 @@ TextureImporter:
       name: unlock anim-checkpoint 2-Sheet_10
       rect:
         serializedVersion: 2
-        x: 11119
-        y: 109
-        width: 772
-        height: 762
+        x: 10000
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,11 +397,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: unlock anim-checkpoint 2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90521e1cea32f0408630d1d09f1d919
+      internalID: -1993218818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e6202a91e59d12540809983c376a6f40
     internalID: 0
     vertices: []
     indices: 
@@ -409,11 +431,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":1.0},"gridSpriteSize":{"x":1000.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       unlock anim-checkpoint 2-Sheet_0: -7632799597057187748
       unlock anim-checkpoint 2-Sheet_1: 7717467366382889518
       unlock anim-checkpoint 2-Sheet_10: 4160558033061998636
+      unlock anim-checkpoint 2-Sheet_11: -1993218818
       unlock anim-checkpoint 2-Sheet_2: -4214285874012646834
       unlock anim-checkpoint 2-Sheet_3: -4653586229493178628
       unlock anim-checkpoint 2-Sheet_4: 7691574570722384025

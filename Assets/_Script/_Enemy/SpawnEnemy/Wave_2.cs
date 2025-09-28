@@ -1,28 +1,32 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 
 public class Wave_2 : MonoBehaviour, IWave
 {
     public GameObject[] enemyPrefabs;
-    public int enemyCount = 10;
-    public float spawnDelay = 1f;
+    public int enemyCount = 100;
+    public float spawnDelay = 0.2f;
 
-    private ISpawnPattern spawnPattern;
-    private int spawnedCount = 0; // số quái đã spawn
+    private List<GameObject> spawnedEnemies = new List<GameObject>();
+    private bool finishedSpawning = false;
 
     public event Action<IWave> OnWaveFinished;
 
     public void ResetWave()
     {
-        spawnedCount = 0;
-        spawnPattern = new RandomSpawnPattern();
+        StopAllCoroutines();
+        spawnedEnemies.Clear();
+        finishedSpawning = false;
+
+        var spawnPattern = new RandomSpawnPattern();
         var positions = spawnPattern.GetSpawnPositionsByRows(Vector2.zero, Vector2.zero, enemyCount);
+
         StartCoroutine(SpawnEnemies(positions));
     }
 
-    IEnumerator SpawnEnemies(List<List<Vector2>> positions)
+    private IEnumerator SpawnEnemies(List<List<Vector2>> positions)
     {
         for (int i = 0; i < enemyCount; i++)
         {
@@ -36,20 +40,27 @@ public class Wave_2 : MonoBehaviour, IWave
                 pos = row[UnityEngine.Random.Range(0, row.Count)];
             }
 
-            Instantiate(chosenPrefab, pos, Quaternion.identity);
+            GameObject enemy = Instantiate(chosenPrefab, pos, Quaternion.identity);
+            spawnedEnemies.Add(enemy);
 
-            Debug.Log($"[Wave_2] Spawned enemy {i + 1}/{enemyCount}");
+            Debug.Log($"[Wave_2] Spawned enemy {i + 1}/{enemyCount} at {pos}");
 
             yield return new WaitForSeconds(spawnDelay);
         }
 
-        // Debug.Log("[Wave_2] Finished spawning all enemies!");
+        finishedSpawning = true;
+        Debug.Log("[Wave_2] Finished spawning, waiting for all enemies to die...");
+    }
 
-        // // báo cha
-        // OnWaveFinished?.Invoke(this);
+    private void Update()
+    {
+        spawnedEnemies.RemoveAll(e => e == null);
 
-        // // ✨ delay 1 frame rồi mới tắt để coroutine kịp kết thúc
-        // yield return null;
-        // gameObject.SetActive(false);
+        if (spawnedEnemies.Count == 0 && finishedSpawning)
+        {
+            Debug.Log("[Wave_2] All enemies dead → Wave finished!");
+            OnWaveFinished?.Invoke(this);
+            enabled = false; // tránh gọi nhiều lần
+        }
     }
 }

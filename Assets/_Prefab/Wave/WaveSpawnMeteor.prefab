@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8651867361062997040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2248254145093973512}
+  - component: {fileID: 5123203298686506974}
+  m_Layer: 0
+  m_Name: WaveSpawnMeteor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2248254145093973512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8651867361062997040}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.46422005, y: -1.3769803, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8039473878096048930}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5123203298686506974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8651867361062997040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c11ddfce1d03ca04da5f0ac5f4738599, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waveObjects:
+  - {fileID: 0}
+  concurrentWaves: 2
+  delayBetweenWaves: 3
+--- !u!1001 &7966465670824032295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2248254145093973512}
+    m_Modifications:
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.56452
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7725098
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2146683962902466279, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+      propertyPath: m_Name
+      value: MeteorSpawn
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+--- !u!4 &8039473878096048930 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 80889646208060165, guid: c05eb1152201f41e39dc0196a74b8ec2, type: 3}
+  m_PrefabInstance: {fileID: 7966465670824032295}
+  m_PrefabAsset: {fileID: 0}
