@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: f30ad58ab4bc8a14da45b33052fb1068
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -789110577927796296
+    second: mon 3 cras_0
+  - first:
+      213: -9152932905293655064
+    second: mon 3 cras_1
+  - first:
+      213: 680274041990481901
+    second: mon 3 cras_2
+  - first:
+      213: 6035861613503042663
+    second: mon 3 cras_3
+  - first:
+      213: 1723588336012757178
+    second: mon 3 cras_4
+  - first:
+      213: -7887639031857520345
+    second: mon 3 cras_5
+  - first:
+      213: -6649004853974336333
+    second: mon 3 cras_6
+  - first:
+      213: 33640853474286790
+    second: mon 3 cras_7
+  - first:
+      213: -4302897605659151817
+    second: mon 3 cras_8
+  - first:
+      213: -8717750611249639898
+    second: mon 3 cras_9
+  - first:
+      213: 8885276471122466303
+    second: mon 3 cras_10
+  - first:
+      213: 4047791381414380219
+    second: mon 3 cras_11
+  - first:
+      213: -7486062632642313584
+    second: mon 3 cras_12
+  - first:
+      213: 292663860901871591
+    second: mon 3 cras_13
+  - first:
+      213: -554343135238936585
+    second: mon 3 cras_14
+  - first:
+      213: -7461815095731598424
+    second: mon 3 cras_15
+  - first:
+      213: 503454600260511131
+    second: mon 3 cras_16
+  - first:
+      213: 921307120397010138
+    second: mon 3 cras_17
+  - first:
+      213: -7668254802544057216
+    second: mon 3 cras_18
+  - first:
+      213: -4963940548833936927
+    second: mon 3 cras_19
+  - first:
+      213: -7109630835235126619
+    second: mon 3 cras_20
+  - first:
+      213: -106707690352332310
+    second: mon 3 cras_21
+  - first:
+      213: 6362618141627063135
+    second: mon 3 cras_22
+  - first:
+      213: -6205434843934553331
+    second: mon 3 cras_23
+  - first:
+      213: 8855165609984254323
+    second: mon 3 cras_24
+  - first:
+      213: 6685545353331116902
+    second: mon 3 cras_25
+  - first:
+      213: -3975161824210281695
+    second: mon 3 cras_26
+  - first:
+      213: 6544843596464636238
+    second: mon 3 cras_27
+  - first:
+      213: 986054660114412238
+    second: mon 3 cras_28
+  - first:
+      213: 8536178133791571735
+    second: mon 3 cras_29
+  - first:
+      213: 7761729081439810415
+    second: mon 3 cras_30
+  - first:
+      213: -1242782857512840425
+    second: mon 3 cras_31
+  - first:
+      213: -6351283274837204719
+    second: mon 3 cras_32
+  - first:
+      213: -4677145665768924692
+    second: mon 3 cras_33
+  - first:
+      213: -5308593419027633625
+    second: mon 3 cras_34
+  - first:
+      213: -2338792037555119829
+    second: mon 3 cras_35
+  - first:
+      213: 8255358295263639388
+    second: mon 3 cras_36
+  - first:
+      213: 649996263618544463
+    second: mon 3 cras_37
+  - first:
+      213: -5489294997269911409
+    second: mon 3 cras_38
+  - first:
+      213: -824945450477664067
+    second: mon 3 cras_39
+  - first:
+      213: 7620773804206383532
+    second: mon 3 cras_40
+  - first:
+      213: -558886504590466248
+    second: mon 3 cras_41
+  - first:
+      213: -8459854025960290007
+    second: mon 3 cras_42
+  - first:
+      213: -3484528628012047466
+    second: mon 3 cras_43
+  - first:
+      213: 6491040038078740300
+    second: mon 3 cras_44
+  - first:
+      213: -8257313982177928295
+    second: mon 3 cras_45
+  - first:
+      213: -1209891269851996540
+    second: mon 3 cras_46
+  - first:
+      213: 160855551716827487
+    second: mon 3 cras_47
+  - first:
+      213: -3820991314643145735
+    second: mon 3 cras_48
+  - first:
+      213: 2696742052637044095
+    second: mon 3 cras_49
+  - first:
+      213: -7650907062957910601
+    second: mon 3 cras_50
+  - first:
+      213: 5965325357129579123
+    second: mon 3 cras_51
+  - first:
+      213: 8788337657988687530
+    second: mon 3 cras_52
+  - first:
+      213: -4111289355220904660
+    second: mon 3 cras_53
+  - first:
+      213: -8754753966079352062
+    second: mon 3 cras_54
+  - first:
+      213: -6789531825346061339
+    second: mon 3 cras_55
+  - first:
+      213: -1968884174188658346
+    second: mon 3 cras_56
+  - first:
+      213: 8731021611005156789
+    second: mon 3 cras_57
+  - first:
+      213: 6933156433233062882
+    second: mon 3 cras_58
+  - first:
+      213: -4282595951382416309
+    second: mon 3 cras_59
+  - first:
+      213: 9005925048229716842
+    second: mon 3 cras_60
+  - first:
+      213: -2078755243799511639
+    second: mon 3 cras_61
+  - first:
+      213: -192431247154039103
+    second: mon 3 cras_62
+  - first:
+      213: 4289451838583792664
+    second: mon 3 cras_63
+  - first:
+      213: -3109694650223018428
+    second: mon 3 cras_64
+  - first:
+      213: 1591731112289336484
+    second: mon 3 cras_65
+  - first:
+      213: 7629486664360524442
+    second: mon 3 cras_66
+  - first:
+      213: 1235407531388638545
+    second: mon 3 cras_67
+  - first:
+      213: -5476818942829635670
+    second: mon 3 cras_68
+  - first:
+      213: -572649046349568365
+    second: mon 3 cras_69
+  - first:
+      213: -8466243697617471692
+    second: mon 3 cras_70
+  - first:
+      213: -5806011933461755983
+    second: mon 3 cras_71
+  - first:
+      213: -8001357831170239243
+    second: mon 3 cras_72
+  - first:
+      213: -1553561388535816469
+    second: mon 3 cras_73
+  - first:
+      213: 7499500113808645111
+    second: mon 3 cras_74
+  - first:
+      213: -5131543210757249986
+    second: mon 3 cras_75
+  - first:
+      213: -8786345823233872005
+    second: mon 3 cras_76
+  - first:
+      213: -7559795171928088357
+    second: mon 3 cras_77
+  - first:
+      213: -3315457879152360390
+    second: mon 3 cras_78
+  - first:
+      213: 145216925618564576
+    second: mon 3 cras_79
+  - first:
+      213: -347175688955121981
+    second: mon 3 cras_80
+  - first:
+      213: -2614265582928254229
+    second: mon 3 cras_81
+  - first:
+      213: -4665629869088208588
+    second: mon 3 cras_82
+  - first:
+      213: -8502635172786805366
+    second: mon 3 cras_83
+  - first:
+      213: 1356110521244820274
+    second: mon 3 cras_84
+  - first:
+      213: -972206407611210823
+    second: mon 3 cras_85
+  - first:
+      213: -3946371697636281619
+    second: mon 3 cras_86
+  - first:
+      213: 602785725834064993
+    second: mon 3 cras_87
+  - first:
+      213: 8903574070709837131
+    second: mon 3 cras_88
+  - first:
+      213: 7077102806036805853
+    second: mon 3 cras_89
+  - first:
+      213: 3640783917162575335
+    second: mon 3 cras_90
+  - first:
+      213: -7464506403480044063
+    second: mon 3 cras_91
+  - first:
+      213: 6402018144138403699
+    second: mon 3 cras_92
+  - first:
+      213: -2794146331311041978
+    second: mon 3 cras_93
+  - first:
+      213: 4074256128844259242
+    second: mon 3 cras_94
+  - first:
+      213: 2626009394128964683
+    second: mon 3 cras_95
+  - first:
+      213: -7287011424383362418
+    second: mon 3 cras_96
+  - first:
+      213: -2410975798140078106
+    second: mon 3 cras_97
+  - first:
+      213: 8382474913630612500
+    second: mon 3 cras_98
+  - first:
+      213: -8206239695300922542
+    second: mon 3 cras_99
+  - first:
+      213: 4938745335828495007
+    second: mon 3 cras_100
+  - first:
+      213: 8153550159350658395
+    second: mon 3 cras_101
+  - first:
+      213: 5886185229098996912
+    second: mon 3 cras_102
+  - first:
+      213: 6583093330478812961
+    second: mon 3 cras_103
+  - first:
+      213: 7655887361223126066
+    second: mon 3 cras_104
+  - first:
+      213: -6626658800934874632
+    second: mon 3 cras_105
+  - first:
+      213: -5074559824164244735
+    second: mon 3 cras_106
+  - first:
+      213: 6193834868246537125
+    second: mon 3 cras_107
+  - first:
+      213: 6156787037697554623
+    second: mon 3 cras_108
+  - first:
+      213: 2470049135364581379
+    second: mon 3 cras_109
+  - first:
+      213: 7516854260160793770
+    second: mon 3 cras_110
+  - first:
+      213: -3501744508937271826
+    second: mon 3 cras_111
+  - first:
+      213: -2116942680875719624
+    second: mon 3 cras_112
+  - first:
+      213: -1807236792210975324
+    second: mon 3 cras_113
+  - first:
+      213: 639158804196536946
+    second: mon 3 cras_114
+  - first:
+      213: 605164178271708049
+    second: mon 3 cras_115
+  - first:
+      213: 6715061824137293002
+    second: mon 3 cras_116
+  - first:
+      213: 1466540338562824726
+    second: mon 3 cras_117
+  - first:
+      213: -4243969989226294054
+    second: mon 3 cras_118
+  - first:
+      213: -4035268818136639731
+    second: mon 3 cras_119
+  - first:
+      213: -1668404304945295604
+    second: mon 3 cras_120
+  - first:
+      213: -3326749961132599688
+    second: mon 3 cras_121
+  - first:
+      213: 4036542554921374323
+    second: mon 3 cras_122
+  - first:
+      213: 3025693524116498230
+    second: mon 3 cras_123
+  - first:
+      213: 2395136224927869924
+    second: mon 3 cras_124
+  - first:
+      213: -1625347338477304171
+    second: mon 3 cras_125
+  - first:
+      213: -6607117232237572682
+    second: mon 3 cras_126
+  - first:
+      213: 8096678480045994457
+    second: mon 3 cras_127
+  - first:
+      213: 244648786373235430
+    second: mon 3 cras_128
+  - first:
+      213: 4129571069906228758
+    second: mon 3 cras_129
+  - first:
+      213: -941791151750014629
+    second: mon 3 cras_130
+  - first:
+      213: -1445705643834641373
+    second: mon 3 cras_131
+  - first:
+      213: 4987406343516530745
+    second: mon 3 cras_132
+  - first:
+      213: -5302474325875966432
+    second: mon 3 cras_133
+  - first:
+      213: 173815869716009245
+    second: mon 3 cras_134
+  - first:
+      213: -5825060910111682706
+    second: mon 3 cras_135
+  - first:
+      213: -2245811383834027921
+    second: mon 3 cras_136
+  - first:
+      213: -2023369563052590538
+    second: mon 3 cras_137
+  - first:
+      213: 6364339527408813037
+    second: mon 3 cras_138
+  - first:
+      213: 5694454652183294229
+    second: mon 3 cras_139
+  - first:
+      213: -3157439219109409654
+    second: mon 3 cras_140
+  - first:
+      213: 496959973711510334
+    second: mon 3 cras_141
+  - first:
+      213: 6667856490233480426
+    second: mon 3 cras_142
+  - first:
+      213: 4152220785437004439
+    second: mon 3 cras_143
+  - first:
+      213: 507993625047224811
+    second: mon 3 cras_144
+  - first:
+      213: -1679457592993104430
+    second: mon 3 cras_145
+  - first:
+      213: 2497879954560112536
+    second: mon 3 cras_146
+  - first:
+      213: -8323799584482396499
+    second: mon 3 cras_147
+  - first:
+      213: -952797774220944715
+    second: mon 3 cras_148
+  - first:
+      213: 720357333495175604
+    second: mon 3 cras_149
+  - first:
+      213: 3056705463886606767
+    second: mon 3 cras_150
+  - first:
+      213: 382363076631792670
+    second: mon 3 cras_151
+  - first:
+      213: 6342434204713401124
+    second: mon 3 cras_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon 3 cras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b94c1a3c148c05f0800000000000000
+      internalID: -789110577927796296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3dcf654004af080800000000000000
+      internalID: -9152932905293655064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de703ce03a1d07900800000000000000
+      internalID: 680274041990481901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764d34a7820b3c350800000000000000
+      internalID: 6035861613503042663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab80c0ba57a6be710800000000000000
+      internalID: 1723588336012757178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_5
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72160ad471a798290800000000000000
+      internalID: -7887639031857520345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_6
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf201305df9b3a0800000000000000
+      internalID: -6649004853974336333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 3 cras_7
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc96419d24877000800000000000000
+      internalID: 33640853474286790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e20d6932bb5fd814a8a40024a70b31d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mon 3 cras_0: -789110577927796296
+      mon 3 cras_1: -9152932905293655064
+      mon 3 cras_2: 680274041990481901
+      mon 3 cras_3: 6035861613503042663
+      mon 3 cras_4: 1723588336012757178
+      mon 3 cras_5: -7887639031857520345
+      mon 3 cras_6: -6649004853974336333
+      mon 3 cras_7: 33640853474286790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

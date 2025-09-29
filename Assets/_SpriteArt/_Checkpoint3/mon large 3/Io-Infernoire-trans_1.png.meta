@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: fbc14962b14f7f84a9c41b1f5e386004
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1397676350611791341
+    second: Io-Infernoire-trans_1_0
+  - first:
+      213: 86530420583263069
+    second: Io-Infernoire-trans_1_1
+  - first:
+      213: 783347892497028034
+    second: Io-Infernoire-trans_1_2
+  - first:
+      213: 7168538491815876532
+    second: Io-Infernoire-trans_1_3
+  - first:
+      213: -3525990814064429370
+    second: Io-Infernoire-trans_1_4
+  - first:
+      213: 365297969472855204
+    second: Io-Infernoire-trans_1_5
+  - first:
+      213: 1505560631335927515
+    second: Io-Infernoire-trans_1_6
+  - first:
+      213: -1265585287632141483
+    second: Io-Infernoire-trans_1_7
+  - first:
+      213: 7363839798913191591
+    second: Io-Infernoire-trans_1_8
+  - first:
+      213: 5760395546117926927
+    second: Io-Infernoire-trans_1_9
+  - first:
+      213: -7573429107416606480
+    second: Io-Infernoire-trans_1_10
+  - first:
+      213: 366461718055057753
+    second: Io-Infernoire-trans_1_11
+  - first:
+      213: 1361414061686893333
+    second: Io-Infernoire-trans_1_12
+  - first:
+      213: 2732475086999744540
+    second: Io-Infernoire-trans_1_13
+  - first:
+      213: 2956159733825414419
+    second: Io-Infernoire-trans_1_14
+  - first:
+      213: 1045750357848403108
+    second: Io-Infernoire-trans_1_15
+  - first:
+      213: 2010575634245123357
+    second: Io-Infernoire-trans_1_16
+  - first:
+      213: 1467857508888745750
+    second: Io-Infernoire-trans_1_17
+  - first:
+      213: -2917416156811537823
+    second: Io-Infernoire-trans_1_18
+  - first:
+      213: -3509506527208550209
+    second: Io-Infernoire-trans_1_19
+  - first:
+      213: 8094268392259524731
+    second: Io-Infernoire-trans_1_20
+  - first:
+      213: 6527086641497836662
+    second: Io-Infernoire-trans_1_21
+  - first:
+      213: -3522303593967213849
+    second: Io-Infernoire-trans_1_22
+  - first:
+      213: -4470832055477639967
+    second: Io-Infernoire-trans_1_23
+  - first:
+      213: -6203057271140188057
+    second: Io-Infernoire-trans_1_24
+  - first:
+      213: -3401704960625093096
+    second: Io-Infernoire-trans_1_25
+  - first:
+      213: -7766234770314878578
+    second: Io-Infernoire-trans_1_26
+  - first:
+      213: -6846583331593737818
+    second: Io-Infernoire-trans_1_27
+  - first:
+      213: 6094359753639657743
+    second: Io-Infernoire-trans_1_28
+  - first:
+      213: 6244288086659438590
+    second: Io-Infernoire-trans_1_29
+  - first:
+      213: 4767136730289605409
+    second: Io-Infernoire-trans_1_30
+  - first:
+      213: -4192733260220402768
+    second: Io-Infernoire-trans_1_31
+  - first:
+      213: 8474973461460587798
+    second: Io-Infernoire-trans_1_32
+  - first:
+      213: -424084764781112047
+    second: Io-Infernoire-trans_1_33
+  - first:
+      213: -920383789331588296
+    second: Io-Infernoire-trans_1_34
+  - first:
+      213: -310783059906161824
+    second: Io-Infernoire-trans_1_35
+  - first:
+      213: 9197866508668308168
+    second: Io-Infernoire-trans_1_36
+  - first:
+      213: 220227941562353864
+    second: Io-Infernoire-trans_1_37
+  - first:
+      213: 5648127855091583823
+    second: Io-Infernoire-trans_1_38
+  - first:
+      213: 2041096037951208959
+    second: Io-Infernoire-trans_1_39
+  - first:
+      213: 1443234394210169157
+    second: Io-Infernoire-trans_1_40
+  - first:
+      213: 5749103875490589502
+    second: Io-Infernoire-trans_1_41
+  - first:
+      213: 2964399885549225619
+    second: Io-Infernoire-trans_1_42
+  - first:
+      213: 1361460384210538991
+    second: Io-Infernoire-trans_1_43
+  - first:
+      213: 4186076824739525317
+    second: Io-Infernoire-trans_1_44
+  - first:
+      213: -6734820129399741228
+    second: Io-Infernoire-trans_1_45
+  - first:
+      213: -6295193580035953595
+    second: Io-Infernoire-trans_1_46
+  - first:
+      213: -7927129930448292360
+    second: Io-Infernoire-trans_1_47
+  - first:
+      213: 6759957263857036016
+    second: Io-Infernoire-trans_1_48
+  - first:
+      213: 4794502388129994116
+    second: Io-Infernoire-trans_1_49
+  - first:
+      213: 4358714959406388123
+    second: Io-Infernoire-trans_1_50
+  - first:
+      213: -3720472050914613703
+    second: Io-Infernoire-trans_1_51
+  - first:
+      213: -6426068471335389929
+    second: Io-Infernoire-trans_1_52
+  - first:
+      213: -2965557671797278116
+    second: Io-Infernoire-trans_1_53
+  - first:
+      213: 1153012969291840687
+    second: Io-Infernoire-trans_1_54
+  - first:
+      213: -1358173889735084110
+    second: Io-Infernoire-trans_1_55
+  - first:
+      213: -3348295404105253074
+    second: Io-Infernoire-trans_1_56
+  - first:
+      213: 5009257750454219673
+    second: Io-Infernoire-trans_1_57
+  - first:
+      213: -2056736417901578067
+    second: Io-Infernoire-trans_1_58
+  - first:
+      213: 4816853656567547468
+    second: Io-Infernoire-trans_1_59
+  - first:
+      213: -5875577222795048356
+    second: Io-Infernoire-trans_1_60
+  - first:
+      213: -2998889762816972807
+    second: Io-Infernoire-trans_1_61
+  - first:
+      213: -7870615500442574416
+    second: Io-Infernoire-trans_1_62
+  - first:
+      213: 2873725611346237539
+    second: Io-Infernoire-trans_1_63
+  - first:
+      213: -7396762905252584304
+    second: Io-Infernoire-trans_1_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e1daa3c47a9ce0800000000000000
+      internalID: -1397676350611791341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b612585fa633100800000000000000
+      internalID: 86530420583263069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c316d302c20fda00800000000000000
+      internalID: 783347892497028034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7566b17c3cb7360800000000000000
+      internalID: 7168538491815876532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6366e390a211fc0800000000000000
+      internalID: -3525990814064429370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acd99b519cc11500800000000000000
+      internalID: 365297969472855204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde379ada63d4e410800000000000000
+      internalID: 1505560631335927515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c9b1e2ecbf6ee0800000000000000
+      internalID: -1265585287632141483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aeca15284d913660800000000000000
+      internalID: 7363839798913191591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_9
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f914ba3901ff40800000000000000
+      internalID: 5760395546117926927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f854d04a56c5e690800000000000000
+      internalID: -7573429107416606480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597370bdfee51500800000000000000
+      internalID: 366461718055057753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba11340e6b4e210800000000000000
+      internalID: 1361414061686893333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_13
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1079364d93bbe520800000000000000
+      internalID: 2732475086999744540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_14
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152af19d93660920800000000000000
+      internalID: 2956159733825414419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acaa4be860438e00800000000000000
+      internalID: 1045750357848403108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d7c3903eff6eb10800000000000000
+      internalID: 2010575634245123357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617143690a0ee5410800000000000000
+      internalID: 1467857508888745750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_18
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162534766714387d0800000000000000
+      internalID: -2917416156811537823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_19
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d1dc586abb4fc0800000000000000
+      internalID: -3509506527208550209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Io-Infernoire-trans_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b781d4da73e945070800000000000000
+      internalID: 8094268392259524731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bb80cea28cb77f847bb84db00777e60b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Io-Infernoire-trans_1_0: -1397676350611791341
+      Io-Infernoire-trans_1_1: 86530420583263069
+      Io-Infernoire-trans_1_10: -7573429107416606480
+      Io-Infernoire-trans_1_11: 366461718055057753
+      Io-Infernoire-trans_1_12: 1361414061686893333
+      Io-Infernoire-trans_1_13: 2732475086999744540
+      Io-Infernoire-trans_1_14: 2956159733825414419
+      Io-Infernoire-trans_1_15: 1045750357848403108
+      Io-Infernoire-trans_1_16: 2010575634245123357
+      Io-Infernoire-trans_1_17: 1467857508888745750
+      Io-Infernoire-trans_1_18: -2917416156811537823
+      Io-Infernoire-trans_1_19: -3509506527208550209
+      Io-Infernoire-trans_1_2: 783347892497028034
+      Io-Infernoire-trans_1_20: 8094268392259524731
+      Io-Infernoire-trans_1_3: 7168538491815876532
+      Io-Infernoire-trans_1_4: -3525990814064429370
+      Io-Infernoire-trans_1_5: 365297969472855204
+      Io-Infernoire-trans_1_6: 1505560631335927515
+      Io-Infernoire-trans_1_7: -1265585287632141483
+      Io-Infernoire-trans_1_8: 7363839798913191591
+      Io-Infernoire-trans_1_9: 5760395546117926927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 241bfba7d32bcf14a86312b1ed284485
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -116141465159674842
+    second: mon 35 cras_0
+  - first:
+      213: 4198863257581994854
+    second: mon 35 cras_1
+  - first:
+      213: -7300868776694871005
+    second: mon 35 cras_2
+  - first:
+      213: 2311067798197443511
+    second: mon 35 cras_3
+  - first:
+      213: -3804828392042900030
+    second: mon 35 cras_4
+  - first:
+      213: -5836346916810168558
+    second: mon 35 cras_5
+  - first:
+      213: -7566836801906191347
+    second: mon 35 cras_6
+  - first:
+      213: 5674664373892594121
+    second: mon 35 cras_7
+  - first:
+      213: -465435677661159644
+    second: mon 35 cras_8
+  - first:
+      213: -3008022738995281169
+    second: mon 35 cras_9
+  - first:
+      213: -3457577999275029802
+    second: mon 35 cras_10
+  - first:
+      213: -2300531307185400933
+    second: mon 35 cras_11
+  - first:
+      213: -6799231437231469438
+    second: mon 35 cras_12
+  - first:
+      213: -4093334702679994006
+    second: mon 35 cras_13
+  - first:
+      213: 340086183561993357
+    second: mon 35 cras_14
+  - first:
+      213: 8631385134072770638
+    second: mon 35 cras_15
+  - first:
+      213: -8654345155420711760
+    second: mon 35 cras_16
+  - first:
+      213: 7230506046274932767
+    second: mon 35 cras_17
+  - first:
+      213: 8250777169273209782
+    second: mon 35 cras_18
+  - first:
+      213: -519771258296733412
+    second: mon 35 cras_19
+  - first:
+      213: 618552331058581724
+    second: mon 35 cras_20
+  - first:
+      213: 5780000673168599891
+    second: mon 35 cras_21
+  - first:
+      213: 6305370151025761860
+    second: mon 35 cras_22
+  - first:
+      213: 5447368167309172723
+    second: mon 35 cras_23
+  - first:
+      213: -2017534567795337490
+    second: mon 35 cras_24
+  - first:
+      213: 2494474407471818297
+    second: mon 35 cras_25
+  - first:
+      213: -264768207854340613
+    second: mon 35 cras_26
+  - first:
+      213: -8953967505785327112
+    second: mon 35 cras_27
+  - first:
+      213: -6937088158478627837
+    second: mon 35 cras_28
+  - first:
+      213: -8785299510714557054
+    second: mon 35 cras_29
+  - first:
+      213: 2744181868286963545
+    second: mon 35 cras_30
+  - first:
+      213: -1203793037884267504
+    second: mon 35 cras_31
+  - first:
+      213: 4984962838481956948
+    second: mon 35 cras_32
+  - first:
+      213: -8889252398630500458
+    second: mon 35 cras_33
+  - first:
+      213: 8773139405320883007
+    second: mon 35 cras_34
+  - first:
+      213: 7339327151101871633
+    second: mon 35 cras_35
+  - first:
+      213: 8824389594211862525
+    second: mon 35 cras_36
+  - first:
+      213: 4396331286688732488
+    second: mon 35 cras_37
+  - first:
+      213: 3941203913060599119
+    second: mon 35 cras_38
+  - first:
+      213: -4942835510151351519
+    second: mon 35 cras_39
+  - first:
+      213: 1748470638776767851
+    second: mon 35 cras_40
+  - first:
+      213: 8757906793311329646
+    second: mon 35 cras_41
+  - first:
+      213: -4017009473044702514
+    second: mon 35 cras_42
+  - first:
+      213: 6469020093726590811
+    second: mon 35 cras_43
+  - first:
+      213: -1710762403155519837
+    second: mon 35 cras_44
+  - first:
+      213: -2899471251462395897
+    second: mon 35 cras_45
+  - first:
+      213: -3742510424670252408
+    second: mon 35 cras_46
+  - first:
+      213: -742606574533472727
+    second: mon 35 cras_47
+  - first:
+      213: -6308371634790506738
+    second: mon 35 cras_48
+  - first:
+      213: 4313673909549775765
+    second: mon 35 cras_49
+  - first:
+      213: 5863083688758323074
+    second: mon 35 cras_50
+  - first:
+      213: -1021853420038899371
+    second: mon 35 cras_51
+  - first:
+      213: 8897272388293753803
+    second: mon 35 cras_52
+  - first:
+      213: -1802924702650518522
+    second: mon 35 cras_53
+  - first:
+      213: -96135413375050181
+    second: mon 35 cras_54
+  - first:
+      213: 2911200275460090745
+    second: mon 35 cras_55
+  - first:
+      213: 1562620522747312541
+    second: mon 35 cras_56
+  - first:
+      213: 7058484055652886249
+    second: mon 35 cras_57
+  - first:
+      213: 7176756785485140395
+    second: mon 35 cras_58
+  - first:
+      213: -7262969039353394655
+    second: mon 35 cras_59
+  - first:
+      213: -937076235907106230
+    second: mon 35 cras_60
+  - first:
+      213: -8543602430825717041
+    second: mon 35 cras_61
+  - first:
+      213: 7663426096240354825
+    second: mon 35 cras_62
+  - first:
+      213: -397059012852066998
+    second: mon 35 cras_63
+  - first:
+      213: 1857053232120794064
+    second: mon 35 cras_64
+  - first:
+      213: 4091671597959131617
+    second: mon 35 cras_65
+  - first:
+      213: -3740522550967466338
+    second: mon 35 cras_66
+  - first:
+      213: -3514549542784488145
+    second: mon 35 cras_67
+  - first:
+      213: 8384083342172934422
+    second: mon 35 cras_68
+  - first:
+      213: 6993826191528606778
+    second: mon 35 cras_69
+  - first:
+      213: 8978401566270975190
+    second: mon 35 cras_70
+  - first:
+      213: 7440881256541251920
+    second: mon 35 cras_71
+  - first:
+      213: 4508697499536731830
+    second: mon 35 cras_72
+  - first:
+      213: -187105178293876978
+    second: mon 35 cras_73
+  - first:
+      213: 1110402736447544095
+    second: mon 35 cras_74
+  - first:
+      213: -4717301117219705017
+    second: mon 35 cras_75
+  - first:
+      213: 8994752142878790072
+    second: mon 35 cras_76
+  - first:
+      213: -7934912131110660955
+    second: mon 35 cras_77
+  - first:
+      213: 3369511479448483933
+    second: mon 35 cras_78
+  - first:
+      213: -1753745003133488874
+    second: mon 35 cras_79
+  - first:
+      213: -8667328920681656812
+    second: mon 35 cras_80
+  - first:
+      213: 5482324680395205134
+    second: mon 35 cras_81
+  - first:
+      213: -7168738458653108069
+    second: mon 35 cras_82
+  - first:
+      213: -2709230369638778524
+    second: mon 35 cras_83
+  - first:
+      213: -6759746206269357298
+    second: mon 35 cras_84
+  - first:
+      213: -6764021921711403035
+    second: mon 35 cras_85
+  - first:
+      213: 9086889247178320107
+    second: mon 35 cras_86
+  - first:
+      213: 2653376789922732720
+    second: mon 35 cras_87
+  - first:
+      213: 6642493142512395374
+    second: mon 35 cras_88
+  - first:
+      213: 8421279625328501268
+    second: mon 35 cras_89
+  - first:
+      213: 1239623083437625140
+    second: mon 35 cras_90
+  - first:
+      213: 3822779190579679729
+    second: mon 35 cras_91
+  - first:
+      213: 1504486728059750124
+    second: mon 35 cras_92
+  - first:
+      213: 3328826765133749801
+    second: mon 35 cras_93
+  - first:
+      213: -995673673278437230
+    second: mon 35 cras_94
+  - first:
+      213: -2702586932728479888
+    second: mon 35 cras_95
+  - first:
+      213: -6884746297774085249
+    second: mon 35 cras_96
+  - first:
+      213: 1662357291555754159
+    second: mon 35 cras_97
+  - first:
+      213: 2175957929946032395
+    second: mon 35 cras_98
+  - first:
+      213: 8815632833692651321
+    second: mon 35 cras_99
+  - first:
+      213: -2811056269235459385
+    second: mon 35 cras_100
+  - first:
+      213: 4929724372099523536
+    second: mon 35 cras_101
+  - first:
+      213: 7687956642142677414
+    second: mon 35 cras_102
+  - first:
+      213: -1988877919955188727
+    second: mon 35 cras_103
+  - first:
+      213: -602402702874512837
+    second: mon 35 cras_104
+  - first:
+      213: 8255939442927581986
+    second: mon 35 cras_105
+  - first:
+      213: -8443409216574521540
+    second: mon 35 cras_106
+  - first:
+      213: 4003194228342566408
+    second: mon 35 cras_107
+  - first:
+      213: 1436040418488946542
+    second: mon 35 cras_108
+  - first:
+      213: -894046535669268874
+    second: mon 35 cras_109
+  - first:
+      213: -1918305798971666349
+    second: mon 35 cras_110
+  - first:
+      213: -5884101374024649044
+    second: mon 35 cras_111
+  - first:
+      213: -1366202456537432583
+    second: mon 35 cras_112
+  - first:
+      213: 2989996918882867822
+    second: mon 35 cras_113
+  - first:
+      213: -4905457237217990488
+    second: mon 35 cras_114
+  - first:
+      213: -6480662270768334131
+    second: mon 35 cras_115
+  - first:
+      213: -8356721980248774984
+    second: mon 35 cras_116
+  - first:
+      213: -2974991126167327474
+    second: mon 35 cras_117
+  - first:
+      213: -2450105369169547334
+    second: mon 35 cras_118
+  - first:
+      213: 7217520287024470684
+    second: mon 35 cras_119
+  - first:
+      213: 4829069561585272119
+    second: mon 35 cras_120
+  - first:
+      213: -3957445456441749837
+    second: mon 35 cras_121
+  - first:
+      213: -6357893877183004615
+    second: mon 35 cras_122
+  - first:
+      213: -2940878276104441073
+    second: mon 35 cras_123
+  - first:
+      213: 3758266588797987270
+    second: mon 35 cras_124
+  - first:
+      213: 9068564172505669681
+    second: mon 35 cras_125
+  - first:
+      213: 4775545593684867216
+    second: mon 35 cras_126
+  - first:
+      213: -2849854518496004530
+    second: mon 35 cras_127
+  - first:
+      213: 6142043176596810945
+    second: mon 35 cras_128
+  - first:
+      213: 5693173267952220374
+    second: mon 35 cras_129
+  - first:
+      213: -3433782480069969026
+    second: mon 35 cras_130
+  - first:
+      213: 8013057434147441688
+    second: mon 35 cras_131
+  - first:
+      213: 1160595283876034952
+    second: mon 35 cras_132
+  - first:
+      213: 7044620668943420255
+    second: mon 35 cras_133
+  - first:
+      213: -8436729663007689947
+    second: mon 35 cras_134
+  - first:
+      213: -3321487342927114703
+    second: mon 35 cras_135
+  - first:
+      213: -3991869933033916748
+    second: mon 35 cras_136
+  - first:
+      213: -1912357776443977234
+    second: mon 35 cras_137
+  - first:
+      213: -3377141950986127857
+    second: mon 35 cras_138
+  - first:
+      213: 801284522845849128
+    second: mon 35 cras_139
+  - first:
+      213: -5395957261332293521
+    second: mon 35 cras_140
+  - first:
+      213: -5098072162580204729
+    second: mon 35 cras_141
+  - first:
+      213: -5776065567694132552
+    second: mon 35 cras_142
+  - first:
+      213: 8092234294406243816
+    second: mon 35 cras_143
+  - first:
+      213: -5851438927726495673
+    second: mon 35 cras_144
+  - first:
+      213: 1844588918885461752
+    second: mon 35 cras_145
+  - first:
+      213: -8203820639877212714
+    second: mon 35 cras_146
+  - first:
+      213: 1702115979760711262
+    second: mon 35 cras_147
+  - first:
+      213: 3948093966313095
+    second: mon 35 cras_148
+  - first:
+      213: -4411645879224386426
+    second: mon 35 cras_149
+  - first:
+      213: 5882236084305480487
+    second: mon 35 cras_150
+  - first:
+      213: -2250099606702669099
+    second: mon 35 cras_151
+  - first:
+      213: -3959519085450298897
+    second: mon 35 cras_152
+  - first:
+      213: 8735258378388917663
+    second: mon 35 cras_153
+  - first:
+      213: -3754256538119087978
+    second: mon 35 cras_154
+  - first:
+      213: 1622470970125899941
+    second: mon 35 cras_155
+  - first:
+      213: -1382833069819273055
+    second: mon 35 cras_156
+  - first:
+      213: 5413723908362947962
+    second: mon 35 cras_157
+  - first:
+      213: -221313411844583752
+    second: mon 35 cras_158
+  - first:
+      213: -3386840788691686076
+    second: mon 35 cras_159
+  - first:
+      213: -1547934184854013876
+    second: mon 35 cras_160
+  - first:
+      213: 6854547340544395853
+    second: mon 35 cras_161
+  - first:
+      213: -596067334454712201
+    second: mon 35 cras_162
+  - first:
+      213: 1990008858489939635
+    second: mon 35 cras_163
+  - first:
+      213: -705786659574439732
+    second: mon 35 cras_164
+  - first:
+      213: 7795458073434333045
+    second: mon 35 cras_165
+  - first:
+      213: 733861173954398609
+    second: mon 35 cras_166
+  - first:
+      213: -4988401832122740973
+    second: mon 35 cras_167
+  - first:
+      213: -3084675503975012276
+    second: mon 35 cras_168
+  - first:
+      213: -4767245409393436379
+    second: mon 35 cras_169
+  - first:
+      213: 6980910267903401805
+    second: mon 35 cras_170
+  - first:
+      213: -7812041981372788462
+    second: mon 35 cras_171
+  - first:
+      213: 6779248892474617471
+    second: mon 35 cras_172
+  - first:
+      213: 6911972412412069734
+    second: mon 35 cras_173
+  - first:
+      213: 356260732844665601
+    second: mon 35 cras_174
+  - first:
+      213: -2916413460779097688
+    second: mon 35 cras_175
+  - first:
+      213: -1568580741560175481
+    second: mon 35 cras_176
+  - first:
+      213: -5780701753601573355
+    second: mon 35 cras_177
+  - first:
+      213: -6732877150604453441
+    second: mon 35 cras_178
+  - first:
+      213: 4922126163179019320
+    second: mon 35 cras_179
+  - first:
+      213: -764678944365689862
+    second: mon 35 cras_180
+  - first:
+      213: -668466881498262741
+    second: mon 35 cras_181
+  - first:
+      213: -9156473621303765859
+    second: mon 35 cras_182
+  - first:
+      213: 2702728107120246868
+    second: mon 35 cras_183
+  - first:
+      213: -2680663543973481584
+    second: mon 35 cras_184
+  - first:
+      213: 5276236592765345558
+    second: mon 35 cras_185
+  - first:
+      213: 7866929216195132848
+    second: mon 35 cras_186
+  - first:
+      213: -5113734089458678660
+    second: mon 35 cras_187
+  - first:
+      213: -5023715918761948860
+    second: mon 35 cras_188
+  - first:
+      213: -2455022850540246913
+    second: mon 35 cras_189
+  - first:
+      213: 5179136294877751783
+    second: mon 35 cras_190
+  - first:
+      213: -411505022963395746
+    second: mon 35 cras_191
+  - first:
+      213: 3167212574808883093
+    second: mon 35 cras_192
+  - first:
+      213: -2488747829380524063
+    second: mon 35 cras_193
+  - first:
+      213: 2221817356824735937
+    second: mon 35 cras_194
+  - first:
+      213: -3858218442975898030
+    second: mon 35 cras_195
+  - first:
+      213: 2200166039003348176
+    second: mon 35 cras_196
+  - first:
+      213: -816052895011286530
+    second: mon 35 cras_197
+  - first:
+      213: -6047947069156206961
+    second: mon 35 cras_198
+  - first:
+      213: -6627497418106382035
+    second: mon 35 cras_199
+  - first:
+      213: 3921602517623035822
+    second: mon 35 cras_200
+  - first:
+      213: -4655566316245403078
+    second: mon 35 cras_201
+  - first:
+      213: 4404843626769534271
+    second: mon 35 cras_202
+  - first:
+      213: -7834217814407597646
+    second: mon 35 cras_203
+  - first:
+      213: 674439058839587608
+    second: mon 35 cras_204
+  - first:
+      213: -3753955236935054543
+    second: mon 35 cras_205
+  - first:
+      213: -8810322010121929114
+    second: mon 35 cras_206
+  - first:
+      213: -528066470553574936
+    second: mon 35 cras_207
+  - first:
+      213: 1675084262921333617
+    second: mon 35 cras_208
+  - first:
+      213: -3656491489750308463
+    second: mon 35 cras_209
+  - first:
+      213: 8096508715068318159
+    second: mon 35 cras_210
+  - first:
+      213: 8960640944284404328
+    second: mon 35 cras_211
+  - first:
+      213: -1499062295684230305
+    second: mon 35 cras_212
+  - first:
+      213: 1399266346010826336
+    second: mon 35 cras_213
+  - first:
+      213: 8103614153360514266
+    second: mon 35 cras_214
+  - first:
+      213: -2470263864219032887
+    second: mon 35 cras_215
+  - first:
+      213: -2845747672480464307
+    second: mon 35 cras_216
+  - first:
+      213: 2259895193900759162
+    second: mon 35 cras_217
+  - first:
+      213: -1077951432081202232
+    second: mon 35 cras_218
+  - first:
+      213: -1005027402724177366
+    second: mon 35 cras_219
+  - first:
+      213: 2602765770142075949
+    second: mon 35 cras_220
+  - first:
+      213: 8493407994481901418
+    second: mon 35 cras_221
+  - first:
+      213: 3037475439821800101
+    second: mon 35 cras_222
+  - first:
+      213: -8781097062517353807
+    second: mon 35 cras_223
+  - first:
+      213: -3329285374122804763
+    second: mon 35 cras_224
+  - first:
+      213: 2192468692649776620
+    second: mon 35 cras_225
+  - first:
+      213: -2134290078097971226
+    second: mon 35 cras_226
+  - first:
+      213: 4029548600221444116
+    second: mon 35 cras_227
+  - first:
+      213: 2538232645619652914
+    second: mon 35 cras_228
+  - first:
+      213: 8084824694933175249
+    second: mon 35 cras_229
+  - first:
+      213: -8829471588936431634
+    second: mon 35 cras_230
+  - first:
+      213: 4569418260670830600
+    second: mon 35 cras_231
+  - first:
+      213: 7835816879875517850
+    second: mon 35 cras_232
+  - first:
+      213: 2412716852053883688
+    second: mon 35 cras_233
+  - first:
+      213: -7728475739834491860
+    second: mon 35 cras_234
+  - first:
+      213: -7264661018174638101
+    second: mon 35 cras_235
+  - first:
+      213: -5860712284631477805
+    second: mon 35 cras_236
+  - first:
+      213: 51095995216012181
+    second: mon 35 cras_237
+  - first:
+      213: -8380426337172790228
+    second: mon 35 cras_238
+  - first:
+      213: -8831591246487470022
+    second: mon 35 cras_239
+  - first:
+      213: 2302773408015651529
+    second: mon 35 cras_240
+  - first:
+      213: -273386297588733788
+    second: mon 35 cras_241
+  - first:
+      213: 8083353779171890535
+    second: mon 35 cras_242
+  - first:
+      213: 6771450721369156898
+    second: mon 35 cras_243
+  - first:
+      213: 1676289867804206514
+    second: mon 35 cras_244
+  - first:
+      213: -2651544422414825425
+    second: mon 35 cras_245
+  - first:
+      213: -3761610932327958218
+    second: mon 35 cras_246
+  - first:
+      213: 3624017991835432934
+    second: mon 35 cras_247
+  - first:
+      213: 4336806021835056789
+    second: mon 35 cras_248
+  - first:
+      213: -7158454200658154668
+    second: mon 35 cras_249
+  - first:
+      213: 4855213174114571746
+    second: mon 35 cras_250
+  - first:
+      213: 2947514591464858445
+    second: mon 35 cras_251
+  - first:
+      213: 262139883087830444
+    second: mon 35 cras_252
+  - first:
+      213: 7568979028989104667
+    second: mon 35 cras_253
+  - first:
+      213: -1884382217309446424
+    second: mon 35 cras_254
+  - first:
+      213: 4601185820271332844
+    second: mon 35 cras_255
+  - first:
+      213: -8464572709185055927
+    second: mon 35 cras_256
+  - first:
+      213: 9112668193174582236
+    second: mon 35 cras_257
+  - first:
+      213: -8568303683243674357
+    second: mon 35 cras_258
+  - first:
+      213: 7279073950904448901
+    second: mon 35 cras_259
+  - first:
+      213: -6900843573199193141
+    second: mon 35 cras_260
+  - first:
+      213: 7677371241463924392
+    second: mon 35 cras_261
+  - first:
+      213: -6363318741616501741
+    second: mon 35 cras_262
+  - first:
+      213: 523851780104452069
+    second: mon 35 cras_263
+  - first:
+      213: 5012255426284780368
+    second: mon 35 cras_264
+  - first:
+      213: -2118359449137861143
+    second: mon 35 cras_265
+  - first:
+      213: 1143770446448294878
+    second: mon 35 cras_266
+  - first:
+      213: -8431507255999061536
+    second: mon 35 cras_267
+  - first:
+      213: -5405922240974406977
+    second: mon 35 cras_268
+  - first:
+      213: -2735386216590990936
+    second: mon 35 cras_269
+  - first:
+      213: 3237502468948943152
+    second: mon 35 cras_270
+  - first:
+      213: 4316094019094022221
+    second: mon 35 cras_271
+  - first:
+      213: 2433725979958183874
+    second: mon 35 cras_272
+  - first:
+      213: -3479754997042580619
+    second: mon 35 cras_273
+  - first:
+      213: 245542148228892700
+    second: mon 35 cras_274
+  - first:
+      213: 4197467313894653152
+    second: mon 35 cras_275
+  - first:
+      213: 2748582255151910269
+    second: mon 35 cras_276
+  - first:
+      213: -2100622895693273074
+    second: mon 35 cras_277
+  - first:
+      213: -2031237789635633756
+    second: mon 35 cras_278
+  - first:
+      213: 7343778299684806302
+    second: mon 35 cras_279
+  - first:
+      213: -7554749111380435678
+    second: mon 35 cras_280
+  - first:
+      213: -8866002850307514794
+    second: mon 35 cras_281
+  - first:
+      213: 2351430895546398559
+    second: mon 35 cras_282
+  - first:
+      213: 8466783646705168474
+    second: mon 35 cras_283
+  - first:
+      213: -5667526053987524731
+    second: mon 35 cras_284
+  - first:
+      213: 879369681088895984
+    second: mon 35 cras_285
+  - first:
+      213: 4839632560114645773
+    second: mon 35 cras_286
+  - first:
+      213: -6427526534103990411
+    second: mon 35 cras_287
+  - first:
+      213: 2257451126070821138
+    second: mon 35 cras_288
+  - first:
+      213: 9157885007090335214
+    second: mon 35 cras_289
+  - first:
+      213: -1363577782790050734
+    second: mon 35 cras_290
+  - first:
+      213: -2669204711664953646
+    second: mon 35 cras_291
+  - first:
+      213: -8788983604736863321
+    second: mon 35 cras_292
+  - first:
+      213: -9048827053661010248
+    second: mon 35 cras_293
+  - first:
+      213: -8920193966490512492
+    second: mon 35 cras_294
+  - first:
+      213: 7615636527579402379
+    second: mon 35 cras_295
+  - first:
+      213: 2990979486509244341
+    second: mon 35 cras_296
+  - first:
+      213: 1673827432067154927
+    second: mon 35 cras_297
+  - first:
+      213: -8213379826946931708
+    second: mon 35 cras_298
+  - first:
+      213: -4406186199672163171
+    second: mon 35 cras_299
+  - first:
+      213: 9124959907322738097
+    second: mon 35 cras_300
+  - first:
+      213: -1829825606658572178
+    second: mon 35 cras_301
+  - first:
+      213: 446489031607383102
+    second: mon 35 cras_302
+  - first:
+      213: -3761980164467107806
+    second: mon 35 cras_303
+  - first:
+      213: 5625637227767253910
+    second: mon 35 cras_304
+  - first:
+      213: 6460270282398257186
+    second: mon 35 cras_305
+  - first:
+      213: -6881271133318049934
+    second: mon 35 cras_306
+  - first:
+      213: -8309976486874957143
+    second: mon 35 cras_307
+  - first:
+      213: -5572245195056540363
+    second: mon 35 cras_308
+  - first:
+      213: -3114580304279614538
+    second: mon 35 cras_309
+  - first:
+      213: 8055042978467879619
+    second: mon 35 cras_310
+  - first:
+      213: -728176712010585612
+    second: mon 35 cras_311
+  - first:
+      213: -1970554280674432177
+    second: mon 35 cras_312
+  - first:
+      213: -1758099231266251157
+    second: mon 35 cras_313
+  - first:
+      213: 8464030711661289743
+    second: mon 35 cras_314
+  - first:
+      213: 8781116879445511817
+    second: mon 35 cras_315
+  - first:
+      213: 45118693462995611
+    second: mon 35 cras_316
+  - first:
+      213: -9093081398360331038
+    second: mon 35 cras_317
+  - first:
+      213: -5138210450582682735
+    second: mon 35 cras_318
+  - first:
+      213: -6484229156963443046
+    second: mon 35 cras_319
+  - first:
+      213: 3239523500163054184
+    second: mon 35 cras_320
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon 35 cras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d679e3f1636ef0800000000000000
+      internalID: -116141465159674842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6634d90e2eb554a30800000000000000
+      internalID: 4198863257581994854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8c5d778a1eaa90800000000000000
+      internalID: -7300868776694871005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb176bfaef821020800000000000000
+      internalID: 2311067798197443511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c556fc7cb8823bc0800000000000000
+      internalID: -3804828392042900030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_5
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2176595c661210fa0800000000000000
+      internalID: -5836346916810168558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_6
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04570df4023df690800000000000000
+      internalID: -7566836801906191347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 cras_7
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9be61be2570ce40800000000000000
+      internalID: 5674664373892594121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d6ee336d64ddd1748bda9a149bfdb0fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mon 35 cras_0: -116141465159674842
+      mon 35 cras_1: 4198863257581994854
+      mon 35 cras_2: -7300868776694871005
+      mon 35 cras_3: 2311067798197443511
+      mon 35 cras_4: -3804828392042900030
+      mon 35 cras_5: -5836346916810168558
+      mon 35 cras_6: -7566836801906191347
+      mon 35 cras_7: 5674664373892594121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

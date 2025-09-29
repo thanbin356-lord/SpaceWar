@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: 0d18ee6b5e7087447bc8bbbc65d1ba8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7917423123633801131
+    second: Hyperion-Heras_Ophanos-trans_1_0
+  - first:
+      213: 2189558484052632555
+    second: Hyperion-Heras_Ophanos-trans_1_1
+  - first:
+      213: -1916566176957049079
+    second: Hyperion-Heras_Ophanos-trans_1_2
+  - first:
+      213: -5815871758464022549
+    second: Hyperion-Heras_Ophanos-trans_1_3
+  - first:
+      213: -2144827404396871473
+    second: Hyperion-Heras_Ophanos-trans_1_4
+  - first:
+      213: 663142633408908764
+    second: Hyperion-Heras_Ophanos-trans_1_5
+  - first:
+      213: 6802520328455343686
+    second: Hyperion-Heras_Ophanos-trans_1_6
+  - first:
+      213: 4991719747484135679
+    second: Hyperion-Heras_Ophanos-trans_1_7
+  - first:
+      213: -8305432651231758155
+    second: Hyperion-Heras_Ophanos-trans_1_8
+  - first:
+      213: 7884134175905937145
+    second: Hyperion-Heras_Ophanos-trans_1_9
+  - first:
+      213: -2028849046531810910
+    second: Hyperion-Heras_Ophanos-trans_1_10
+  - first:
+      213: -1078531410044483807
+    second: Hyperion-Heras_Ophanos-trans_1_11
+  - first:
+      213: -7258454569448670832
+    second: Hyperion-Heras_Ophanos-trans_1_12
+  - first:
+      213: 2658556071277628033
+    second: Hyperion-Heras_Ophanos-trans_1_13
+  - first:
+      213: 3924990270810059905
+    second: Hyperion-Heras_Ophanos-trans_1_14
+  - first:
+      213: -5702587945089926592
+    second: Hyperion-Heras_Ophanos-trans_1_15
+  - first:
+      213: -1122767581573185958
+    second: Hyperion-Heras_Ophanos-trans_1_16
+  - first:
+      213: 3769801353246056213
+    second: Hyperion-Heras_Ophanos-trans_1_17
+  - first:
+      213: -3741101758200060891
+    second: Hyperion-Heras_Ophanos-trans_1_18
+  - first:
+      213: 5445013332831823741
+    second: Hyperion-Heras_Ophanos-trans_1_19
+  - first:
+      213: 279147452081927147
+    second: Hyperion-Heras_Ophanos-trans_1_20
+  - first:
+      213: -1174170185490677262
+    second: Hyperion-Heras_Ophanos-trans_1_21
+  - first:
+      213: -5312821211635351903
+    second: Hyperion-Heras_Ophanos-trans_1_22
+  - first:
+      213: 3582947369272245198
+    second: Hyperion-Heras_Ophanos-trans_1_23
+  - first:
+      213: 1521360327663910556
+    second: Hyperion-Heras_Ophanos-trans_1_24
+  - first:
+      213: 6577280898969602754
+    second: Hyperion-Heras_Ophanos-trans_1_25
+  - first:
+      213: 3460631077640207487
+    second: Hyperion-Heras_Ophanos-trans_1_26
+  - first:
+      213: 5271093585580138613
+    second: Hyperion-Heras_Ophanos-trans_1_27
+  - first:
+      213: 714575314816028509
+    second: Hyperion-Heras_Ophanos-trans_1_28
+  - first:
+      213: 6325494200591089331
+    second: Hyperion-Heras_Ophanos-trans_1_29
+  - first:
+      213: -2664978662487089160
+    second: Hyperion-Heras_Ophanos-trans_1_30
+  - first:
+      213: -4098107265263739035
+    second: Hyperion-Heras_Ophanos-trans_1_31
+  - first:
+      213: -7131065801596688058
+    second: Hyperion-Heras_Ophanos-trans_1_32
+  - first:
+      213: -3238250917374975308
+    second: Hyperion-Heras_Ophanos-trans_1_33
+  - first:
+      213: 7875900525963191314
+    second: Hyperion-Heras_Ophanos-trans_1_34
+  - first:
+      213: 5098925661885520624
+    second: Hyperion-Heras_Ophanos-trans_1_35
+  - first:
+      213: -5616964020734574659
+    second: Hyperion-Heras_Ophanos-trans_1_36
+  - first:
+      213: 8210283579149403588
+    second: Hyperion-Heras_Ophanos-trans_1_37
+  - first:
+      213: 1576277457316727909
+    second: Hyperion-Heras_Ophanos-trans_1_38
+  - first:
+      213: -3922634226956199958
+    second: Hyperion-Heras_Ophanos-trans_1_39
+  - first:
+      213: 3714409708145653650
+    second: Hyperion-Heras_Ophanos-trans_1_40
+  - first:
+      213: -2655138616822551655
+    second: Hyperion-Heras_Ophanos-trans_1_41
+  - first:
+      213: 150899812801803686
+    second: Hyperion-Heras_Ophanos-trans_1_42
+  - first:
+      213: 9191468655542136692
+    second: Hyperion-Heras_Ophanos-trans_1_43
+  - first:
+      213: 8391951630618759937
+    second: Hyperion-Heras_Ophanos-trans_1_44
+  - first:
+      213: 9119219690748920982
+    second: Hyperion-Heras_Ophanos-trans_1_45
+  - first:
+      213: -933411223443107399
+    second: Hyperion-Heras_Ophanos-trans_1_46
+  - first:
+      213: 5597144307937130774
+    second: Hyperion-Heras_Ophanos-trans_1_47
+  - first:
+      213: 8459019021748184293
+    second: Hyperion-Heras_Ophanos-trans_1_48
+  - first:
+      213: 1358296385040298392
+    second: Hyperion-Heras_Ophanos-trans_1_49
+  - first:
+      213: 2988132505523861485
+    second: Hyperion-Heras_Ophanos-trans_1_50
+  - first:
+      213: 3256501668930124469
+    second: Hyperion-Heras_Ophanos-trans_1_51
+  - first:
+      213: -8489714252526617523
+    second: Hyperion-Heras_Ophanos-trans_1_52
+  - first:
+      213: -4368979503657345885
+    second: Hyperion-Heras_Ophanos-trans_1_53
+  - first:
+      213: -2545362013812356814
+    second: Hyperion-Heras_Ophanos-trans_1_54
+  - first:
+      213: -8260238285721582741
+    second: Hyperion-Heras_Ophanos-trans_1_55
+  - first:
+      213: -7588510562442622270
+    second: Hyperion-Heras_Ophanos-trans_1_56
+  - first:
+      213: 600779762184936378
+    second: Hyperion-Heras_Ophanos-trans_1_57
+  - first:
+      213: 7847192244704393392
+    second: Hyperion-Heras_Ophanos-trans_1_58
+  - first:
+      213: 1793664648100561343
+    second: Hyperion-Heras_Ophanos-trans_1_59
+  - first:
+      213: 5535017486519760324
+    second: Hyperion-Heras_Ophanos-trans_1_60
+  - first:
+      213: 8260586360041601796
+    second: Hyperion-Heras_Ophanos-trans_1_61
+  - first:
+      213: -6569344920792944130
+    second: Hyperion-Heras_Ophanos-trans_1_62
+  - first:
+      213: -2287976078838946164
+    second: Hyperion-Heras_Ophanos-trans_1_63
+  - first:
+      213: -1563230635447001590
+    second: Hyperion-Heras_Ophanos-trans_1_64
+  - first:
+      213: -1412602590710132260
+    second: Hyperion-Heras_Ophanos-trans_1_65
+  - first:
+      213: -6674781554295128665
+    second: Hyperion-Heras_Ophanos-trans_1_66
+  - first:
+      213: -613386127051440423
+    second: Hyperion-Heras_Ophanos-trans_1_67
+  - first:
+      213: -7759296808677834410
+    second: Hyperion-Heras_Ophanos-trans_1_68
+  - first:
+      213: -8349224473610514792
+    second: Hyperion-Heras_Ophanos-trans_1_69
+  - first:
+      213: -1011435417044806987
+    second: Hyperion-Heras_Ophanos-trans_1_70
+  - first:
+      213: -4335847596322986891
+    second: Hyperion-Heras_Ophanos-trans_1_71
+  - first:
+      213: 5240387915550822886
+    second: Hyperion-Heras_Ophanos-trans_1_72
+  - first:
+      213: 2554093794715830213
+    second: Hyperion-Heras_Ophanos-trans_1_73
+  - first:
+      213: 198671423450105800
+    second: Hyperion-Heras_Ophanos-trans_1_74
+  - first:
+      213: -6180190003100600754
+    second: Hyperion-Heras_Ophanos-trans_1_75
+  - first:
+      213: 9135118293534886960
+    second: Hyperion-Heras_Ophanos-trans_1_76
+  - first:
+      213: 1814012780595265815
+    second: Hyperion-Heras_Ophanos-trans_1_77
+  - first:
+      213: 418216904891000372
+    second: Hyperion-Heras_Ophanos-trans_1_78
+  - first:
+      213: 3482259721537882429
+    second: Hyperion-Heras_Ophanos-trans_1_79
+  - first:
+      213: -8756232490652631829
+    second: Hyperion-Heras_Ophanos-trans_1_80
+  - first:
+      213: 5166631588224440213
+    second: Hyperion-Heras_Ophanos-trans_1_81
+  - first:
+      213: -6856998564624517121
+    second: Hyperion-Heras_Ophanos-trans_1_82
+  - first:
+      213: -2577053356698575673
+    second: Hyperion-Heras_Ophanos-trans_1_83
+  - first:
+      213: -7955686018182702846
+    second: Hyperion-Heras_Ophanos-trans_1_84
+  - first:
+      213: -5135730686955088951
+    second: Hyperion-Heras_Ophanos-trans_1_85
+  - first:
+      213: 1895224875590449822
+    second: Hyperion-Heras_Ophanos-trans_1_86
+  - first:
+      213: 8202847096608386394
+    second: Hyperion-Heras_Ophanos-trans_1_87
+  - first:
+      213: -5665138084932219737
+    second: Hyperion-Heras_Ophanos-trans_1_88
+  - first:
+      213: 3527812697440853520
+    second: Hyperion-Heras_Ophanos-trans_1_89
+  - first:
+      213: -1761240909103260939
+    second: Hyperion-Heras_Ophanos-trans_1_90
+  - first:
+      213: 8053890079514840932
+    second: Hyperion-Heras_Ophanos-trans_1_91
+  - first:
+      213: -5384719944029657136
+    second: Hyperion-Heras_Ophanos-trans_1_92
+  - first:
+      213: -2644819194313164547
+    second: Hyperion-Heras_Ophanos-trans_1_93
+  - first:
+      213: 5139681050166269194
+    second: Hyperion-Heras_Ophanos-trans_1_94
+  - first:
+      213: -6586297308895027015
+    second: Hyperion-Heras_Ophanos-trans_1_95
+  - first:
+      213: -8516311312864075593
+    second: Hyperion-Heras_Ophanos-trans_1_96
+  - first:
+      213: 2902568871663349507
+    second: Hyperion-Heras_Ophanos-trans_1_97
+  - first:
+      213: -691507100541707138
+    second: Hyperion-Heras_Ophanos-trans_1_98
+  - first:
+      213: 7523636909481510170
+    second: Hyperion-Heras_Ophanos-trans_1_99
+  - first:
+      213: 8210818050972924820
+    second: Hyperion-Heras_Ophanos-trans_1_100
+  - first:
+      213: 6577484644692175357
+    second: Hyperion-Heras_Ophanos-trans_1_101
+  - first:
+      213: 8882403543920605357
+    second: Hyperion-Heras_Ophanos-trans_1_102
+  - first:
+      213: 6127443239728488828
+    second: Hyperion-Heras_Ophanos-trans_1_103
+  - first:
+      213: 7336527025330011355
+    second: Hyperion-Heras_Ophanos-trans_1_104
+  - first:
+      213: -6567909603367551321
+    second: Hyperion-Heras_Ophanos-trans_1_105
+  - first:
+      213: -4355942061973579897
+    second: Hyperion-Heras_Ophanos-trans_1_106
+  - first:
+      213: -310523020963827318
+    second: Hyperion-Heras_Ophanos-trans_1_107
+  - first:
+      213: -1003889164950257160
+    second: Hyperion-Heras_Ophanos-trans_1_108
+  - first:
+      213: -2532637449018639897
+    second: Hyperion-Heras_Ophanos-trans_1_109
+  - first:
+      213: 1980666060945278853
+    second: Hyperion-Heras_Ophanos-trans_1_110
+  - first:
+      213: -2673994674750637821
+    second: Hyperion-Heras_Ophanos-trans_1_111
+  - first:
+      213: -8902778481006887653
+    second: Hyperion-Heras_Ophanos-trans_1_112
+  - first:
+      213: -1736201229660083831
+    second: Hyperion-Heras_Ophanos-trans_1_113
+  - first:
+      213: 7621907356535628325
+    second: Hyperion-Heras_Ophanos-trans_1_114
+  - first:
+      213: -2452842100461418320
+    second: Hyperion-Heras_Ophanos-trans_1_115
+  - first:
+      213: 2448947726221322679
+    second: Hyperion-Heras_Ophanos-trans_1_116
+  - first:
+      213: 3658365048791826777
+    second: Hyperion-Heras_Ophanos-trans_1_117
+  - first:
+      213: -7079868236301804488
+    second: Hyperion-Heras_Ophanos-trans_1_118
+  - first:
+      213: -5651946370432795414
+    second: Hyperion-Heras_Ophanos-trans_1_119
+  - first:
+      213: 4121393676085287870
+    second: Hyperion-Heras_Ophanos-trans_1_120
+  - first:
+      213: 4792964414854891412
+    second: Hyperion-Heras_Ophanos-trans_1_121
+  - first:
+      213: -3495026256331225772
+    second: Hyperion-Heras_Ophanos-trans_1_122
+  - first:
+      213: -8736962019984820605
+    second: Hyperion-Heras_Ophanos-trans_1_123
+  - first:
+      213: 3192311567938781845
+    second: Hyperion-Heras_Ophanos-trans_1_124
+  - first:
+      213: -9030330449938312339
+    second: Hyperion-Heras_Ophanos-trans_1_125
+  - first:
+      213: 8106590560581463692
+    second: Hyperion-Heras_Ophanos-trans_1_126
+  - first:
+      213: 8848160032797796201
+    second: Hyperion-Heras_Ophanos-trans_1_127
+  - first:
+      213: 4406644400770218138
+    second: Hyperion-Heras_Ophanos-trans_1_128
+  - first:
+      213: -187498032129298479
+    second: Hyperion-Heras_Ophanos-trans_1_129
+  - first:
+      213: 5958043233937058303
+    second: Hyperion-Heras_Ophanos-trans_1_130
+  - first:
+      213: -6337556589751679371
+    second: Hyperion-Heras_Ophanos-trans_1_131
+  - first:
+      213: -6482156300823609581
+    second: Hyperion-Heras_Ophanos-trans_1_132
+  - first:
+      213: 74388092140228992
+    second: Hyperion-Heras_Ophanos-trans_1_133
+  - first:
+      213: 5501461039259952913
+    second: Hyperion-Heras_Ophanos-trans_1_134
+  - first:
+      213: 7266133072601025050
+    second: Hyperion-Heras_Ophanos-trans_1_135
+  - first:
+      213: 4252902638802972911
+    second: Hyperion-Heras_Ophanos-trans_1_136
+  - first:
+      213: 4943238031313540928
+    second: Hyperion-Heras_Ophanos-trans_1_137
+  - first:
+      213: 7396567431568248362
+    second: Hyperion-Heras_Ophanos-trans_1_138
+  - first:
+      213: -7501838993526432154
+    second: Hyperion-Heras_Ophanos-trans_1_139
+  - first:
+      213: 2494915377635344918
+    second: Hyperion-Heras_Ophanos-trans_1_140
+  - first:
+      213: 3314928231194686306
+    second: Hyperion-Heras_Ophanos-trans_1_141
+  - first:
+      213: -3354938145074574838
+    second: Hyperion-Heras_Ophanos-trans_1_142
+  - first:
+      213: -5084745535584394260
+    second: Hyperion-Heras_Ophanos-trans_1_143
+  - first:
+      213: -6522320380663508686
+    second: Hyperion-Heras_Ophanos-trans_1_144
+  - first:
+      213: -3687051054638228805
+    second: Hyperion-Heras_Ophanos-trans_1_145
+  - first:
+      213: 5284886851620323484
+    second: Hyperion-Heras_Ophanos-trans_1_146
+  - first:
+      213: -7956815028814742815
+    second: Hyperion-Heras_Ophanos-trans_1_147
+  - first:
+      213: -2261876193742013826
+    second: Hyperion-Heras_Ophanos-trans_1_148
+  - first:
+      213: -975458861381256667
+    second: Hyperion-Heras_Ophanos-trans_1_149
+  - first:
+      213: 2379638882102912068
+    second: Hyperion-Heras_Ophanos-trans_1_150
+  - first:
+      213: -6266437781876747381
+    second: Hyperion-Heras_Ophanos-trans_1_151
+  - first:
+      213: -1566089941211921182
+    second: Hyperion-Heras_Ophanos-trans_1_152
+  - first:
+      213: -128271059065285224
+    second: Hyperion-Heras_Ophanos-trans_1_153
+  - first:
+      213: 2623519813942199613
+    second: Hyperion-Heras_Ophanos-trans_1_154
+  - first:
+      213: -2623898117219855313
+    second: Hyperion-Heras_Ophanos-trans_1_155
+  - first:
+      213: 9162730978061485708
+    second: Hyperion-Heras_Ophanos-trans_1_156
+  - first:
+      213: 6526080840992304838
+    second: Hyperion-Heras_Ophanos-trans_1_157
+  - first:
+      213: 884238316020532048
+    second: Hyperion-Heras_Ophanos-trans_1_158
+  - first:
+      213: 4821599159095813840
+    second: Hyperion-Heras_Ophanos-trans_1_159
+  - first:
+      213: 7868988615798757374
+    second: Hyperion-Heras_Ophanos-trans_1_160
+  - first:
+      213: -6121741525861975047
+    second: Hyperion-Heras_Ophanos-trans_1_161
+  - first:
+      213: -8574460740973943215
+    second: Hyperion-Heras_Ophanos-trans_1_162
+  - first:
+      213: -6819659596558151776
+    second: Hyperion-Heras_Ophanos-trans_1_163
+  - first:
+      213: 352112052474495892
+    second: Hyperion-Heras_Ophanos-trans_1_164
+  - first:
+      213: 5583932839659073525
+    second: Hyperion-Heras_Ophanos-trans_1_165
+  - first:
+      213: -3660277208924279986
+    second: Hyperion-Heras_Ophanos-trans_1_166
+  - first:
+      213: -5741444030056353308
+    second: Hyperion-Heras_Ophanos-trans_1_167
+  - first:
+      213: 4590563815754718985
+    second: Hyperion-Heras_Ophanos-trans_1_168
+  - first:
+      213: -2259232063494659669
+    second: Hyperion-Heras_Ophanos-trans_1_169
+  - first:
+      213: 3580947731957307803
+    second: Hyperion-Heras_Ophanos-trans_1_170
+  - first:
+      213: -6893763513224339846
+    second: Hyperion-Heras_Ophanos-trans_1_171
+  - first:
+      213: -8903775733609163611
+    second: Hyperion-Heras_Ophanos-trans_1_172
+  - first:
+      213: 8739659402116513113
+    second: Hyperion-Heras_Ophanos-trans_1_173
+  - first:
+      213: -1138263596785808981
+    second: Hyperion-Heras_Ophanos-trans_1_174
+  - first:
+      213: -5620541334386678139
+    second: Hyperion-Heras_Ophanos-trans_1_175
+  - first:
+      213: -3397635869513932149
+    second: Hyperion-Heras_Ophanos-trans_1_176
+  - first:
+      213: -5584358539462107485
+    second: Hyperion-Heras_Ophanos-trans_1_177
+  - first:
+      213: 1509832334888010719
+    second: Hyperion-Heras_Ophanos-trans_1_178
+  - first:
+      213: 4466235363280452318
+    second: Hyperion-Heras_Ophanos-trans_1_179
+  - first:
+      213: -1456877443321574076
+    second: Hyperion-Heras_Ophanos-trans_1_180
+  - first:
+      213: 5643765368514346828
+    second: Hyperion-Heras_Ophanos-trans_1_181
+  - first:
+      213: -6260281515828416449
+    second: Hyperion-Heras_Ophanos-trans_1_182
+  - first:
+      213: -8156867282683824727
+    second: Hyperion-Heras_Ophanos-trans_1_183
+  - first:
+      213: 8536429530918206286
+    second: Hyperion-Heras_Ophanos-trans_1_184
+  - first:
+      213: -5074064623714613959
+    second: Hyperion-Heras_Ophanos-trans_1_185
+  - first:
+      213: -2258914621695353955
+    second: Hyperion-Heras_Ophanos-trans_1_186
+  - first:
+      213: 2901259541742417857
+    second: Hyperion-Heras_Ophanos-trans_1_187
+  - first:
+      213: 1821763421537102191
+    second: Hyperion-Heras_Ophanos-trans_1_188
+  - first:
+      213: -4405362048321411973
+    second: Hyperion-Heras_Ophanos-trans_1_189
+  - first:
+      213: 2255624680509722899
+    second: Hyperion-Heras_Ophanos-trans_1_190
+  - first:
+      213: -3267352385445538285
+    second: Hyperion-Heras_Ophanos-trans_1_191
+  - first:
+      213: 954185460424025299
+    second: Hyperion-Heras_Ophanos-trans_1_192
+  - first:
+      213: -612304307108882165
+    second: Hyperion-Heras_Ophanos-trans_1_193
+  - first:
+      213: -8075892672040532246
+    second: Hyperion-Heras_Ophanos-trans_1_194
+  - first:
+      213: -3313631594684708238
+    second: Hyperion-Heras_Ophanos-trans_1_195
+  - first:
+      213: -3750190907112621263
+    second: Hyperion-Heras_Ophanos-trans_1_196
+  - first:
+      213: -5740432704926889308
+    second: Hyperion-Heras_Ophanos-trans_1_197
+  - first:
+      213: 3746654414428770888
+    second: Hyperion-Heras_Ophanos-trans_1_198
+  - first:
+      213: -1470941742911654896
+    second: Hyperion-Heras_Ophanos-trans_1_199
+  - first:
+      213: -4019696222754605722
+    second: Hyperion-Heras_Ophanos-trans_1_200
+  - first:
+      213: 2514818646514641254
+    second: Hyperion-Heras_Ophanos-trans_1_201
+  - first:
+      213: -2280133502857146348
+    second: Hyperion-Heras_Ophanos-trans_1_202
+  - first:
+      213: 2607240728548132310
+    second: Hyperion-Heras_Ophanos-trans_1_203
+  - first:
+      213: -7934760791263122121
+    second: Hyperion-Heras_Ophanos-trans_1_204
+  - first:
+      213: -1185046850890944784
+    second: Hyperion-Heras_Ophanos-trans_1_205
+  - first:
+      213: -7804480340508477430
+    second: Hyperion-Heras_Ophanos-trans_1_206
+  - first:
+      213: 6330515820166250677
+    second: Hyperion-Heras_Ophanos-trans_1_207
+  - first:
+      213: 2574798419953051771
+    second: Hyperion-Heras_Ophanos-trans_1_208
+  - first:
+      213: -7373612629235478907
+    second: Hyperion-Heras_Ophanos-trans_1_209
+  - first:
+      213: 1482621613750485733
+    second: Hyperion-Heras_Ophanos-trans_1_210
+  - first:
+      213: 9125769642513857364
+    second: Hyperion-Heras_Ophanos-trans_1_211
+  - first:
+      213: -3311441281502174860
+    second: Hyperion-Heras_Ophanos-trans_1_212
+  - first:
+      213: -433509239825913417
+    second: Hyperion-Heras_Ophanos-trans_1_213
+  - first:
+      213: 2584819830980908497
+    second: Hyperion-Heras_Ophanos-trans_1_214
+  - first:
+      213: 7017277833579804437
+    second: Hyperion-Heras_Ophanos-trans_1_215
+  - first:
+      213: -7675586441567316243
+    second: Hyperion-Heras_Ophanos-trans_1_216
+  - first:
+      213: 8299477542398850579
+    second: Hyperion-Heras_Ophanos-trans_1_217
+  - first:
+      213: -8608515776055642448
+    second: Hyperion-Heras_Ophanos-trans_1_218
+  - first:
+      213: -7491961455015612867
+    second: Hyperion-Heras_Ophanos-trans_1_219
+  - first:
+      213: -7238230682886418472
+    second: Hyperion-Heras_Ophanos-trans_1_220
+  - first:
+      213: -5071051838300092244
+    second: Hyperion-Heras_Ophanos-trans_1_221
+  - first:
+      213: 111383641088067375
+    second: Hyperion-Heras_Ophanos-trans_1_222
+  - first:
+      213: -4277879642862227827
+    second: Hyperion-Heras_Ophanos-trans_1_223
+  - first:
+      213: 5829293031038286609
+    second: Hyperion-Heras_Ophanos-trans_1_224
+  - first:
+      213: 3097395547665714962
+    second: Hyperion-Heras_Ophanos-trans_1_225
+  - first:
+      213: -3889025090456106455
+    second: Hyperion-Heras_Ophanos-trans_1_226
+  - first:
+      213: -3772246577893494757
+    second: Hyperion-Heras_Ophanos-trans_1_227
+  - first:
+      213: -904751463988005917
+    second: Hyperion-Heras_Ophanos-trans_1_228
+  - first:
+      213: -2727085531910604642
+    second: Hyperion-Heras_Ophanos-trans_1_229
+  - first:
+      213: -3615481669503626833
+    second: Hyperion-Heras_Ophanos-trans_1_230
+  - first:
+      213: -2061568231154744739
+    second: Hyperion-Heras_Ophanos-trans_1_231
+  - first:
+      213: 2069819684131730476
+    second: Hyperion-Heras_Ophanos-trans_1_232
+  - first:
+      213: 767187293320731494
+    second: Hyperion-Heras_Ophanos-trans_1_233
+  - first:
+      213: -2142358277956128582
+    second: Hyperion-Heras_Ophanos-trans_1_234
+  - first:
+      213: 917506941198586112
+    second: Hyperion-Heras_Ophanos-trans_1_235
+  - first:
+      213: -7802921427781597897
+    second: Hyperion-Heras_Ophanos-trans_1_236
+  - first:
+      213: 7443413562245191338
+    second: Hyperion-Heras_Ophanos-trans_1_237
+  - first:
+      213: -598653099989746938
+    second: Hyperion-Heras_Ophanos-trans_1_238
+  - first:
+      213: 5121939720740821806
+    second: Hyperion-Heras_Ophanos-trans_1_239
+  - first:
+      213: -3813543800067493693
+    second: Hyperion-Heras_Ophanos-trans_1_240
+  - first:
+      213: -6833796714756105657
+    second: Hyperion-Heras_Ophanos-trans_1_241
+  - first:
+      213: -8555202239186520981
+    second: Hyperion-Heras_Ophanos-trans_1_242
+  - first:
+      213: 3795574794753739917
+    second: Hyperion-Heras_Ophanos-trans_1_243
+  - first:
+      213: 8141973395840507720
+    second: Hyperion-Heras_Ophanos-trans_1_244
+  - first:
+      213: 8371937988598859478
+    second: Hyperion-Heras_Ophanos-trans_1_245
+  - first:
+      213: 544235966182846739
+    second: Hyperion-Heras_Ophanos-trans_1_246
+  - first:
+      213: -3694932129420166958
+    second: Hyperion-Heras_Ophanos-trans_1_247
+  - first:
+      213: -7030220963015360326
+    second: Hyperion-Heras_Ophanos-trans_1_248
+  - first:
+      213: 1547377519753618455
+    second: Hyperion-Heras_Ophanos-trans_1_249
+  - first:
+      213: 4887987040473596995
+    second: Hyperion-Heras_Ophanos-trans_1_250
+  - first:
+      213: -7768818841579758976
+    second: Hyperion-Heras_Ophanos-trans_1_251
+  - first:
+      213: -3744376842846219706
+    second: Hyperion-Heras_Ophanos-trans_1_252
+  - first:
+      213: 1460049442529936192
+    second: Hyperion-Heras_Ophanos-trans_1_253
+  - first:
+      213: 2214849720404936952
+    second: Hyperion-Heras_Ophanos-trans_1_254
+  - first:
+      213: 6534995098847828061
+    second: Hyperion-Heras_Ophanos-trans_1_255
+  - first:
+      213: 5259672209732295644
+    second: Hyperion-Heras_Ophanos-trans_1_256
+  - first:
+      213: 8337693240947601324
+    second: Hyperion-Heras_Ophanos-trans_1_257
+  - first:
+      213: 942641525374227689
+    second: Hyperion-Heras_Ophanos-trans_1_258
+  - first:
+      213: -2081831962564527685
+    second: Hyperion-Heras_Ophanos-trans_1_259
+  - first:
+      213: -1684357141263465515
+    second: Hyperion-Heras_Ophanos-trans_1_260
+  - first:
+      213: 8503442247492488314
+    second: Hyperion-Heras_Ophanos-trans_1_261
+  - first:
+      213: 1606271294426939448
+    second: Hyperion-Heras_Ophanos-trans_1_262
+  - first:
+      213: 4081261762873308835
+    second: Hyperion-Heras_Ophanos-trans_1_263
+  - first:
+      213: -988752220247066329
+    second: Hyperion-Heras_Ophanos-trans_1_264
+  - first:
+      213: 2878825877742076672
+    second: Hyperion-Heras_Ophanos-trans_1_265
+  - first:
+      213: -1707734318790353008
+    second: Hyperion-Heras_Ophanos-trans_1_266
+  - first:
+      213: -677190187323372466
+    second: Hyperion-Heras_Ophanos-trans_1_267
+  - first:
+      213: 4911472850227293927
+    second: Hyperion-Heras_Ophanos-trans_1_268
+  - first:
+      213: -4231670108650411029
+    second: Hyperion-Heras_Ophanos-trans_1_269
+  - first:
+      213: 3254887523775904659
+    second: Hyperion-Heras_Ophanos-trans_1_270
+  - first:
+      213: -8252284660456114923
+    second: Hyperion-Heras_Ophanos-trans_1_271
+  - first:
+      213: -2584588476200171358
+    second: Hyperion-Heras_Ophanos-trans_1_272
+  - first:
+      213: -7174287316292863753
+    second: Hyperion-Heras_Ophanos-trans_1_273
+  - first:
+      213: -8107492434122970792
+    second: Hyperion-Heras_Ophanos-trans_1_274
+  - first:
+      213: 4147270089853471739
+    second: Hyperion-Heras_Ophanos-trans_1_275
+  - first:
+      213: 7983590865670335886
+    second: Hyperion-Heras_Ophanos-trans_1_276
+  - first:
+      213: -5112922794853651035
+    second: Hyperion-Heras_Ophanos-trans_1_277
+  - first:
+      213: 5633127827434024122
+    second: Hyperion-Heras_Ophanos-trans_1_278
+  - first:
+      213: 8613119220305094736
+    second: Hyperion-Heras_Ophanos-trans_1_279
+  - first:
+      213: -2191449866838900012
+    second: Hyperion-Heras_Ophanos-trans_1_280
+  - first:
+      213: 2424692521822312161
+    second: Hyperion-Heras_Ophanos-trans_1_281
+  - first:
+      213: -6088104277326034001
+    second: Hyperion-Heras_Ophanos-trans_1_282
+  - first:
+      213: 6298279173286596077
+    second: Hyperion-Heras_Ophanos-trans_1_283
+  - first:
+      213: 6037255521098900052
+    second: Hyperion-Heras_Ophanos-trans_1_284
+  - first:
+      213: 7376559930683904463
+    second: Hyperion-Heras_Ophanos-trans_1_285
+  - first:
+      213: 1806780479380264748
+    second: Hyperion-Heras_Ophanos-trans_1_286
+  - first:
+      213: -3017875563128428445
+    second: Hyperion-Heras_Ophanos-trans_1_287
+  - first:
+      213: -6319887406280110548
+    second: Hyperion-Heras_Ophanos-trans_1_288
+  - first:
+      213: 3453265364112199374
+    second: Hyperion-Heras_Ophanos-trans_1_289
+  - first:
+      213: 827810155263470847
+    second: Hyperion-Heras_Ophanos-trans_1_290
+  - first:
+      213: -1904156882125914789
+    second: Hyperion-Heras_Ophanos-trans_1_291
+  - first:
+      213: -3095279579912785120
+    second: Hyperion-Heras_Ophanos-trans_1_292
+  - first:
+      213: -6059161121239583595
+    second: Hyperion-Heras_Ophanos-trans_1_293
+  - first:
+      213: 4362022310666065579
+    second: Hyperion-Heras_Ophanos-trans_1_294
+  - first:
+      213: 7988255997177757764
+    second: Hyperion-Heras_Ophanos-trans_1_295
+  - first:
+      213: 7592708600644959456
+    second: Hyperion-Heras_Ophanos-trans_1_296
+  - first:
+      213: -4345329673532092490
+    second: Hyperion-Heras_Ophanos-trans_1_297
+  - first:
+      213: 763976944211852674
+    second: Hyperion-Heras_Ophanos-trans_1_298
+  - first:
+      213: 3591965363520708005
+    second: Hyperion-Heras_Ophanos-trans_1_299
+  - first:
+      213: -3163458262681375244
+    second: Hyperion-Heras_Ophanos-trans_1_300
+  - first:
+      213: -5401835510552845218
+    second: Hyperion-Heras_Ophanos-trans_1_301
+  - first:
+      213: -291049601062001261
+    second: Hyperion-Heras_Ophanos-trans_1_302
+  - first:
+      213: -2745092143950056948
+    second: Hyperion-Heras_Ophanos-trans_1_303
+  - first:
+      213: 164710733575634419
+    second: Hyperion-Heras_Ophanos-trans_1_304
+  - first:
+      213: -1155199942967335213
+    second: Hyperion-Heras_Ophanos-trans_1_305
+  - first:
+      213: 2721223173944561695
+    second: Hyperion-Heras_Ophanos-trans_1_306
+  - first:
+      213: -1114060741422720714
+    second: Hyperion-Heras_Ophanos-trans_1_307
+  - first:
+      213: 6898046526814459780
+    second: Hyperion-Heras_Ophanos-trans_1_308
+  - first:
+      213: 3055072654156785419
+    second: Hyperion-Heras_Ophanos-trans_1_309
+  - first:
+      213: -3758447735243692423
+    second: Hyperion-Heras_Ophanos-trans_1_310
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba708a4f16650ed60800000000000000
+      internalID: 7917423123633801131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be366e827dfd26e10800000000000000
+      internalID: 2189558484052632555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90752f9673df665e0800000000000000
+      internalID: -1916566176957049079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be78681137fd94fa0800000000000000
+      internalID: -5815871758464022549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 8000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c668e6da0c32e0800000000000000
+      internalID: -2144827404396871473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd41cb26b4f33900800000000000000
+      internalID: 663142633408908764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e44fa8238676e50800000000000000
+      internalID: 6802520328455343686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0381fb9a6264540800000000000000
+      internalID: 4991719747484135679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8766df10d2dbc80800000000000000
+      internalID: -8305432651231758155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_9
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f364d2421a6d60800000000000000
+      internalID: 7884134175905937145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d49e9a8418d3e0800000000000000
+      internalID: -2028849046531810910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127823995694801f0800000000000000
+      internalID: -1078531410044483807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09973b9a60ac44b90800000000000000
+      internalID: -7258454569448670832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_13
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a06f349a615e420800000000000000
+      internalID: 2658556071277628033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_14
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1847f761bdd587630800000000000000
+      internalID: 3924990270810059905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7d704a765cd0b0800000000000000
+      internalID: -5702587945089926592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e710f45d02b60f0800000000000000
+      internalID: -1122767581573185958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f94068b56015430800000000000000
+      internalID: 3769801353246056213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_18
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52465e9a5cfe41cc0800000000000000
+      internalID: -3741101758200060891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_19
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2000
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e4bcf6c2909b40800000000000000
+      internalID: 5445013332831823741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be37c41f02bbfd300800000000000000
+      internalID: 279147452081927147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_21
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f149f3ff6284bfe0800000000000000
+      internalID: -1174170185490677262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-trans_1_22
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae705da1411546b0800000000000000
+      internalID: -5312821211635351903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc2b517c7d9e67d44b9486a2e86551d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hyperion-Heras_Ophanos-trans_1_0: 7917423123633801131
+      Hyperion-Heras_Ophanos-trans_1_1: 2189558484052632555
+      Hyperion-Heras_Ophanos-trans_1_10: -2028849046531810910
+      Hyperion-Heras_Ophanos-trans_1_11: -1078531410044483807
+      Hyperion-Heras_Ophanos-trans_1_12: -7258454569448670832
+      Hyperion-Heras_Ophanos-trans_1_13: 2658556071277628033
+      Hyperion-Heras_Ophanos-trans_1_14: 3924990270810059905
+      Hyperion-Heras_Ophanos-trans_1_15: -5702587945089926592
+      Hyperion-Heras_Ophanos-trans_1_16: -1122767581573185958
+      Hyperion-Heras_Ophanos-trans_1_17: 3769801353246056213
+      Hyperion-Heras_Ophanos-trans_1_18: -3741101758200060891
+      Hyperion-Heras_Ophanos-trans_1_19: 5445013332831823741
+      Hyperion-Heras_Ophanos-trans_1_2: -1916566176957049079
+      Hyperion-Heras_Ophanos-trans_1_20: 279147452081927147
+      Hyperion-Heras_Ophanos-trans_1_21: -1174170185490677262
+      Hyperion-Heras_Ophanos-trans_1_22: -5312821211635351903
+      Hyperion-Heras_Ophanos-trans_1_3: -5815871758464022549
+      Hyperion-Heras_Ophanos-trans_1_4: -2144827404396871473
+      Hyperion-Heras_Ophanos-trans_1_5: 663142633408908764
+      Hyperion-Heras_Ophanos-trans_1_6: 6802520328455343686
+      Hyperion-Heras_Ophanos-trans_1_7: 4991719747484135679
+      Hyperion-Heras_Ophanos-trans_1_8: -8305432651231758155
+      Hyperion-Heras_Ophanos-trans_1_9: 7884134175905937145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

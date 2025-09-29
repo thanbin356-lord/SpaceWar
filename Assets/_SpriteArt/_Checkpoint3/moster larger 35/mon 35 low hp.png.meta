@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 11a19271742bca34795c37a80fdfd7af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3480673064301379
+    second: mon 35 low hp_0
+  - first:
+      213: -8758014108587068142
+    second: mon 35 low hp_1
+  - first:
+      213: 2956937808999378990
+    second: mon 35 low hp_2
+  - first:
+      213: 5319065881067062142
+    second: mon 35 low hp_3
+  - first:
+      213: -1504203139111947151
+    second: mon 35 low hp_4
+  - first:
+      213: -6608959326569089997
+    second: mon 35 low hp_5
+  - first:
+      213: 5833282543503292138
+    second: mon 35 low hp_6
+  - first:
+      213: -2828671958509336583
+    second: mon 35 low hp_7
+  - first:
+      213: -7819108495955001162
+    second: mon 35 low hp_8
+  - first:
+      213: -2065146845624451454
+    second: mon 35 low hp_9
+  - first:
+      213: -7728373866082796482
+    second: mon 35 low hp_10
+  - first:
+      213: -1613592686713752630
+    second: mon 35 low hp_11
+  - first:
+      213: 9216668067622956040
+    second: mon 35 low hp_12
+  - first:
+      213: 7430824135657037690
+    second: mon 35 low hp_13
+  - first:
+      213: 8070552654111300800
+    second: mon 35 low hp_14
+  - first:
+      213: 1833562511708171502
+    second: mon 35 low hp_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon 35 low hp_0
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 969
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b39957ad5c0000800000000000000
+      internalID: 3480673064301379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 699
+        width: 452
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215fec7f198457680800000000000000
+      internalID: -8758014108587068142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_2
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 919
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2074505547290920800000000000000
+      internalID: 2956937808999378990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_3
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 959
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7307e9bc3e11d940800000000000000
+      internalID: 5319065881067062142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_4
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 699
+        width: 462
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174743fe63fff1be0800000000000000
+      internalID: -1504203139111947151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_5
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 929
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33438dc12824844a0800000000000000
+      internalID: -6608959326569089997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_6
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 969
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae63008319bf3f050800000000000000
+      internalID: 5833282543503292138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_7
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 719
+        width: 442
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f741f637d98eb8d0800000000000000
+      internalID: -2828671958509336583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_8
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 959
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00d561042fc7390800000000000000
+      internalID: -7819108495955001162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_9
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 989
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e3981b2ef1753e0800000000000000
+      internalID: -2065146845624451454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_10
+      rect:
+        serializedVersion: 2
+        x: 6779
+        y: 749
+        width: 452
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cf8bc5aec4fb490800000000000000
+      internalID: -7728373866082796482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_11
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 899
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33248200e5b99e0800000000000000
+      internalID: -1613592686713752630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 809
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c2a5786ce28ef70800000000000000
+      internalID: 9216668067622956040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_13
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 799
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f9c326e279f1760800000000000000
+      internalID: 7430824135657037690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_14
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 779
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd36911ec500070800000000000000
+      internalID: 8070552654111300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mon 35 low hp_15
+      rect:
+        serializedVersion: 2
+        x: 6619
+        y: 809
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeca6d7c36f127910800000000000000
+      internalID: 1833562511708171502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mon 35 low hp_0: 3480673064301379
+      mon 35 low hp_1: -8758014108587068142
+      mon 35 low hp_10: -7728373866082796482
+      mon 35 low hp_11: -1613592686713752630
+      mon 35 low hp_12: 9216668067622956040
+      mon 35 low hp_13: 7430824135657037690
+      mon 35 low hp_14: 8070552654111300800
+      mon 35 low hp_15: 1833562511708171502
+      mon 35 low hp_2: 2956937808999378990
+      mon 35 low hp_3: 5319065881067062142
+      mon 35 low hp_4: -1504203139111947151
+      mon 35 low hp_5: -6608959326569089997
+      mon 35 low hp_6: 5833282543503292138
+      mon 35 low hp_7: -2828671958509336583
+      mon 35 low hp_8: -7819108495955001162
+      mon 35 low hp_9: -2065146845624451454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: f888030bddba9fc43b0808c995cebaba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4334303774894075407
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_0
+  - first:
+      213: -4714219028416079463
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_1
+  - first:
+      213: 4490921803851768282
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_2
+  - first:
+      213: -5186531662286487269
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_3
+  - first:
+      213: -6539533955076496302
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_4
+  - first:
+      213: 850979956738188486
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_5
+  - first:
+      213: -8671637679836755881
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_6
+  - first:
+      213: 6950808455512141441
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_7
+  - first:
+      213: 3536191249920486213
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_8
+  - first:
+      213: 3633903833572245005
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_9
+  - first:
+      213: 7081860761945418047
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_10
+  - first:
+      213: -6324632736787896772
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_11
+  - first:
+      213: 1226884682864791448
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_12
+  - first:
+      213: -3324627380915850461
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_13
+  - first:
+      213: -5195917272742949167
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_14
+  - first:
+      213: -897334071898101116
+    second: Hyperion-Heras_Ophanos-phase_2_tk_dmg_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-phase_2_tk_dmg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e2233b15a862c30800000000000000
+      internalID: 4334303774894075407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-phase_2_tk_dmg_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9995fd945cab39eb0800000000000000
+      internalID: -4714219028416079463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-phase_2_tk_dmg_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad124a03695f25e30800000000000000
+      internalID: 4490921803851768282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyperion-Heras_Ophanos-phase_2_tk_dmg_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11091dbeecb508b0800000000000000
+      internalID: -5186531662286487269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ce89c71d604fb24ab1c6e8c26dc6163
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":2000.0,"y":2000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hyperion-Heras_Ophanos-phase_2_tk_dmg_0: 4334303774894075407
+      Hyperion-Heras_Ophanos-phase_2_tk_dmg_1: -4714219028416079463
+      Hyperion-Heras_Ophanos-phase_2_tk_dmg_2: 4490921803851768282
+      Hyperion-Heras_Ophanos-phase_2_tk_dmg_3: -5186531662286487269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

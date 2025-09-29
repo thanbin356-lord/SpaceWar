@@ -28,9 +28,9 @@ public class BossAttack : MonoBehaviour
     {
         if (!isPhase2 && bossHealth.CurrentHealth <= bossHealth.maxHealth / 2)
         {
-            bulletCount = 20;
+            bulletCount = 32;
             fireRate = 0.05f;
-            bulletSpeed = 15f;
+            bulletSpeed = 10f;
             isPhase2 = true;
             StopAllCoroutines();
             Invoke(nameof(StartFire), 5f);
