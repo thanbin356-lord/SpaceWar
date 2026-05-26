@@ -1,7 +1,7 @@
 
 # SpaceWar
 
-SpaceWar is a small personal shoot 'em up game project developed with Unity.https://github.com/thanbin356-lord/SpaceWar/blob/main/README.md
+SpaceWar is a small personal shoot 'em up game project developed with Unity.
 The main goal of this project was to strengthen my programming skills and gain more hands-on experience with Unity game development.
 
 In this game, players control a spaceship and fight against waves of enemies in fast-paced arcade-style gameplay.
