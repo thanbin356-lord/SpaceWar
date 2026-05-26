@@ -26,4 +26,4 @@ This project was created as a self-learning experience to improve my understandi
 ## File Demo and Trailer
 
 Game Demo: https://drive.google.com/file/d/1Qqil5wCyp6vl2-IbLHaosZHFo5EcV8IQ/view?usp=sharing
-Trailer:
+Trailer: https://youtu.be/udHlIee_ohk
